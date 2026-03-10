@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 4837,
+    "title": "Rama no coment",
+    "slug": "rama-no-coment",
+    "category_id": 7,
+    "created_at": "2019-06-05T16:25:27.092Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 843,
+    "like_count": 0,
+    "word_count": 68
+  },
+  "posts": [
+    {
+      "id": 92285,
+      "post_number": 1,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2019-06-05T16:25:27.197Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/2X/8/8525708ba8b092e9ec2f5627e32daf6b783979d1.png\" class=\"site-icon\" width=\"31\" height=\"31\">\n      <a href=\"https://shqiptarja.com/lajm/opozita-reagon-per-pergjimet-e-publikuara-ne-bild-vasili-populli-te-reagoje-me-cdo-mjet-per-largimin-e-qeveri\" target=\"_blank\" rel=\"nofollow noopener\">shqiptarja.com</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:780/440;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/c/c57e3bea2b608372b1ba8fba9b74667c4e003757.jpeg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://shqiptarja.com/lajm/opozita-reagon-per-pergjimet-e-publikuara-ne-bild-vasili-populli-te-reagoje-me-cdo-mjet-per-largimin-e-qeveri\" target=\"_blank\" rel=\"nofollow noopener\">Përgjimet e 'Bild'/ Basha: U tronditën të gjithë, të huajt hoqën dyshimet!...</a></h3>\n\n<p>Audio-përgjimet vijnë një ditë pasi kreu i Partisë Demokartike, Lulzim Basha mbërriti në Gjermani për të vijuar takimet me zyrtarë të Berlinit. </p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 92306,
+      "post_number": 2,
+      "username": "del-ta",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/del-ta/{size}/74_2.png",
+      "created_at": "2019-06-05T19:25:48.058Z",
+      "cooked": "<p>se mos fillon protestat në berlin  ky loqja, tall bythën o ram se tu bë rësk!   opozitë kaposh!<br>\nai anglezi i fahri paçes nga bëhet??   këshilli i lartë revolucionar i ajatollah saliut, mori ndonjë vendim??</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 92573,
+      "post_number": 3,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2019-06-09T15:45:48.636Z",
+      "cooked": "<p>Knej paskan plas pergjimet <img src=\"https://peshkupauje.com/images/emoji/apple/grinning.png?v=9\" title=\":grinning:\" class=\"emoji\" alt=\":grinning:\"> po zjen kazani i politikes shqiptare</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

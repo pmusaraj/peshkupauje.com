@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 1719,
+    "title": "Trajtesë mbi kohën dhe dritën (3)",
+    "slug": "trajtese-mbi-kohen-dhe-driten-3",
+    "category_id": 12,
+    "created_at": "2017-02-05T20:48:07.477Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 1287,
+    "like_count": 0,
+    "word_count": 52
+  },
+  "posts": [
+    {
+      "id": 19917,
+      "post_number": 1,
+      "username": "ars",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/ars/{size}/197_2.png",
+      "created_at": "2017-02-05T20:48:07.537Z",
+      "cooked": "<p>ksxksjcdkjcdlvkvfdhvdfkhvflkvhfhvjfhvjfhvfjhvfjvhfdjhvfdjhvdj</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 19937,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-02-05T21:40:58.671Z",
+      "cooked": "<p>Jetojme ne nje univers virtual. Limiti i shpejtesise se drites tregon limitin e makines. Kur ti bejne upgrade hardwarit ne universin 2.0 shpejtesia e drites do jete me e madhe.</p>\n<p>Si ka thene xhaxhi musku, kur sot videogames jan me grafike kaq rreale, si do jene ato pas 1000 vjetesh?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20052,
+      "post_number": 3,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-02-06T11:43:35.611Z",
+      "cooked": "",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20859,
+      "post_number": 4,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2017-02-14T03:44:30.581Z",
+      "cooked": "",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

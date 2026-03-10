@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 65,
+    "title": "Piper Saratoga",
+    "slug": "piper-saratoga",
+    "category_id": 6,
+    "created_at": "2016-09-18T15:08:42.946Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 962,
+    "like_count": 3,
+    "word_count": 112
+  },
+  "posts": [
+    {
+      "id": 103,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-09-18T15:08:43.047Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/1X/608ae023726da5e3d34934abeeb842bc5d5578f7.jpg\" width=\"600\" height=\"413\"></p>\n<p><a href=\"http://www.mapo.al/2016/09/piper-saratoga-ii-tc-mjeti-i-preferuar-i-trafikanteve-te-droges/1/#gallery_photo\" rel=\"nofollow noopener\">Sipas Gazetes MAPO</a>, ky eshte lloji i avionit qe te duhet nese ke qellim te transportosh droge.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 126,
+      "post_number": 2,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2016-09-20T23:30:52.237Z",
+      "cooked": "<p>Nuk e keq Blendi. Keta piper i gjen dhe me 25k$. Dmth me nje rruge e ke te paguar avionin <img src=\"https://peshkupauje.com/images/emoji/apple/wink.png?v=5\" title=\":wink:\" class=\"emoji\" alt=\":wink:\">. Pastaj mund te punosh me hedhje me parashute.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 130,
+      "post_number": 3,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2016-09-21T02:54:02.233Z",
+      "cooked": "<p>Demek e paske bere analizen e kosto/perfitimit…</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 132,
+      "post_number": 4,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2016-09-21T03:04:09.120Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/images/emoji/apple/wink.png?v=5\" title=\":wink:\" class=\"emoji\" alt=\":wink:\"> po ca te them o bredho. Kaq kushton, sa nje mercedes i perdorur ne shqiperi. Faj kemi ne qe cmimi eshte kaq poshte?</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    }
+  ]
+}

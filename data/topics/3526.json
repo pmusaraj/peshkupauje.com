@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": 3526,
+    "title": "Hijenat",
+    "slug": "hijenat",
+    "category_id": 11,
+    "created_at": "2017-11-02T12:25:58.986Z",
+    "tags": [],
+    "posts_count": 8,
+    "views": 2591,
+    "like_count": 4,
+    "word_count": 162
+  },
+  "posts": [
+    {
+      "id": 57366,
+      "post_number": 1,
+      "username": "r.v",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/e36b37/{size}.png",
+      "created_at": "2017-11-02T12:25:59.048Z",
+      "cooked": "<p>Në Shqipëri disa fëmijë në vend që të luajnë dhe të shkojnë në shkollë, janë të detyruar të punojnë për të ndihmuar familjen e tyre. Ndiqni reportazhin që u transmetua në emisionin e datës 31 Tetor në ‘Le Iene’ i cili është një emision investigativ-satirik që trasmetohet në kanalin “Italia 1.”</p>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://www.iene.mediaset.it/res/img/favicon.ico\" class=\"site-icon\" width=\"48\" height=\"48\">\n      <a href=\"https://www.iene.mediaset.it/video/bambini-lavoratori-che-aiutano-la-famiglia_12669.shtml\" target=\"_blank\" rel=\"nofollow noopener\">Le Iene</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/450;\"><img src=\"https://img.iene.mediaset.it/bin/36.%24plit/C_47_video_12669_upiThumbnail.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.iene.mediaset.it/video/bambini-lavoratori-che-aiutano-la-famiglia_12669.shtml\" target=\"_blank\" rel=\"nofollow noopener\">Le Iene Martinelli: Bambini lavoratori che aiutano la famiglia - puntata del 31...</a></h3>\n\n<p>In Albania alcuni bambini invece di giocare e andare a scuola sono costretti a lavorare per aiutare la famiglia. Le Iene puntata del 31 ottobre 2017.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 57417,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-11-02T15:10:04.747Z",
+      "cooked": "<p>tregoja krye m-hit rama, qe nje kokerr muti bere per shtresen e varfer. i rrofte emri i majte</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 58704,
+      "post_number": 3,
+      "username": "r.v",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/e36b37/{size}.png",
+      "created_at": "2017-11-15T09:20:05.531Z",
+      "cooked": "<p>Ja tregova ja tregova e pe si reagoi ?</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 116112,
+      "post_number": 4,
+      "username": "r.v",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/e36b37/{size}.png",
+      "created_at": "2021-04-02T21:43:40.697Z",
+      "cooked": "<p><a class=\"mention\" href=\"/u/inkuizitorimoth\">@InkuizitoriMoth</a> <a class=\"mention\" href=\"/u/mirejam_tirana\">@Mirejam_Tirana</a> Sa do kete ndryshuar situata? <a class=\"mention\" href=\"/u/arban\">@Arban</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 116117,
+      "post_number": 5,
+      "username": "Arban",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/2bfe46/{size}.png",
+      "created_at": "2021-04-03T01:37:01.223Z",
+      "cooked": "<p>Pa revolucionin e @të barastundurit, presidentit, Qimit dhe Stresit, situata nuk ka per te ndryshuar. Ky të jete valle ai 1 shkrimi i @të barastundurit që ndryshoi botën. Nuk e besoj.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 116151,
+      "post_number": 6,
+      "username": "Mirejam_Tirana",
+      "name": "Mirëjam Tirana",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/a8b319/{size}.png",
+      "created_at": "2021-04-04T08:01:09.824Z",
+      "cooked": "<p><a href=\"https://peshkupauje.com/t/diskutime-te-lira-mars-2021/5673/419\">360°</a></p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 124241,
+      "post_number": 7,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2022-11-21T08:01:18.463Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/0/a/0a40c6dcd85f23aff6258486cd420921d4f993cf.jpeg\" alt=\"immagine\" data-base62-sha1=\"1sHyCobNdswc8OF6uv6js5ssz27\" width=\"468\" height=\"312\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 124242,
+      "post_number": 8,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2022-11-21T09:09:24.190Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://mondointasca.it/2010/03/15/il-pensier-si-fa-camminando/\">\n  <header class=\"source\">\n\n      <a href=\"https://mondointasca.it/2010/03/15/il-pensier-si-fa-camminando/\" target=\"_blank\" rel=\"noopener nofollow ugc\" title=\"12:00AM - 15 March 2010\">Mondointasca – 15 Mar 10</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/526;\"><img src=\"https://peshkupauje.com/uploads/default/optimized/3X/5/a/5a073923347eee2590807328f879a6e67619daef_2_800x526.jpeg\" class=\"thumbnail\" width=\"800\" height=\"526\" srcset=\"https://peshkupauje.com/uploads/default/optimized/3X/5/a/5a073923347eee2590807328f879a6e67619daef_2_800x526.jpeg, https://peshkupauje.com/uploads/default/optimized/3X/5/a/5a073923347eee2590807328f879a6e67619daef_2_1200x789.jpeg 1.5x, https://peshkupauje.com/uploads/default/original/3X/5/a/5a073923347eee2590807328f879a6e67619daef.jpeg 2x\" data-dominant-color=\"828D98\"></div>\n\n<h3><a href=\"https://mondointasca.it/2010/03/15/il-pensier-si-fa-camminando/\" target=\"_blank\" rel=\"noopener nofollow ugc\">Filosofia Il pensier si fa camminando Aristotele discuteva camminando.</a></h3>\n\n  <p>Rousseau si sentiva vivo e libero quando vagabondava a piedi, in solitudine. Nei romanzi di Joyce e Woolf il flusso di pensieri e ricordi si dipana proprio durante le passeggiate. È un legame antico quello che unisce i piedi alle attività della mente</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": 7,
+      "like_count": 0
+    }
+  ]
+}

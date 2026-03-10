@@ -1,0 +1,206 @@
+{
+  "meta": {
+    "id": 3252,
+    "title": "Ku informoheni online?",
+    "slug": "ku-informoheni-online",
+    "category_id": 5,
+    "created_at": "2017-08-16T15:51:07.418Z",
+    "tags": [
+      "informimi",
+      "mediaonline"
+    ],
+    "posts_count": 17,
+    "views": 1313,
+    "like_count": 8,
+    "word_count": 501
+  },
+  "posts": [
+    {
+      "id": 48095,
+      "post_number": 1,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2017-08-16T15:51:07.516Z",
+      "cooked": "<p>Behet gjithmone e me e veshtire dhe e lodhshme te marresh informacion mbi aktualitetin ne Shqiperi. Mediat online, megjithese te shumta ne numer, qarkullojne dhe riqarkullojne te njejtin informacion duke i shtuar nga nje nuance subjektive sipas qejfit/interesit. Deri me tani, jam munduar te lexoj mbi te njejtin lajm ne 3-4 burime te ndryshme per te zhveshur opinionin nga faktet dhe informacioni gazetaresk, mirepo kjo gje eshte bere e lodhshme.</p>\n<p>Prandaj, jane te mirepritura sugjerimet mbi ndonje media online te cilen e konsideroni te besueshme, mundesisht dhe te paanshme.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48101,
+      "post_number": 2,
+      "username": "urbantelescope",
+      "name": "urbantelescope",
+      "avatar_template": "/user_avatar/peshkupauje.com/urbantelescope/{size}/6358_2.png",
+      "created_at": "2017-08-16T16:13:13.069Z",
+      "cooked": "<p>Me e paanshme duket sikur eshte <a href=\"https://www.reporter.al/\" rel=\"nofollow noopener\">https://www.reporter.al/</a>  po te gjitha ne fund fare kane nje fare varesie duke qene se jane media qe financohen nga dikush e cdokush ka interesa personale.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48103,
+      "post_number": 3,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-08-16T16:29:34.465Z",
+      "cooked": "<p>Te ERTV dhe Monitor.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48111,
+      "post_number": 4,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-08-16T17:07:19.740Z",
+      "cooked": "<p>Monitor dhe ERTV,   kur dua te jem me i paanshem EBTV!</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 48113,
+      "post_number": 5,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-08-16T17:23:00.242Z",
+      "cooked": "<p>anabel, ku tjeter?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48119,
+      "post_number": 6,
+      "username": "salben",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/f05b48/{size}.png",
+      "created_at": "2017-08-16T17:44:43.012Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"squarepusher\" data-post=\"1\" data-topic=\"3252\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/user_avatar/peshkupauje.com/squarepusher/48/13677_2.png\" class=\"avatar\"> squarepusher:</div>\n<blockquote>\n<p>Behet gjithmone e me e veshtire dhe e lodhshme te marresh informacion mbi aktualitetin ne Shqiperi</p>\n</blockquote>\n</aside>\n<p>Perkundrazi, mua me duket e lehte. Interneti te jep mundesine te heqesh e te vesh burimet qe te pelqejne, te mbash vetem gjerat qe te ngjallin interes. Sot ka faqe per cdo fushe te jetes, e secila fushe ka faqe serioze dhe portale idiote pa fund. Zgjidh seriozet, blloko portalet idiote, dhe ja. Njerezit ngaterrohen me qindra portalet qe jane hapur nga kalamaj, te cilet gjurmojne klikime duke hedhur rrjeta, dhe peshqit shqiptare qe besojne cdo gje jane shume, sidomos brezi me i madh qe s’ka shume qe eshte futur ne kete teknologji.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48122,
+      "post_number": 7,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-08-16T17:49:42.166Z",
+      "cooked": "<p>Pse ERTV kalama ka qene ai qe e ka hapur!? As nje serb apo grek nuk do fliste keshtu.</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 48137,
+      "post_number": 8,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-08-16T18:17:57.669Z",
+      "cooked": "<p>Harrova te shtoj livekeak dhe keto “mediat kendej”.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48138,
+      "post_number": 9,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-08-16T18:19:42.667Z",
+      "cooked": "<p>Uee po une si brez i vjeter mendoja qe anabel eshte site porno !</p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    },
+    {
+      "id": 48144,
+      "post_number": 10,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-08-16T18:45:47.945Z",
+      "cooked": "<p>Monitor po, ndersa tjetra ERTV ishte e huaj ne frengjisht. Pyetesi po pyet per sitet/sajtet shqiptare dhe jo te huaja.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 48164,
+      "post_number": 11,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-08-16T19:40:40.901Z",
+      "cooked": "<p><a href=\"https://www.facebook.com/ANABELMAMA/\">Po mama?</a></p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    },
+    {
+      "id": 48175,
+      "post_number": 12,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2017-08-16T20:04:33.479Z",
+      "cooked": "<p>ndonje sugjerim konkret?</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 48182,
+      "post_number": 13,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-08-16T20:14:18.068Z",
+      "cooked": "<p>Ka ERTV edhe ne shqip Pjer, po kete EBTV qe thote <a class=\"mention\" href=\"/u/vlonjat\">@Vlonjat</a> nuk e kisha degjuar me pare.</p>",
+      "reply_to_post_number": 10,
+      "like_count": 0
+    },
+    {
+      "id": 48187,
+      "post_number": 14,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-08-16T20:20:45.121Z",
+      "cooked": "<p>Zeqo me sill noi link, ta shoh.</p>",
+      "reply_to_post_number": 13,
+      "like_count": 0
+    },
+    {
+      "id": 48189,
+      "post_number": 15,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-08-16T20:25:42.533Z",
+      "cooked": "<p><a class=\"mention\" href=\"/u/zeqo\">@zeqo</a> ky EBTV eshte me shume me lajme ekonomike nga shqp por dhe me gjere. Eshte ne dy gjuhe.</p>",
+      "reply_to_post_number": 13,
+      "like_count": 0
+    },
+    {
+      "id": 48191,
+      "post_number": 16,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-08-16T20:27:23.004Z",
+      "cooked": "<p>Tek PPU-ja, ku tjeter?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 48458,
+      "post_number": 17,
+      "username": "salben",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/f05b48/{size}.png",
+      "created_at": "2017-08-17T15:47:58.403Z",
+      "cooked": "<p>po ja shembulli konkret. Gjithe portalet hapin fjale qe morina do te ekstradohet. Faqet serioze si Top Channel , Klan e Vizion plus nuk perhapen lajme si portalet, por priten sa te flisnin me avokatin. Folen me avokatin dhe nxoren lajmin e vertete qe nuk do te ekstradohet.</p>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"http://top-channel.tv/icons/android-icon-192x192.png\" class=\"site-icon\" width=\"192\" height=\"192\">\n      <a href=\"http://top-channel.tv/2017/08/17/avokati-ismail-morina-nuk-do-te-ekstradohet/\" target=\"_blank\" rel=\"nofollow noopener\">top-channel.tv</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:442/265;\"><img src=\"http://top-channel.tv/wp-content/uploads/2017/10/1502992761170817_MORINA_19_9.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://top-channel.tv/2017/08/17/avokati-ismail-morina-nuk-do-te-ekstradohet/\" target=\"_blank\" rel=\"nofollow noopener\">Avokati: Ismail Morina nuk do të ekstradohet</a></h3>\n\n<p>Gjithçka ka shkuar në pikën zero për çështjen e ekstradimit të Ismail Morinës për në Serbi, në lidhje me akuzat që i janë bërë për nxitje urrejtjeje mes popujve.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>Prandaj them qe per cdo kategori duhen marre 2-3 serioze, bishtat pastaj lerja budallenjve. Per lajme jane televizionet e medha te seciles parti, portalet e vogla te bejne corbe. Them se kjo vlen per cdo kategori, per argetim, filma a cfare interesi ka njeriu.</p>\n<p>Po nese te duken “establishment” keto atehere vazhdo me portalet por mos u anko per mungese cilesie them une.</p>",
+      "reply_to_post_number": 12,
+      "like_count": 0
+    }
+  ]
+}

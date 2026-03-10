@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 2161,
+    "title": "Marsi i mori borxh shkurtit apo prillit?",
+    "slug": "marsi-i-mori-borxh-shkurtit-apo-prillit",
+    "category_id": 5,
+    "created_at": "2017-04-18T15:39:00.325Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 674,
+    "like_count": 0,
+    "word_count": 194
+  },
+  "posts": [
+    {
+      "id": 27401,
+      "post_number": 1,
+      "username": "alidemsi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/9f8e36/{size}.png",
+      "created_at": "2017-04-18T15:39:00.400Z",
+      "cooked": "<p><a href=\"http://www.gazetadita.al/plakat-e-prillit-si-lindi-legjenda-qe-trazon-motin-ne-pranvere/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.gazetadita.al/plakat-e-prillit-si-lindi-legjenda-qe-trazon-motin-ne-pranvere/</a><br>\nDuke lexuar kete pjese,kam debatuar me nje mikun tim per çeshtjen:<br>\nmarsi, i ka marre hua shkurtit siç thote dhe pjesa apo prillit, pasi miku im mbron tezen se nuk i merret borxh nje te ikuri, pra shkurtit meqe iku por atij qe vjen pra prillit. Kush e ka lexuar pjesen ne librat e vjeter dhe si e mban mend,se une e di qe i mori borxh Shkurtit, meqe u terbua nga qe plakat e shperfillen dhe ditet e shkurtit jane me te ftohta se te prillit,ndaj dhe ka mbetur shkurti i shkurter.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27426,
+      "post_number": 2,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-04-18T20:56:20.496Z",
+      "cooked": "<p>Mars prill maj asaj plaçkes mos ju ndaj.<img src=\"https://peshkupauje.com/images/emoji/apple/stuck_out_tongue_winking_eye.png?v=5\" title=\":stuck_out_tongue_winking_eye:\" class=\"emoji\" alt=\":stuck_out_tongue_winking_eye:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27430,
+      "post_number": 3,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-04-18T21:30:01.497Z",
+      "cooked": "<p>Po po,  mjes drek dark, para buke e mbas buke <img src=\"https://peshkupauje.com/images/emoji/apple/wink.png?v=5\" title=\":wink:\" class=\"emoji\" alt=\":wink:\"></p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 27480,
+      "post_number": 4,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-04-19T00:23:24.788Z",
+      "cooked": "<p>Prillit. Nuk ka si t’i merrte borxh shkurtit kur ka kaluar.</p>\n<p>Kushdo qe ka shkruar artikullin ka bere ngaterresa. <em>Muaji Prill i kerkoi muajt Shkurt</em>. - e si keshtu, po Marsi ne mes? Marsi i kerkoi Prillit.</p>\n<blockquote>\n<p>Ishte Prill por dimri vendosi te kthehej perseri.</p>\n</blockquote>\n<p>Ishte fundi i Marsit. Dihet qe pranvera fillon ne 23 Mars. Plakat jane fundi i Marsit dhe fillimi i Prillit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

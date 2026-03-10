@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 1072,
+    "title": "Si u arrestuan shpërndarësit e kokainës në klubet e natës në Bllok. Njëri prezantohej si polic (VIDEO)",
+    "slug": "si-u-arrestuan-shperndaresit-e-kokaines-ne-klubet-e-nates-ne-bllok-njeri-prezantohej-si-polic-video",
+    "category_id": 7,
+    "created_at": "2016-12-09T06:22:15.752Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 572,
+    "like_count": 1,
+    "word_count": 49
+  },
+  "posts": [
+    {
+      "id": 12343,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-12-09T06:22:15.846Z",
+      "cooked": "<p><a href=\"http://www.tiranaobserver.al/si-u-arrestuan-shperndaresit-e-kokaines-ne-klubet-e-nates-ne-bllok-njeri-prezantohej-si-polic-video/\" class=\"onebox\" target=\"_blank\">http://www.tiranaobserver.al/si-u-arrestuan-shperndaresit-e-kokaines-ne-klubet-e-nates-ne-bllok-njeri-prezantohej-si-polic-video/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12344,
+      "post_number": 2,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2016-12-09T07:29:12.594Z",
+      "cooked": "<p>Bravo policia, po ai Balili u iku neper shale, njeçik me te vemendshem.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12346,
+      "post_number": 3,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2016-12-09T11:05:48.167Z",
+      "cooked": "<p>Nuk kishte faj policia. Balili e kish ly trupin me vaj qe tu reshkiste kollaj.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    }
+  ]
+}

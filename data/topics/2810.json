@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 2810,
+    "title": "Udhëzues i stilit të postimeve tek Peshku",
+    "slug": "udhezues-i-stilit-te-postimeve-tek-peshku",
+    "category_id": 13,
+    "created_at": "2017-06-17T13:52:48.241Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 1405,
+    "like_count": 3,
+    "word_count": 186
+  },
+  "posts": [
+    {
+      "id": 37910,
+      "post_number": 1,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2017-06-17T13:52:48.356Z",
+      "cooked": "<p>Udhëzuesi më poshtë trajton formën e preferueshme të postimeve në këtë faqe.</p>\n<ol>\n<li>Për çdo shkrim jo-origjinal, përfshini gjithmonë burimin, të shoqëruar me lidhjen - link. Kjo vlen edhe për foto, tweets apo elemente të tjera shoqëruese si grafikët.</li>\n<li>Mos BËRTISNI: në tituj dhe brenda në shkrim, shmangni shkronjat e mëdha.</li>\n<li>Shmangni epitetet bombastike dhe të ekzagjeruara, sidomos në titujt e artikujve. (Për shembull, në vend që titulli të jetë “E FRIKSHME/ 56% e shqiptarëve duan të largohen nga vendi!”, vendosni thjesht: “Sondazhi: 56% e shqiptarëve duan të largohen nga vendi”.</li>\n<li>Vendosni gjithmonë një rresht hapësirë mes fotos dhe tekstit para dhe pas saj.</li>\n<li>Shmangni fjalët e huaja, sidomos në tituj.</li>\n<li>Ndryshe nga standarti i gjuhës shqipe, Peshku preferon t’i shkruajë emrat e përveçëm siç shkruhen në origjinal, e jo si shqiptohen në shqip. Pra, tek Peshku, ju lutemi të shkruani <strong>George Orwell</strong>, e jo Xhorxh Oruell.</li>\n</ol>\n<p>Ky udhëzues mirëmbahet e përditësohet nga stafi. Nëse dëshironi të diskutoni mbi një nga pikat më sipër, ju lutemi të hapni një temë më vete në kategorinë <a href=\"https://peshkupauje.com/c/mbipeshkun\">Meta</a>.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37911,
+      "post_number": 2,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2017-06-17T13:53:00.241Z",
+      "cooked": "",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 53998,
+      "post_number": 3,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-10-03T14:58:33.638Z",
+      "cooked": "",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

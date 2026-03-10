@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 2814,
+    "title": "Rregulla të reja për futbollin",
+    "slug": "rregulla-te-reja-per-futbollin",
+    "category_id": 10,
+    "created_at": "2017-06-18T08:47:39.440Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 1759,
+    "like_count": 1,
+    "word_count": 286
+  },
+  "posts": [
+    {
+      "id": 37947,
+      "post_number": 1,
+      "username": "Reni",
+      "name": "Reni Kaziu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/a9adbd/{size}.png",
+      "created_at": "2017-06-18T08:47:39.535Z",
+      "cooked": "<p><strong>Ligjvënësit në botën e futbollit po mendojnë disa propozime të reja për ta bërë lojën më interesante. International Football Association Board (IFAB) ka parashtruar një sërë ndryshimesh radikale për rregullat e lojës, në një program të quajtur ‘Fair Play!’.</strong></p>\n<p>IFAB thotë se programi Fair Play! ka tre qëllime, të përmirësojë sjelljen dhe të rrisë respektin e lojtarëve, të rrisë kohën që luhet vërtetë futboll dhe të rrisë drejtësinë e emocionin gjatë ndeshjes.</p>\n<p>Rregullat e reja propozojnë që ndeshjet të luhen në dy pjesë nga 30 minuta, dhe kronometri të ndalojë çdo herë që topi del jashtë vijave kufizuese. Kështu, do të reduktohet harxhimi i kohës dhe loja do bëhet më e shpejtë. Ndryshime të tjera janë edhe rastet kur lojtari mund ta nisë vetë lojën nga goditja e dënimit apo goditja e këndit. Portierët nuk duhet nga mbajnë topin për më gjatë se 6 sekonda. Gjithashtu, në stadiume do të ketë një orë që ndalon e rifillon sipas orës zyrtare të arbitrit.</p>\n<p>IFAB shprehet se këto dhe ndryshime të tjera nuk kanë nevojë për ndryshime ligjesh, dhe se disa janë gati për tu eksperimentuar, ndërsa disa rregulla të tjera kërkojnë ende kohë për diskutime. Një prej rregullave që po eksperimentohet këto ditë në Kupën e Konfederatave që po mbahet në Rusi, është se vetëm kapitenët e skuadrave kanë të drejtë të flasin apo debatojnë me arbitrin kryesor të ndeshjes.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/9/9b27bede6022f670fd1b29f0fe0c675d16089b66.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/9b27bede6022f670fd1b29f0fe0c675d16089b66\" title=\"4338.jpg\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/9/9b27bede6022f670fd1b29f0fe0c675d16089b66.jpg\" width=\"799\" height=\"479\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/9/9b27bede6022f670fd1b29f0fe0c675d16089b66_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">4338.jpg</span><span class=\"informations\">1225×735 151 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37969,
+      "post_number": 4,
+      "username": "bradland",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/9de0a6/{size}.png",
+      "created_at": "2017-06-18T18:37:43.365Z",
+      "cooked": "<p>Ndryshime te pa rendesishme.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37971,
+      "post_number": 5,
+      "username": "Fikret",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/c2a13f/{size}.png",
+      "created_at": "2017-06-18T19:15:35.410Z",
+      "cooked": "<p>Aha, po si bon rrjetat me zile kembore</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 38048,
+      "post_number": 7,
+      "username": "Fikret",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/c2a13f/{size}.png",
+      "created_at": "2017-06-19T18:43:06.808Z",
+      "cooked": "<p>Brravo Dojçi, i boni tre</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 38099,
+      "post_number": 8,
+      "username": "46and2",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/4/858c86/{size}.png",
+      "created_at": "2017-06-20T12:01:33.340Z",
+      "cooked": "<p>po te bojne nanji rrgullore qe te filloje neshja ne minuten e 25 do kishte shpetu brazili nga turpi i modh.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 4521,
+    "title": "OSHEE nen akuze se i ngarkoi humbjet konsumatoreve",
+    "slug": "oshee-nen-akuze-se-i-ngarkoi-humbjet-konsumatoreve",
+    "category_id": 7,
+    "created_at": "2018-12-28T03:18:29.735Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 639,
+    "like_count": 0,
+    "word_count": 36
+  },
+  "posts": [
+    {
+      "id": 81961,
+      "post_number": 1,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2018-12-28T03:18:29.814Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://www.reporter.al/skema-e-mbifaturimit-oshee-nen-akuze-se-i-ngarkoi-humbjet-konsumatoreve/\" target=\"_blank\" title=\"01:56PM - 13 February 2018\" rel=\"nofollow noopener\">reporter.al – 13 Feb 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/617;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/9/9eb1206f42035ab0727273b48b41469ca2f87aa1.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.reporter.al/skema-e-mbifaturimit-oshee-nen-akuze-se-i-ngarkoi-humbjet-konsumatoreve/\" target=\"_blank\" rel=\"nofollow noopener\">Skema e mbifaturimit; OSHEE nën akuzë se i ngarkoi humbjet konsumatorëve -...</a></h3>\n\n<p>Kompania publike e shpërndarjes së energjisë elektrike OSHEE, është nën hetim nga prokuroria për akuzat se mbifaturon një pjesë të klientëve të saj, duke i krijuar mundësi vetes të ulë artificialisht nivelin e humbjeve në rrjet. Fatos Krasniqi është...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 81971,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2018-12-28T13:46:07.663Z",
+      "cooked": "<p>Faturat ne shqiperi jane me te larta se ne usa, por populli nuk cohet ne kembe. Popull ■■■, mire tu behet</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

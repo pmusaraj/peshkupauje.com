@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 4548,
+    "title": "Afektet e demokracisë",
+    "slug": "afektet-e-demokracise",
+    "category_id": 11,
+    "created_at": "2019-01-11T11:36:20.177Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 1506,
+    "like_count": 0,
+    "word_count": 137
+  },
+  "posts": [
+    {
+      "id": 82587,
+      "post_number": 1,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2019-01-11T11:36:20.271Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/2X/0/02067755ce594d22738c72ecf6dccd0e5faa6b13.png\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://sbunker.net/teh/89835/afektet-e-demokracise/\" target=\"_blank\" title=\"01:54PM - 08 January 2019\" rel=\"nofollow noopener\">Sbunker – 8 Jan 19</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:700/525;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/7/77f710d9d1fac087026fa0a39668c6d6526cda69.jpeg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://sbunker.net/teh/89835/afektet-e-demokracise/\" target=\"_blank\" rel=\"nofollow noopener\">Afektet e demokracisë - Sbunker</a></h3>\n\n<p>Artikulli orgjinal në ‘Critique &amp; Humanism’, via Eurozine\n\nMungesa e përplasjes së ashpër mes projekteve të ndryshme politike në demokracitë liberale ka çuar deri te kriza e...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 82613,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2019-01-12T21:43:56.668Z",
+      "cooked": "<p>ky artikull i gjate, me kujtoi rinine, kohen kur filozofonim pa mbarim  <img src=\"https://peshkupauje.com/images/emoji/apple/grinning.png?v=6\" title=\":grinning:\" class=\"emoji\" alt=\":grinning:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 82614,
+      "post_number": 3,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2019-01-12T23:02:49.300Z",
+      "cooked": "<p>Eshte normale qe ne rini (adoleshentet) te filozofohet vazhdimisht, sepse “e para eshte fjala”. Por, meqe “e dyta eshte veprimi” (dhe “e treta eshte vepra”), eshte krejt anormale qe ne maturi, dhe per me teper ne pleqeri, te mbetesh adoleshent i perjetshem duke bere vazhdimisht lloqe kavaje pa konkludu ne veprime dhe vepra. Ne fakt te tille jane intelektualet sot, te gjithe llafazane kokebosh, perfshire ketu edhe ata te zotet ne zanat e pertej zanatit si gjeniale. Vetem llafe, kur vjen fjala per vepra, shtate m’qase! Dhe nuk eshte me Gesatapo dhe Sigurimi qe i pengon, “nuk na lejne mer jau, nuk na lejne!”, pengohen vete, ngaterrohen me kembet e veta neper leshte e seksit.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    }
+  ]
+}

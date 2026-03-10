@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 2052,
+    "title": "Reagim befasues nga publiku për Ermonela Jahon",
+    "slug": "reagim-befasues-nga-publiku-per-ermonela-jahon",
+    "category_id": 11,
+    "created_at": "2017-03-31T11:25:03.564Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 1054,
+    "like_count": 2,
+    "word_count": 180
+  },
+  "posts": [
+    {
+      "id": 25705,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-03-31T11:25:03.610Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/1/1e47b69c553472f2994c55ee39cf27c7dfd39146.jpg\" width=\"640\" height=\"427\"></p>\n<p>Shfaqjet e vëna në skenën e Operas Mbretërore të Londrës transmetohen live në cilësi të lartë edhe në kinema anë e mbanë botës. Për të kuptuar si e ka pritur publiku i kinemasë shfaqejn e Madama Butterfly ku rolin e protagonistes Cio Cio Sane luajti Ermonela Jaho, <a href=\"http://www.roh.org.uk/news/your-reaction-what-did-you-think-of-madama-butterfly-live-in-cinemas\" rel=\"nofollow noopener\">Opera prestigjoze ka ftuar publikun të japë përshtypjet në faqen e tyre Online. Reagimet e artëdashësve do t’ju befasojnë. </a>. Ermonela Jaho është tanimë në kulmin e karrierës dhe ka fituar admirimin e publikut të operas kudo në botë.</p>\n<div class=\"lazyYT\" data-youtube-id=\"0d7thAWY8V8\" data-youtube-title=\"Madama Butterfly Trailer 2017 (The Royal Opera)\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25708,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-03-31T12:12:54.261Z",
+      "cooked": "<p>Kineze eshte kjo?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25717,
+      "post_number": 3,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-03-31T13:33:37.951Z",
+      "cooked": "<p>Jo jo, kinez eshte ai mes Trumpit dhe Flynit, kjo eshte japoneze.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 25728,
+      "post_number": 4,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-03-31T15:24:30.503Z",
+      "cooked": "<p>kam degju per miqesine shqiptaro-kineze, jo ate shqiptaro japoneze</p>\n<p>nga na doli jahoja japoneze?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25824,
+      "post_number": 5,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-04-01T21:10:42.519Z",
+      "cooked": "<p>Violeta ka qene roli rutine, Madam Butterfly hera 1re te degjoj per Ermonela Jahon dhe kam idene akoma me i veshtire, na behet qefi per te</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

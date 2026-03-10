@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 2844,
+    "title": "Shkatërrohet xhamia e famshme e Mosul-it",
+    "slug": "shkaterrohet-xhamia-e-famshme-e-mosul-it",
+    "category_id": 7,
+    "created_at": "2017-06-22T15:07:56.301Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 770,
+    "like_count": 0,
+    "word_count": 196
+  },
+  "posts": [
+    {
+      "id": 38355,
+      "post_number": 1,
+      "username": "Reni",
+      "name": "Reni Kaziu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/a9adbd/{size}.png",
+      "created_at": "2017-06-22T15:07:56.377Z",
+      "cooked": "<p><strong>“Pranim zyrtar i disfatës së tyre” – kështu e ka quajtur kryeministri iraken Haider al-Abadi aktin e shkatërrimit të xhamisë Grand al-Nuri dhe minares së saj të veçantë, prej trupave të ISIS.</strong></p>\n<p>Pamjet ajrore tashmë nuk tregojnë gjë tjetër veçse rrënojave të xhamisë mbi 800 vjeçare. Pikërisht në atë vend, në vitin 2014, udhëheqësi i ISIS Abu Bakr al-Baghdadi shpalli kalifatin, prej nga ku bëri deklaratën e tij të parë dhe të fundit.</p>\n<p>Shteti Islamik deklaroi menjëherë se ishin avionët luftarakë të Amerikës përgjegjës për shkatërrim e xhamisë mbrëmjen e së mërkurës, por zyrtarë të SHBAve thanë për CNN se ky lajm është i pavërtetë, dhe se në atë zonë nuk ka pasur asnjë sulm ajror.</p>\n<p>Xhamia Grand al-Nuri ishte ndërtuar në vitin 1172 dhe njihej për minaren e saj të veçantë, që anonte në një anë, si kulla e Pizës në Itali.</p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/1/1b46301a57bc825de87f903791e391ceb8b44dbd.jpg\" width=\"780\" height=\"438\"></p>\n<p><a href=\"http://edition.cnn.com/2017/06/21/world/mosul-iraq-mosque-destroyed/index.html\" rel=\"nofollow noopener\">CNN</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 38365,
+      "post_number": 2,
+      "username": "zeqir",
+      "name": "zeqir",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/z/4bbf92/{size}.png",
+      "created_at": "2017-06-22T15:34:30.275Z",
+      "cooked": "<p>Per te rene kishte sido qe te jete, po behet e reja ne Tirane.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 45178,
+      "post_number": 3,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-08-03T18:33:01.420Z",
+      "cooked": "<p>ue,  asnji koment me ose per  VQ ne?!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

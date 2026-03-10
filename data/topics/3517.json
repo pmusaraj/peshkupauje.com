@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 3517,
+    "title": "E sëmura me kancer revoltohet para Vllahutin e Nikollës: Nuk kemi kohë të bëjmë show me jetën",
+    "slug": "e-semura-me-kancer-revoltohet-para-vllahutin-e-nikolles-nuk-kemi-kohe-te-bejme-show-me-jeten",
+    "category_id": 7,
+    "created_at": "2017-10-29T11:23:02.871Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 640,
+    "like_count": 0,
+    "word_count": 35
+  },
+  "posts": [
+    {
+      "id": 56988,
+      "post_number": 1,
+      "username": "kapo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/kapo/{size}/4005_2.png",
+      "created_at": "2017-10-29T11:23:02.941Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"http://www.dritare.net/wp-content/uploads/2016/09/favicon-32x32.png\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"http://www.dritare.net/2017/10/29/nertila-me-kancer-gjiri-ka-nje-mesazh-mos-beni-show-me-shendetin-sot-jeni-ne-pushtet-neser-paciente/1\" target=\"_blank\" title=\"10:59AM - 29 October 2017\" rel=\"nofollow noopener\">Dritare.net – 29 Oct 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:634/381;\"><img src=\"http://www.dritare.net/wp-content/uploads/2017/10/50-10.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://www.dritare.net/2017/10/29/nertila-me-kancer-gjiri-ka-nje-mesazh-mos-beni-show-me-shendetin-sot-jeni-ne-pushtet-neser-paciente/1\" target=\"_blank\" rel=\"nofollow noopener\">Nertila me kancer gjiri ka një mesazh: Mos bëni show me shëndetin! Sot jeni në...</a></h3>\n\n<p>Nga Isa Myzyraj\n\nKanceri i gjirit është një ndër problemet e mëdha me të cilat po përballen gratë dhe vajzat shqiptare, ndërsa numri i të diagnostikuarave është rritur.\nMuaji tetor, konsiderohet si muaji rozë, pasi në këtë muaj bëhet një fushatë e...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 56991,
+      "post_number": 2,
+      "username": "TironciLebetit",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/tironcilebetit/{size}/64_2.png",
+      "created_at": "2017-10-29T13:18:15.680Z",
+      "cooked": "<div class=\"lazyYT\" data-youtube-id=\"ZNyLtuLziug\" data-youtube-title=\"“Një rilindje spektakolare”, për çfarë e ka fjalën kryeministri? Ja videoja që publikon Rama\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

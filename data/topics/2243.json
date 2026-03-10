@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 2243,
+    "title": "Shqipëria përmirësohet në klasifikimin botëror të lirisë së medias",
+    "slug": "shqiperia-permiresohet-ne-klasifikimin-boteror-te-lirise-se-medias",
+    "category_id": 7,
+    "created_at": "2017-04-26T15:22:36.777Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 630,
+    "like_count": 0,
+    "word_count": 129
+  },
+  "posts": [
+    {
+      "id": 28661,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-04-26T15:22:36.822Z",
+      "cooked": "<p>Organizata “Reporterë pa kufij” vlerësoi në indeksin e vitit 2017 publikuar të mërkurën se liria e medias në Shqipëri u përmirësua me 6 vende në shkallën botërore të 180 shteteve, duke u renditur e 76-a.</p>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://www.reporter.al/shqiperia-permiresohet-ne-klasifikimin-boteror-te-lirise-se-medias/\" target=\"_blank\" title=\"02:35PM - 26 April 2017\" rel=\"nofollow noopener\">reporter.al – 26 Apr 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/423;\"><img src=\"https://www.reporter.al/wp-content/uploads/shqiperia-media.png\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.reporter.al/shqiperia-permiresohet-ne-klasifikimin-boteror-te-lirise-se-medias/\" target=\"_blank\" rel=\"nofollow noopener\">Shqipëria përmirësohet në klasifikimin botëror të lirisë së medias - reporter.al</a></h3>\n\n<p>Indeksi i organizatës “Reporterë pa kufij” për vitin 2017 e ngriti Shqipërinë në gjashtë pozicione në fushën e lirisë së medias, ndërsa situata e gazetarisë në botë vazhdon të jetë në epokën më shqetësuese në historinë e indeksit. Organizata...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28665,
+      "post_number": 2,
+      "username": "maksmeto",
+      "name": "Maks",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/e19b73/{size}.png",
+      "created_at": "2017-04-26T16:37:26.939Z",
+      "cooked": "<p>Pushteti i medias ne Shqiperi eshte i kapur nga kryeministri. Pike.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28666,
+      "post_number": 3,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-04-26T16:43:22.253Z",
+      "cooked": "<p>Po kjo organizata nderkombetare thote te kunderten o Makso. Me fjale te tjera thote qe liria e medias ne Shqiperi ehte rritur. Pra eshte bere me e lire/pavarur se me pare ne kohen e kriminelit sali. Apo dhe kjo organizate eshte e blere nga Rama?</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 28669,
+      "post_number": 4,
+      "username": "maksmeto",
+      "name": "Maks",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/e19b73/{size}.png",
+      "created_at": "2017-04-26T17:37:05.704Z",
+      "cooked": "<p>Vleresimet e saj behen ne baze te perception dhe krahasimi eshte me vitin e kaluar.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28745,
+      "post_number": 5,
+      "username": "anon63896856",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "created_at": "2017-04-27T11:33:28.950Z",
+      "cooked": "<p>Po, tashme gazetaret shkruajne me lirshem pro pushtetit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

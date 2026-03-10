@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 4708,
+    "title": "Studentët në protestë, bashkia prishi fidanishten e Universitetit",
+    "slug": "studentet-ne-proteste-bashkia-prishi-fidanishten-e-universitetit",
+    "category_id": 7,
+    "created_at": "2019-04-09T12:42:01.519Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 650,
+    "like_count": 0,
+    "word_count": 30
+  },
+  "posts": [
+    {
+      "id": 87775,
+      "post_number": 1,
+      "username": "espana",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/e/ed655f/{size}.png",
+      "created_at": "2019-04-09T12:42:01.613Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"http://shekulli.com.al/wp-content/themes/tok_shekulli/images/icons/favicon.ico\" class=\"site-icon\">\n      <a href=\"http://shekulli.com.al/studentet-ne-proteste-bashkia-prishi-fidanishten-e-universitetit-bujqesor/\" target=\"_blank\" title=\"08:04AM - 05 April 2019\" rel=\"nofollow noopener\">Shekulli – 5 Apr 19</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"http://shekulli.com.al/admin/wp-content/uploads/2019/04/ub.jpg\" class=\"thumbnail\">\n\n<h3><a href=\"http://shekulli.com.al/studentet-ne-proteste-bashkia-prishi-fidanishten-e-universitetit-bujqesor/\" target=\"_blank\" rel=\"nofollow noopener\">Studentët  në protestë, bashkia prishi fidanishten e Universitetit...</a></h3>\n\n<p>Bashkia e Tiranës shpronëson tokën për ndërtimin e një shkolle brenda kampusit të UBT-së. Studentët dhe pedagogët kundërshtojnë ekzekutimin. Vendimi i Qeverisë i vitit 2017 e cilëson fidanishten pjesë të universitetit. Ndërtimi në oborret e...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 87810,
+      "post_number": 2,
+      "username": "espana",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/e/ed655f/{size}.png",
+      "created_at": "2019-04-09T19:42:40.839Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://static.xx.fbcdn.net/rsrc.php/yz/r/KFyVIAWzntM.ico\" class=\"site-icon\" width=\"16\" height=\"16\">\n      <a href=\"https://www.facebook.com/joqalbania/videos/260323254748725/\" target=\"_blank\" rel=\"nofollow noopener\">facebook.com</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"https://peshkupauje.com/uploads/default/original/2X/1/1e41879c9d27e43bde0ee108b557301d66df4278.jpeg\" class=\"thumbnail onebox-avatar\" width=\"800\" height=\"800\">\n\n<h3><a href=\"https://www.facebook.com/joqalbania/videos/260323254748725/\" target=\"_blank\" rel=\"nofollow noopener\">JOQ Albania</a></h3>\n\n<p>Ky vend tashmë është rrethuar për t'u ngritur kushedi çfarë.\n1 minutë video nga vjet në sivjet se si gënjen kryetari i bashkisë më të madhe në vend.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 87821,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2019-04-09T20:53:09.180Z",
+      "cooked": "<p>Ed rama duhet te jape dorejeqjen, te beje qenushin kryeminister</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

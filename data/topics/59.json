@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 59,
+    "title": "Ngrohja e planetit në një grafik të vetëm",
+    "slug": "ngrohja-e-planetit-ne-nje-grafik-te-vetem",
+    "category_id": 6,
+    "created_at": "2016-09-15T17:07:44.949Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 948,
+    "like_count": 0,
+    "word_count": 96
+  },
+  "posts": [
+    {
+      "id": 94,
+      "post_number": 1,
+      "username": "test",
+      "name": "Test",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/f9ae1b/{size}.png",
+      "created_at": "2016-09-15T17:07:45.015Z",
+      "cooked": "<p><a href=\"http://xkcd.com/1732/\" rel=\"nofollow noopener\"><img src=\"https://peshkupauje.com/uploads/default/original/1X/8b8e2a490fc87b2cf8986e43576889798507d5a9.png\" width=\"800\" height=\"610\"></a></p>\n<p><a href=\"http://xkcd.com/1732/\" rel=\"nofollow noopener\">Ky grafik</a> nga ilustratori amerikan xkcd paraqet ndryshimin e temperaturës së Tokës pak a shumë që nga fillimi e deri sot. Është një mënyrë origjinale dhe dramatike për të kuptuar se për se flasim kur flasim për ngrohjen globale.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 405,
+      "post_number": 3,
+      "username": "anon28084293",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/43a26b/{size}.png",
+      "created_at": "2016-09-30T20:45:05.420Z",
+      "cooked": "<p>Besoj se e keni haberin qe ky eshte nje sit humoristik. Me ate grafin po tallen. Po ta rrotullosh 90 grade, duket qe eshte ftohje, jo ngrohje.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 409,
+      "post_number": 4,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2016-09-30T21:08:22.176Z",
+      "cooked": "<p>Ku eshte tallja ne ate grafik?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

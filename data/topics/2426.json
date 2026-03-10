@@ -1,0 +1,280 @@
+{
+  "meta": {
+    "id": 2426,
+    "title": "Si hackerat morën peng mbi 75,000 kompjutera në 99 vende",
+    "slug": "si-hackerat-moren-peng-mbi-75-000-kompjutera-ne-99-vende",
+    "category_id": 6,
+    "created_at": "2017-05-14T10:41:30.359Z",
+    "tags": [],
+    "posts_count": 24,
+    "views": 3469,
+    "like_count": 5,
+    "word_count": 1611
+  },
+  "posts": [
+    {
+      "id": 31708,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-05-14T10:41:30.444Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/b/b0fc9fcd5e379c4838bdf5a9788351e3b7b9e85a.jpg\" width=\"590\" height=\"413\"></p>\n<p>Spitale, institucione dhe kompani private u goditën këto ditë nga një sulm masiv kibernetik që mbante kompjuterat peng derisa viktimat pranonin të paguanin për të rimarrë në zotërim dokumentat e tyre. Virusi i quajtur “WannaCry” kripton të gjitha dokumentat që përmban një kompjuter dhe kërkon nga administratori i kompjuterit të paguajë 300 deri në 600 dollarë për të rimarrë në zotërim përmbajtjen e kompjuterit. Virusi u përhap në mbi 75,000 kompjutera në 99 vende thotë kompania e sigurisë kibernetike Avast.</p>\n<p>Përdoruesit të kompjuterit i shfaqet një ekran ku shpjegohet se dokumentat janë kriptuar dhe se dekriptimi i tyre është i mundur vetëm duke paguar shumën e kërkuar në monedhën e pagjurmueshme Bitcoin. Administratorit i jepen 7 ditë kohë për të kryer pagesën, përndryshe ai kërcënohet se do të humbasë gjithçka ndodhet në kompjuter. Ka një orë që ecën mbrapsht si për të të nënvizuar seriozitetin e çështjes.</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/7/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b\" title=\"wannacry.jpg\"><img src=\"https://peshkupauje.com/uploads/default/optimized/2X/7/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b_2_800x600.jpg\" width=\"800\" height=\"600\" srcset=\"https://peshkupauje.com/uploads/default/optimized/2X/7/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b_2_800x600.jpg, https://peshkupauje.com/uploads/default/optimized/2X/7/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b_2_1200x900.jpg 1.5x, https://peshkupauje.com/uploads/default/optimized/2X/7/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b_2_1600x1200.jpg 2x\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/7/7a8c7ee46bd2d91c1971ce0837c37e102cb2286b_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">wannacry.jpg</span><span class=\"informations\">2048×1536 468 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>“Mund t’i dekriptosh disa nga dokumentat e tu falas,” - thotë mesazhi i virusit “WannaCry” në gjuhë të ndryshme. “Por nëse do që t’i dekriptosh të gjitha dokumentat, duhet të paguash. Ke tre ditë për të bërë pagesën ($300 në bitcoin), pas tre ditësh çmimi dyfishohet.”</p>\n<p>Virusi ka përdorur një dobësi në sistemin Windows të cilën Microsoft e kishte zgjidhur në përditësimin e muajit Mars - por kompjuterat e papërditësuar janë prekur. Siç po raportohet sot, është një virus i zhvilluar nga NSA-ja amerikane, por tani në duar të keqbërësve të panjohur ndërkombëtarë. Ekspertët thonë se ky është problemi me metodat e NSA-së. Krijimi i këtyre “çelësave digjitalë” do të thotë se ata mund të përdoren edhe nga të tjerë. <a href=\"http://money.cnn.com/2017/04/14/technology/windows-exploits-shadow-brokers/index.html?iid=EL\" rel=\"nofollow noopener\">Mjetet që NSA përdorte për të <em>hack</em>-ur sistemet Windows u hodhën online një muaj më parë</a>.</p>\n<p>Në spitalet britanike çështja u bë shumë serioze teksa në disa raste mjekët humbën aksesin në rekordet digjitale të pacientëve, duke i bërë vendimet mjeksore në këto raste tepër të vështira në mos të pamundura. Sipas <a href=\"https://www.theguardian.com/society/2017/may/12/hospitals-across-england-hit-by-large-scale-cyber-attack\" rel=\"nofollow noopener\">gazetës The Guardian</a> ky ishte problemi më i madh teknologjik që Shërbimi Kombëtar Shëndetësor kishte hasur ndonjëherë. Ishte e pamundur gjithashtu të dije me siguri recetat dhe dozat që u ishin përcaktuar pacientëve, duke e bërë rëndësinë e çështjes së sigurisë kibernetike shumë konkrete.</p>\n<p>Rusia (ku u godit edhe Ministria e brendshme) dhe Ukraina ishin dy ndër vendet më të goditura, por gjithashtu pati sulme mbi spitale në Britani, kompani telekomi në Spanjë dhe universitete në Kinë. Sistemet e prekura ishin Windows të papërditësuara së paku qysh nga marsi. Eskpertët thonë se një tjetër sulm i ngjashëm është i pritshëm, ndoshta që të hënën. Ndaj për ata që përdorin Windows një përditësim sa më parë është i domosdoshëm, dhe ruajtja e të gjitha materialeve me vlerë në sisteme <em>cloud</em> apo <em>hard drive</em> portabël tingëllon si ide e mirë.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31714,
+      "post_number": 2,
+      "username": "Kokdruthi",
+      "name": "Hektor ",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/aca169/{size}.png",
+      "created_at": "2017-05-14T11:23:15.187Z",
+      "cooked": "<p>Sisteme cloud! Di kush të më shpjegojë si funksionon. <img src=\"https://peshkupauje.com/images/emoji/apple/joy.png?v=5\" title=\":joy:\" class=\"emoji\" alt=\":joy:\"><img src=\"https://peshkupauje.com/images/emoji/apple/joy.png?v=5\" title=\":joy:\" class=\"emoji\" alt=\":joy:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31715,
+      "post_number": 3,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T11:40:26.173Z",
+      "cooked": "<p>ngaqe administrata perdor sisteme te vjeteruar dhe qe nuk mirembahen me nga firmat perkatese. po ashtu ka dhe personel te pakualifikuar, dhe qe nuk i njohin mire kompjuterat. ai qe eshte i zoti, nuk punon ne shtet por ne privat se fiton dhjetra here me shume. sidomos ne informatike. perveç shqiperise ne fakt, ku shteti te siguron punerat me te mira per momentin. ne privat te pasurohesh duhet te jesh mafioz i regjur.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31716,
+      "post_number": 4,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T11:49:40.863Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"Kokdruthi\" data-post=\"2\" data-topic=\"2426\" data-full=\"true\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/letter_avatar_proxy/v4/letter/k/aca169/48.png\" class=\"avatar\"> Kokdruthi:</div>\n<blockquote>\n<p>Sisteme cloud! Di kush të më shpjegojë si funksionon.</p>\n</blockquote>\n</aside>\n<p>kerko ne google me termin NAS &gt; Le Network Attached Storage (NAS) dhe e kupton sesi perdoret, i kane lehtesuar fare prodhimet e fundit, dhe s’ka nevoje ta njohesh kompjuterin per t’i perdorur.<br>\nune perdor Mac dhe kam nje TimeCapsule qe i ben automatikisht kopimin e sistemit, bile te shume diteve te njepasnjeshme. dmth po te duash te kthehesh mbrapa ne kohe, ti zgjedh diten kur nuk ke pasur probleme dhe rifillon punen qe prej asaj.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 31721,
+      "post_number": 5,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-05-14T12:17:27.000Z",
+      "cooked": "<p>Tani u kujtua Peshku ta nxjerri,  ky lajm ka nja 3 dite ne mediat perendimore.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31723,
+      "post_number": 6,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T12:30:09.551Z",
+      "cooked": "<p>s’paguhet njeri tek peshku per postimet, ndersa ne shtyp paguhen gazetaret. ndryshe as aty s’do te kishe shpejtesi te informacionit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31732,
+      "post_number": 7,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-05-14T13:34:50.186Z",
+      "cooked": "<p>Nje lajm i mire per shqiptaret e varfer;<br>\nKryetari (Daniele Galiano) i komunes se humbur Bormida (rrethi i Gjenoves/Genua) fton njerzit ta popullojne komunen e shpopulluar, duke u ofruar 1700-2000 euro, dhe qira te ulta deri ne 50 euro ne muaj.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31733,
+      "post_number": 8,
+      "username": "maverick",
+      "name": "aba",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/258eb7/{size}.png",
+      "created_at": "2017-05-14T13:42:42.589Z",
+      "cooked": "<p>tani u kujtove ti pjer ta nxjerresh? ky lajm ka nja 6 dite ne mediat perendimore.</p>\n<p>p.s.: se c’lidhje ka ky lajm me nje artikull mbi hackerat, s’ka media perendimore qe e nxjerr.</p>\n<p><a href=\"http://www.independent.co.uk/news/world/europe/italy-mayor-bormida-reward-anyone-to-live-in-village-a7724661.html\" rel=\"nofollow noopener\">http://www.independent.co.uk/news/world/europe/italy-mayor-bormida-reward-anyone-to-live-in-village-a7724661.html</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31734,
+      "post_number": 9,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T13:59:55.987Z",
+      "cooked": "<p>ai qe iken nga shqiperia apo nga vende te tjera te varfera, nuk shkon te populloje fshatra, por te jetoje neper metropole, ku avancohet shpejt, fitohet shume. te ishte se kishte te ardhura te larta, jetohet lehtesisht, nuk i iknin vendalinjte asaj zones.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31787,
+      "post_number": 10,
+      "username": "jps",
+      "name": "jps",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/b4bc9f/{size}.png",
+      "created_at": "2017-05-14T16:25:23.272Z",
+      "cooked": "<p>E ty te duhen backups ne fakt, ne rast se humbet ato teorite e jugosllavise se re.</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 31788,
+      "post_number": 11,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T16:35:03.935Z",
+      "cooked": "<p>ta thashe me duket qe s’jane te miat ato teorite <a href=\"https://www.youtube.com/watch?v=eX6Z2mRK750\" rel=\"nofollow noopener\">https://www.youtube.com/watch?v=eX6Z2mRK750</a>.<br>\nbile vete nuk besoj se te fut dikush me zorr neper bashkime te tilla. te isha serb vete nuk do t’i pranoja shqiptaret te jetonin me mua. himaren psh apo cilindo krahine shqiptare qe nuk e quajne veten shqiptare jam qe tu jipet pavaresi. etj. (edhe shqiperia ta kisha une ne dore do e ndaja ne principata, si dikur, secili t’a administronte vete qytetin e tij, dhe jo nje qeveri qendrore).</p>\n<p>por duhet te presim, se ku ka ze s’eshte pa gje.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31789,
+      "post_number": 12,
+      "username": "jps",
+      "name": "jps",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/b4bc9f/{size}.png",
+      "created_at": "2017-05-14T16:53:02.695Z",
+      "cooked": "<p>e bona zemren gur dhe e degjova linkun … normalisht sic e prisja nje thes me budalleqe nga patriote tastierash si puna jote … ku mor zot i madh e pe ti jugosllavine e madhe qe po krijon europa me ne krye serbine???</p>\n<p>oooo shqiptar behet fjale per TREG te perbashket qe do s’do do besh me tregti me te gjitha vendet se ndryshe cof si komunistat</p>",
+      "reply_to_post_number": 11,
+      "like_count": 0
+    },
+    {
+      "id": 31790,
+      "post_number": 13,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T16:54:59.151Z",
+      "cooked": "<p>e prisja kete pergjigjen tende. po pse çfare ishte jugosllavia e vjeter ? nuk ishte TREG, po europa e bashkuar çfare eshte sipas teje, nuk eshte TREG ?<br>\nmos te jete vetem treg hiqen kufijte, gjuha, qeverite lokare, etj, etj.<br>\nEKONOMIA i shtyn ne fillim te gjitha bashkimet e tilla. por me vone populli me vitalitet me te madh, i mbizoteron. apo nje ideollogji e caktuar.</p>\n<p>zerat e sotem me te zgjuar po thone qe EU ne Perandorine gjermane do te kthehet me kalim te kohes (po nuk shpertheu para kohe, qe dhe besoj vete se do te ngjase). nuk ishte rastesi pra dalja e anglezve.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31791,
+      "post_number": 14,
+      "username": "jps",
+      "name": "jps",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/b4bc9f/{size}.png",
+      "created_at": "2017-05-14T17:11:00.055Z",
+      "cooked": "<p>ca tt them, nje doze skepticizmi eshte gje e mire po kur bie brenda si klluf ne teori konspirative eshte dicka me serioze pastaj</p>",
+      "reply_to_post_number": 13,
+      "like_count": 0
+    },
+    {
+      "id": 31793,
+      "post_number": 15,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-14T17:12:37.063Z",
+      "cooked": "<p>teori konspirative quhen vetem ato qe lidhen me çifutet, jo te gjitha. po qe gjermania eshte motori europes qe sot, kjo nuk eshte gje e fshehte se e tregojne shifrat e zhvillimit. eshte Merkeli qe vendos do t’i jepet akoma borxh Greqise apo jo. asnje tjeter.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31811,
+      "post_number": 16,
+      "username": "jps",
+      "name": "jps",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/b4bc9f/{size}.png",
+      "created_at": "2017-05-15T00:00:49.698Z",
+      "cooked": "<p>po jo o “kuRReshtar” nuk eshte vetem Gjermania ajo qe vendos … nejse kur vendos te perdoresh vetem 1 qelize bota te duket e thjeshte dhe e shpjegon ashtu sic te vjen per mbare.</p>",
+      "reply_to_post_number": 15,
+      "like_count": 0
+    },
+    {
+      "id": 31812,
+      "post_number": 17,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-05-15T00:11:02.816Z",
+      "cooked": "<p>Njerezit jane te trashe. Perdorin sisteme leshi opsolete. Linux eshte falas, ooen e 100 here me i sigurte. I abiliton update te sigurise automatikisht, dhe sna ndien bytha per asgje</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31850,
+      "post_number": 18,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-05-15T14:52:08.679Z",
+      "cooked": "<p>vej re nji gjalleri te papare te ppu qe cuditerisht korrespondon me riardhjen e kureshtarit me “r” te forte. Nje gjalleri e tille nuk ish vene re qe ne kohen e shkaberise (qe meriton te quhet periudha e arte e ppu).<br>\nPpu me ne fund ka zot! shiko si u jep xhevap te gjitheve, qofte dhe atyre qe ne vend te pyetjes, kane thjesht nje konstatim. Konstatim qe jo rralle, shkon ne te njejten linje me ate cka thene vete kurreshtari. Por kurreshtari nuk perton kurre te kundershtoje qofte dhe vetveten. Njeri i admirueshem per zellin dhe durimin qe shfaq ne keto kohera te fjetura, ngjyre gri qe jetojme. Falemnderit kurreshtar!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31898,
+      "post_number": 19,
+      "username": "jps",
+      "name": "jps",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/b4bc9f/{size}.png",
+      "created_at": "2017-05-15T18:23:52.635Z",
+      "cooked": "<p>edhe linux ka rene viktime e ransomware</p>",
+      "reply_to_post_number": 17,
+      "like_count": 0
+    },
+    {
+      "id": 31899,
+      "post_number": 20,
+      "username": "anon63896856",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "created_at": "2017-05-15T18:25:40.225Z",
+      "cooked": "<p>Vetem nje njeri i madh di te kundershtoje veten.</p>",
+      "reply_to_post_number": 18,
+      "like_count": 0
+    },
+    {
+      "id": 31901,
+      "post_number": 21,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-05-15T18:27:27.963Z",
+      "cooked": "<p>do e kesh pas baben spiun ti, se u mirrke me te tjeret. veji mend diskutimit jo diskutanteve, edhe kur t’i kesh perballe dhe jo me virtualitet, qe nuk ke si ta dish me cilin bisedon.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 31932,
+      "post_number": 22,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-05-15T20:04:24.358Z",
+      "cooked": "<p>jo vetem ta kundershtoje por dhe t’ja argumentoje ku e ka gabim. Kush e di si i shtrengon grushtet kur kupton se nuk mund ta godase veten. Gishtat i kercasin, vej bast</p>",
+      "reply_to_post_number": 20,
+      "like_count": 0
+    },
+    {
+      "id": 31945,
+      "post_number": 23,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-05-15T21:25:07.781Z",
+      "cooked": "<p>me sa di une, i vetmi pseudo ransomware per linux te bllokon grub, pro mjafton ta mbsihruash me nje live cd e je ne rregull, filet nuk kriptohen</p>\n<p>plus te arrish ta instalosh ne linux duhet te jesh 100% trap, pasi te ekrkon edhe password te root para se te instalosh cdo gje, e me sa di une ska ndonje bug qe te lejon te instalosh software si root pa autorizim</p>",
+      "reply_to_post_number": 19,
+      "like_count": 0
+    },
+    {
+      "id": 31954,
+      "post_number": 25,
+      "username": "anon63896856",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "created_at": "2017-05-15T22:22:01.652Z",
+      "cooked": "<p>Me kujton kete <a href=\"https://en.wikipedia.org/wiki/William_Wilson_(short_story)\">personazhin</a>.</p>",
+      "reply_to_post_number": 22,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+  "meta": {
+    "id": 2153,
+    "title": "Gëzuar Pashkën",
+    "slug": "gezuar-pashken",
+    "category_id": 6,
+    "created_at": "2017-04-16T06:35:04.317Z",
+    "tags": [],
+    "posts_count": 15,
+    "views": 3123,
+    "like_count": 8,
+    "word_count": 955
+  },
+  "posts": [
+    {
+      "id": 27214,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-04-16T06:35:04.407Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/5/5649cefcbcd07d4a5896a5059e9b8a8be4e457bc.JPG\" data-download-href=\"https://peshkupauje.com/uploads/default/5649cefcbcd07d4a5896a5059e9b8a8be4e457bc\" title=\"pashka.JPG\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/5/5649cefcbcd07d4a5896a5059e9b8a8be4e457bc.JPG\" width=\"800\" height=\"533\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/5/5649cefcbcd07d4a5896a5059e9b8a8be4e457bc_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">pashka.JPG</span><span class=\"informations\">960×640 61.9 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Besimtarët e krishterë në të gjithë botën festojnë sot Pashkën, ditën e ringjalljes së Krishtit nga të vdekurit. Ngadhnjimi i Jezusit mbi vdekjen është thelbi i doktrinës së besimit ndaj dhe Pashka konsiderohet festa më e madhe dhe më e rëndësishme për të krishterët. Këtë vit, kalendarët përputhen në mënyrë që ortodoksë e katolikë e festojnë të njëjtën të dielë.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27215,
+      "post_number": 2,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-04-16T06:49:01.763Z",
+      "cooked": "<p>nga mot gezuar te dashur miq</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27216,
+      "post_number": 3,
+      "username": "Leo",
+      "name": "Leonard",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/l/c2a13f/{size}.png",
+      "created_at": "2017-04-16T10:07:19.285Z",
+      "cooked": "<p>çfare eshte Pashka??<br>\nFjala vjen nga greqishjta: pascha, qe rrjedh nga gjuha aramaike pasah dhe do te thote \" te kalosh tutje\". Hebrenjte  kujtonin tejkalimin permes Detit te Kuq nga skllaveria ne Egjipt tek te qenit te lire tek toka e premtuar: Palestina. Per te krishteret eshte, mundja e vdekjes,  kalimi nga vdekja ne jete i Jezu Krishtit.<br>\nNdersa per myslimanet festa e pashkeve perkon me  'Eid al-Adha, ose e thene ndryshe festa e sakrifices: Kurban Bajrami, ku Zoti per te vene ne sprove besimin e Abrahamit(Ibrahimi per myslimanet) ne shenje besimi i kerkoje jeten e te birit Isakut, dhe ne momentin qe Abrahami pranoi te flijonte te birin Zoti e zevendesoi me nje qingj …eshte per tu vene re se  te treja keto fe festojne kete dite (secila me kalendarin e saj) duke ngrene mish qingji…<br>\nJeta dhe vdekja ne te 3 fete jane sprova dhe, jane kalime ciklike.<br>\nQingji duke qene nje kafshe e bute dhe e pafajshme, perkon si me sakrificen dhe me shpetimin…<br>\nNdersa veza, perpos qingjit, simboli i festes se Pashkes eshte simboli i vete i lindjes, te gjithe ne lindim nga nje veze.<br>\nGezuar miq kudo qe jeni.<br>\nFryma e festave na bashkofte gjithmone!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27219,
+      "post_number": 4,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-04-16T11:07:39.458Z",
+      "cooked": "<p>Une kujtoja se ishte nga etruskishtja; Pash, qe ne shqip eshte; Shikova.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 27222,
+      "post_number": 5,
+      "username": "pemaa",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/73ab20/{size}.png",
+      "created_at": "2017-04-16T11:42:49.942Z",
+      "cooked": "<p>Krishti u ngjall! Gezuar!<br>\nJam kurioz katoliket e veriut e perdorin kete thirrjen sic eshte ne jug?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27225,
+      "post_number": 6,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-04-16T15:21:42.623Z",
+      "cooked": "<p>Harrove dhe fitoren Pjero.</p>\n<p>Cfare shikove?</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 27227,
+      "post_number": 7,
+      "username": "Cecua",
+      "name": "Ceco",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/87869e/{size}.png",
+      "created_at": "2017-04-16T15:36:38.946Z",
+      "cooked": "<p>Per shume vjet gezuar! Mirepresim vellaznit musulman per vizite. Armir, hajd ha do vez te zime.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27229,
+      "post_number": 8,
+      "username": "maksmeto",
+      "name": "Maks",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/e19b73/{size}.png",
+      "created_at": "2017-04-16T16:12:07.942Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"Pjer\" data-post=\"4\" data-topic=\"2153\" data-full=\"true\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/letter_avatar_proxy/v4/letter/p/ecb155/48.png\" class=\"avatar\"> Pjer:</div>\n<blockquote>\n<p>Une kujtoja se ishte nga etruskishtja; Pash, qe ne shqip eshte; Shikova.</p>\n</blockquote>\n</aside>\n<p>Etrusket nga pamja fizike, kane pasur tipare aziatike. Ka pak gjasa, qe shqiptaret te kene afersi kulturore me etrusket:<br>\n<img src=\"https://peshkupauje.com/uploads/default/original/2X/8/8b5d871a8dbf1ba0c49f883e782f3c0bd45be2e9.jpeg\" alt=\"\" role=\"presentation\" width=\"680\" height=\"510\"></p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 27230,
+      "post_number": 9,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2017-04-16T16:52:27.400Z",
+      "cooked": "<p>Pashket duhen pare ne kuptimin e tyre metaforik jo te drejtperdrejte .sakrifikimi i jezu krishtit per Te tjeret ,per temiren e pergjithshme dhe ringjallja e tij eshte metafore se e mira pavaresisht se mund Te mos kuptohet per momentin nga bashkekohesit triumfon mbi Te keqen .</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27231,
+      "post_number": 10,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-04-16T17:10:32.768Z",
+      "cooked": "<p>Makso, te dhenat i paske gabim, se etrusket shtriheshin nga Azia e vogel deri ne Europe, ose anasjelltas, nga Europa deri ne Azine e vogel. Dhe lane gjurme ne gjuhet e europes, si ne italishten, shqipen, hollandishten, etj.</p>",
+      "reply_to_post_number": 8,
+      "like_count": 0
+    },
+    {
+      "id": 27232,
+      "post_number": 11,
+      "username": "maksmeto",
+      "name": "Maks",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/e19b73/{size}.png",
+      "created_at": "2017-04-16T17:17:16.872Z",
+      "cooked": "<p>Une dhashe nje gjykim vetem duke u bazuar ne skulpturat e tyre( ato te Italise). Pastaj qe gjithe popujt qe banuan me pas ato troje, te kene marre dicka prej tyre nuk perjashtohet.</p>",
+      "reply_to_post_number": 10,
+      "like_count": 0
+    },
+    {
+      "id": 27270,
+      "post_number": 14,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-04-17T13:38:13.282Z",
+      "cooked": "<p>Te gjithe popujt qe banuan me pas ne ato troje, kene marre me teper se dicka prej etruskeve. Psh romaket ishin katunar fare ne fillim, ishin çeçene te ardhur ne qytetrimin e rafinuar etrusk, tashme ne dekadence. Kultura romake eshte nje sinteze midis kultures se Greqise se lashte dhe kultures etruske qe ka nje ndikim me te fshehte, dhe me te veshtire per tu konstatuar. Prej mendesise etruske romaket morren kultin e ekzistences se botes tjeter, ndersa arti etrusk ishte emocjonalisht shume me lart se arti grek. Prandaj Rinashimento kishte per model edhe artin etrusk.</p>\n<p>Arti i Rinashimentos nuk eshte vetem Rilindje e Greqise se Lashte siç thone tekstet e shkolles, eshte edhe Rilindje e Artit Etrusk. Nuk eshte rastesi qe qendra gjeografike e Rinashimentos, Toskana, eshte njekohesisht qendra e qytetrimit etrusk, vendi ku gjetjet etruske jane me shumice:</p>\n<p><a href=\"https://www.khanacademy.org/humanities/ancient-art-civilizations/etruscan/a/the-etruscans-an-introduction\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://www.khanacademy.org/humanities/ancient-art-civilizations/etruscan/a/the-etruscans-an-introduction</a></p>\n<blockquote>\n<p>Before the small village of Rome became “Rome” with a capital R (to paraphrase D.H. Lawrence), a brilliant civilization once controlled almost the entire peninsula we now call Italy. This was the Etruscan civilization, a vanished culture whose achievements set the stage not only for the development of ancient Roman art and culture but for the Italian Renaissance as well.</p>\n</blockquote>\n<p>Kjo lloj pikture nuk eshte vetem imitim i artit grek te lashte:</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/9/9ac3f1159bc84036c26f4b393473277c8edb8b96.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/9ac3f1159bc84036c26f4b393473277c8edb8b96\" title=\"1200px-Botticelli-primavera.jpg\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/9/9ac3f1159bc84036c26f4b393473277c8edb8b96.jpg\" width=\"800\" height=\"525\" data-dominant-color=\"59463A\"><div class=\"meta\"><svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">1200px-Botticelli-primavera.jpg</span><span class=\"informations\">1200×788 367 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg></div></a></div></p>\n<p>Pra, aq me keq per shqiptaret (ata qe hiqen si origjinale, qe nuk bien kusherij me Çu En Lain, por jane kushurij me Trumpin) qe nuk kane gjase te jene orientale, sepse Orienti historikisht ka fekonduar me ide dhe emocjone Oksidentin. Orienti ka hedhur spermatozoidet, Oksidenti ka i pritur ne ovule, dhe ka lindur e reja, te cilen e ka marre edhe Orienti, e keshtu me tej pambarim si lodra dyfelore e ndersjellte hidh e prit midis mashkullit dhe femres.</p>",
+      "reply_to_post_number": 11,
+      "like_count": 0
+    },
+    {
+      "id": 27274,
+      "post_number": 15,
+      "username": "Xixa-g",
+      "name": "Gjergj Xexo",
+      "avatar_template": "/user_avatar/peshkupauje.com/xixa-g/{size}/192_2.png",
+      "created_at": "2017-04-17T15:11:20.973Z",
+      "cooked": "<p>Me kë flet; à derëbardhë… thonë anej na Vlora!<br>\n… dhe përfundojnë: qija udhët!</p>",
+      "reply_to_post_number": 14,
+      "like_count": 0
+    },
+    {
+      "id": 27275,
+      "post_number": 16,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-04-17T15:21:52.670Z",
+      "cooked": "<p>Per pune t’qimje udhesh po flas edhe une xixe, jom tu thone qe historikisht Orienti ka pallu Oksidentin me Kallom Bambuje nepermjet Rruges se Mendafshit!</p>",
+      "reply_to_post_number": 15,
+      "like_count": 0
+    },
+    {
+      "id": 27307,
+      "post_number": 17,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-04-17T20:07:11.798Z",
+      "cooked": "<p>berbero, shkruj nje shkrim me titull:</p>\n<p><strong><em>Si mund te jesh enverist, dhe njekohesisht te festosh Pashket.</em></strong></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

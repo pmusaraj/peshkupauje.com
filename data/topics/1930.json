@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": 1930,
+    "title": "Kryevepra që nuk ia njihni Kadaresë, Helena",
+    "slug": "kryevepra-qe-nuk-ia-njihni-kadarese-helena",
+    "category_id": 7,
+    "created_at": "2017-03-08T14:19:01.872Z",
+    "tags": [],
+    "posts_count": 6,
+    "views": 958,
+    "like_count": 1,
+    "word_count": 138
+  },
+  "posts": [
+    {
+      "id": 23362,
+      "post_number": 1,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2017-03-08T14:19:01.961Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"http://www.tiranapost.al/wp-content/themes/tirpost/images/icons/android-icon-192x192.png\" class=\"site-icon\" width=\"192\" height=\"192\">\n      <a href=\"http://www.tiranapost.al/kryevepra-qe-nuk-ia-njihni-kadarese-helena/\" target=\"_blank\" title=\"07:00PM - 08 March 2017\" rel=\"nofollow noopener\">Tirana Post – 8 Mar 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/600;\"><img src=\"http://www.tiranapost.al/wp-content/uploads/2017/03/helena-kadare-1-e1488919885450.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://www.tiranapost.al/kryevepra-qe-nuk-ia-njihni-kadarese-helena/\" target=\"_blank\" rel=\"nofollow noopener\">Kryevepra që nuk ia njihni Kadaresë, Helena - Tirana Post</a></h3>\n\n<p>Pjesa e parë e intervistës së gazetares dhe editores së tiranapost.al Mira Kazhani zhvilluar në Paris me shkrimtaren Helena Kadare.\nSot është 8 Marsi, dita e gruas. Ka një seri rastësish të mrekullueshme me këtë të mërkurë: Për shembull në Paris...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 23377,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-03-08T18:37:23.803Z",
+      "cooked": "<p>Bukur, me pelqeu si interviste. Po pres pjesen tjeter.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 23392,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-03-08T19:32:33.262Z",
+      "cooked": "<p>Kur te vdesi ky tipi do beje me shume komente se driteroi</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 23401,
+      "post_number": 4,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2017-03-08T21:00:12.888Z",
+      "cooked": "<p>Komenti i gazetares ne fillim te krijonte pritshmeri te tjera per intervisten. S’e kuptoj pse u ndal aq shume te Lu-ja me pyetje. Sikur eshte gruaja e Luse. Presim gjysmen tjeter.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 23415,
+      "post_number": 5,
+      "username": "bradland",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/9de0a6/{size}.png",
+      "created_at": "2017-03-08T22:48:45.523Z",
+      "cooked": "<p>Kryevepra e vetme e Molit eshte Spiunlleku , ka marre me qafe njerez te pafajshem vetem e vetem se nuk ishin ne linjen e Partise …pra zonje qe nuk  u bere ndonjehere shkrimtare rri atje ne Paris ku je e futi noj baguette me Langres.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 23497,
+      "post_number": 6,
+      "username": "Tirondon",
+      "name": "Turondon",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/51bf81/{size}.png",
+      "created_at": "2017-03-09T17:00:42.192Z",
+      "cooked": "<p>Gazetarja ben ca pyetje aq banale sa ta neverit dhe Helenen e Trojes! Lexova pak dhe e lash ! Nuk shtyhet kurioziteti banal I gazetares Kush te pelqen Parisi apo Tirana ?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

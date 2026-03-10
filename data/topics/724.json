@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 724,
+    "title": "Qeveria greke reagon ndaj Ramës, Kotzias: Me historinë duhet të jemi seriozë",
+    "slug": "qeveria-greke-reagon-ndaj-rames-kotzias-me-historine-duhet-te-jemi-serioze",
+    "category_id": 7,
+    "created_at": "2016-11-04T13:38:54.250Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 651,
+    "like_count": 0,
+    "word_count": 85
+  },
+  "posts": [
+    {
+      "id": 6057,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-11-04T13:38:54.331Z",
+      "cooked": "<p><a href=\"http://www.gazetatema.net/web/2016/11/04/qeveria-greke-ragon-ndaj-rames-kotzias-me-historine-duhet-te-jemi-serioze/\" class=\"onebox\" target=\"_blank\">http://www.gazetatema.net/web/2016/11/04/qeveria-greke-ragon-ndaj-rames-kotzias-me-historine-duhet-te-jemi-serioze/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 6131,
+      "post_number": 2,
+      "username": "del-ta",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/del-ta/{size}/74_2.png",
+      "created_at": "2016-11-04T19:48:44.112Z",
+      "cooked": "<p>koçia-s:kissing_heart:</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 6138,
+      "post_number": 3,
+      "username": "Pjetermustakuqi",
+      "name": "A.P",
+      "avatar_template": "/user_avatar/peshkupauje.com/pjetermustakuqi/{size}/11417_2.png",
+      "created_at": "2016-11-04T20:53:50.498Z",
+      "cooked": "<p>Ed Rama si Laokonti po na kallxon kalin,nderkohe perendite e ligsise i kane nisur gjarprinjte.<br>\nBravo Edvin Kristaqi!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 6141,
+      "post_number": 4,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2016-11-04T21:32:49.174Z",
+      "cooked": "<p>Mos mer burr u talle me Edvin Kristaqin,</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 6142,
+      "post_number": 5,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2016-11-04T21:46:46.064Z",
+      "cooked": "<p>Edi ti thote JO greqise per varret qe kerkon te hap ne shqp dhe njekohesisht ti paketoje ato qe jane hapur tashme dhe tua nise ne greqi.<br>\nPer te tjerat ta marri me kadale kadale.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

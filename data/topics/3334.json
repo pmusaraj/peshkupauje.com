@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 3334,
+    "title": "Termet me fuqi 8.2 balle ne Meksike",
+    "slug": "termet-me-fuqi-8-2-balle-ne-meksike",
+    "category_id": 6,
+    "created_at": "2017-09-08T12:15:53.328Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 1498,
+    "like_count": 0,
+    "word_count": 117
+  },
+  "posts": [
+    {
+      "id": 51433,
+      "post_number": 1,
+      "username": "Leo",
+      "name": "Leonard",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/l/c2a13f/{size}.png",
+      "created_at": "2017-09-08T12:15:53.386Z",
+      "cooked": "<p>Nje termet i fuqishem me fuqi 8.2 balle i shkalles Rihter ka lekundur Meksiken pak pas mesnate, ne  oren 6.49 te mengjesit me oren tone.<br>\nDeri me tani numri i te vdekurve nga termeti eshte 15 vete, 2 nga te cilet femije. Ky eshte nje nga termetet me te fuqishme qe kane prekur Meksiken keto 100 vitet e fundit.  <img src=\"https://peshkupauje.com/uploads/default/original/2X/4/4116515ea225e5b4ee292443154774b8557d07d5.jpg\" alt=\"termet ne meksike\" width=\"640\" height=\"360\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 51444,
+      "post_number": 2,
+      "username": "Mimoza_llastica",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/mimoza_llastica/{size}/15437_2.png",
+      "created_at": "2017-09-08T13:52:25.088Z",
+      "cooked": "<p>Ca behet kshu, termete, hurricanes, vec kshu po degjojme.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 51446,
+      "post_number": 3,
+      "username": "Kthupi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/3bc359/{size}.png",
+      "created_at": "2017-09-08T14:07:08.407Z",
+      "cooked": "<p>Global warming Moza, global warming. <img src=\"https://peshkupauje.com/images/emoji/apple/smile.png?v=5\" title=\":smile:\" class=\"emoji\" alt=\":smile:\"><br>\nIshalla sa me pak viktima se kasollet rregullohen prape.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 51468,
+      "post_number": 4,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-09-08T15:26:09.401Z",
+      "cooked": "<p>ca do i kishte ba murit te trumpit ky termet, shyqyr se nuk ra afer texas, se sapo u thane qyqaret</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": 2802,
+    "title": "Rusia mund të ketë vrarë liderin e ISIS-it",
+    "slug": "rusia-mund-te-kete-vrare-liderin-e-isis-it",
+    "category_id": 6,
+    "created_at": "2017-06-16T12:29:05.271Z",
+    "tags": [],
+    "posts_count": 7,
+    "views": 1237,
+    "like_count": 5,
+    "word_count": 214
+  },
+  "posts": [
+    {
+      "id": 37783,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-06-16T12:29:05.310Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/7/7e5df0ae91f4b22ab37d3568a3768d5d4549b39c.jpeg\" width=\"720\" height=\"450\"></p>\n<p>Ministria ruse e mbrojtjes raportohet që të ketë deklaruar se po heton për te vërtetuar nëse ka vrarë udhëheqësin e ISIS, Ibrahim Abu Bakr al-Baghdadi duke bombarduar vendndodhjen e tij në Siri. Sipas rusëve sulmi ajror ndodhi më 28 maj në Raka ku lider të ISIS ishin mbledhur për të planifikuar daljen e tyre nga kryeqyteti i shpallur i kalifatit.</p>\n<p>Raportimet e agjencisë TASS thonë se sulmi ajror ndodhi pas konfirmimit të mbledhjes së lidereve të organizatës terroriste me imazhe të siguruara me dron. Sipas mediave shtetërore ruse, deri në 300 njerëz të ISIS mund të jenë vrarë në këtë sulm, bashkë me Abu Bakr al-Baghdadin.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37784,
+      "post_number": 2,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-06-16T12:50:58.045Z",
+      "cooked": "<p>edhe ky mo,  ngeli tu u vra</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37788,
+      "post_number": 3,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-06-16T13:52:05.084Z",
+      "cooked": "<p>1 bie, qindra ngrihen!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37789,
+      "post_number": 4,
+      "username": "46and2",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/4/858c86/{size}.png",
+      "created_at": "2017-06-16T13:56:16.415Z",
+      "cooked": "<p>Nen kete presidence te z.Trump do arrihet edhe marveshja e paqes Palestine-Izrael.</p>\n<p>Bota do behet me ne fund paqesore dhe e drejte!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37790,
+      "post_number": 5,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-06-16T14:02:39.456Z",
+      "cooked": "<p>skraparlliu eshte trim ne fakt</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 37801,
+      "post_number": 6,
+      "username": "Ingeborg",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/i/73ab20/{size}.png",
+      "created_at": "2017-06-16T15:13:52.005Z",
+      "cooked": "<p>Vajti dhe ky tek vigjereshat! Yt dreq…</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37891,
+      "post_number": 7,
+      "username": "maksmeto",
+      "name": "Maks",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/e19b73/{size}.png",
+      "created_at": "2017-06-17T11:24:51.724Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"46and2\" data-post=\"4\" data-topic=\"2802\" data-full=\"true\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/letter_avatar_proxy/v4/letter/4/858c86/48.png\" class=\"avatar\"> 46and2:</div>\n<blockquote>\n<p>Nen kete presidence te z.Trump do arrihet edhe marveshja e paqes Palestine-Izrael.</p>\n<p>Bota do behet me ne fund paqesore dhe e drejte!</p>\n</blockquote>\n</aside>\n<p>Nuk behet bota paqesore, sepse ata qe drejtojne boten, nuk ju intereson paqja.</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    }
+  ]
+}

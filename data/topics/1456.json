@@ -1,0 +1,170 @@
+{
+  "meta": {
+    "id": 1456,
+    "title": "Edhe një javë tjetër pushim?",
+    "slug": "edhe-nje-jave-tjeter-pushim",
+    "category_id": 6,
+    "created_at": "2017-01-10T09:11:16.479Z",
+    "tags": [],
+    "posts_count": 14,
+    "views": 1506,
+    "like_count": 4,
+    "word_count": 935
+  },
+  "posts": [
+    {
+      "id": 15918,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-01-10T09:11:16.547Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/1/19264a60ca6da2f72378851708c8f375caa4de62.png\" width=\"691\" height=\"373\"></p>\n<div class=\"youtube-onebox lazy-video-container\" data-video-id=\"hbtdH9G1-uY\" data-video-title=\"Pas ngricave, përmbytje - Top Channel Albania - News - Lajme\" data-video-start-time=\"\" data-provider-name=\"youtube\">\n  <a href=\"https://www.youtube.com/watch?v=hbtdH9G1-uY\" target=\"_blank\" class=\"video-thumbnail\" rel=\"noopener\">\n    <img class=\"youtube-thumbnail\" src=\"https://peshkupauje.com/uploads/default/original/3X/e/6/e60ccc579fe6406be3d2e777be7a7b24e7b2af5f.jpeg\" title=\"Pas ngricave, përmbytje - Top Channel Albania - News - Lajme\" data-dominant-color=\"94917D\" width=\"800\" height=\"450\">\n  </a>\n</div>\n\n<p><a href=\"http://m.top-channel.tv/lajme/artikull.php?id=345067&amp;kryesore\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">http://m.top-channel.tv/lajme/artikull.php?id=345067&amp;kryesore</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 15923,
+      "post_number": 2,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2017-01-10T10:43:36.155Z",
+      "cooked": "<p>Ku qendron problemi ketu…</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 15941,
+      "post_number": 3,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-01-10T12:49:31.612Z",
+      "cooked": "<p>cfare uji i dhe gomarit - permbledh “konstruktivitetin” me pozitiv te mundshem te te berit opozite tek ne<br>\n(per ate negativ, repertori eshte mjaft me i plote e i gjere)</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 15975,
+      "post_number": 4,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-01-10T15:35:09.126Z",
+      "cooked": "<p><a class=\"mention\" href=\"/u/vlonjat\">@Vlonjat</a>, e more vesh qe dhe [qeveria kanadeze ka nderprere shkollat dhe punen, njesoj si ne Shqiperi? jo? ta thote <a href=\"http://shqiptarja.com/Bota/2728/kanada-aksident-rrugor-p-rfshihen-100-makina-shkak-moti-i-keq--vd-395696.html\" rel=\"nofollow noopener\">shtypi shqiptar</a>!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 15979,
+      "post_number": 5,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-01-10T15:58:41.102Z",
+      "cooked": "<p>Aksidentin(H401)  e pashe dhe une dje por per shkolla qe mbyllen e ka shtu vet gazetari se ketu jemi dhe femijet ne shkolla jane. Megjithese kot flas dhe une, ata te shqiperise dihet qe jane shume te informuar ca ndodh ne bote.</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 15984,
+      "post_number": 6,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-01-10T16:08:27.909Z",
+      "cooked": "<p>dhe per ta bere te besushem lajmin, i fut nje temp. -26.<br>\nAta i dine me mire se kane akses ne liveleak</p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    },
+    {
+      "id": 15991,
+      "post_number": 8,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-01-10T16:31:47.771Z",
+      "cooked": "<p>Haha, me shpetoi ky detaji -26° qe i tradhton avdallet.  Tani sipas rradakes se kokcepave duhej qe dhe ne ne kanada te dilshim lakuriq ne bore dhe te bejshim selfie se helbete eshte eveniment, ra bore dhe ben -26. Ika ika se duhet me lemu pak catine e igloo-se.</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 15992,
+      "post_number": 9,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-01-10T16:32:59.397Z",
+      "cooked": "<aside class=\"quote no-group quote-post-not-found\" data-username=\"Shkab\" data-post=\"7\" data-topic=\"1456\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/user_avatar/peshkupauje.com/shkab/48/2006_2.png\" class=\"avatar\"> Shkab:</div>\n<blockquote>\n<p>remote Kashechewan</p>\n</blockquote>\n</aside>\n<p>remote mo shkabe, remote. E di c’dmth remote? Une as e kisha degju ket katund. Tani u bera dhe une si ty dhe i futa nje search. Si paranteze e pare, shkabe, indianet vendas jetojne ne rezervate - zgjedhje e tyre. Ashtu ruajne traditen, komunitetin etj etj. Ne shume prej ketyre fshatrave, jetohet keq. Qeveria ne ket buxhet ka caktu 8.4 miliarde dollare per te zhduk dallimet mes kushteve te jetes se indianeve vendas dhe pjeses tjeter. Si paranteze e dyte shkabe, une nuk i lutem allahut t’i jape pike kryeministrit kanadez. Iken ky, vjen tjetri, shkabe.<br>\nTani, kryesorja shkabe qenka se ky misteri i ujit te ktij katundit, <a href=\"http://www.ctvnews.ca/canada/social-emergency-kashechewan-skin-problems-blamed-on-poverty-overcrowding-1.2830199\" rel=\"noopener nofollow ugc\">sipas ministres se shendetsise</a> (qe eshte dhe mjeke) dhe mjekeve te zones, nuk ka fort lidhje me ujin. Sepse analizat thone qe eshte i pijshem. Gjasat jane qe te jene si rezultat i higjenes se keqe dhe ka mundsi te jete perhapur nje infeksion zgjebeje mes femijeve.<br>\nPo gjete ndonje video ne liveleak, mua ketu me ke. Megjithse e di qe ti “me ke shkerdhyer dhe nuk me drejtohesh e as lexon cfare shkruaj une”</p>\n<p>p.s. po pse mo shkabe, u bere pishman dhe e hoqe?</p>",
+      "reply_to_post_number": 7,
+      "like_count": 0
+    },
+    {
+      "id": 16496,
+      "post_number": 19,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-01-13T17:48:32.941Z",
+      "cooked": "<p>Neser do bjere bore dhe do ulen tempraturat, keshtu lajmerojne ata qe japin kohen.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 16497,
+      "post_number": 20,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-01-13T17:50:32.562Z",
+      "cooked": "<p>Ouu, ku eshte data e komentit, si do ta kuptojne te tjeret se per ke te neserme behet fjale. Admin, ja dhe nje difekt i Peshkut te ri, ndermjet shum difekteve qe kam ven re une dhe te tjeret.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 16536,
+      "post_number": 21,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2017-01-13T22:42:55.892Z",
+      "cooked": "<p>ja ke nis me kritika adminit, Pjer si per t’i qit inatin qe prishi blogun e vjeter qe te beri te famshem. Mendoj qe e e ke gabim se ne fund te fundit, admini paguan per kete, eshte e tija. Ti psh, thua si mund te besh miliona po admini prej teje as nje gote uje nuk ka pare, jo pastaj shishe vere te vjetruar ose cash…</p>",
+      "reply_to_post_number": 20,
+      "like_count": 0
+    },
+    {
+      "id": 16539,
+      "post_number": 22,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-01-13T23:34:23.901Z",
+      "cooked": "<p>Shishet e vererave te vjetra , i nderuar, po i pij vete, se s’po duket njeri ti qeras.</p>",
+      "reply_to_post_number": 21,
+      "like_count": 0
+    },
+    {
+      "id": 16542,
+      "post_number": 23,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2017-01-14T00:16:59.739Z",
+      "cooked": "<p>Saliu tervit tha qe keto permbytje ndodhin njehere ne 100 vjet por po ndodhin pervit .fajin e ka saliu <img src=\"https://peshkupauje.com/images/emoji/apple/smile.png?v=5\" title=\":smile:\" class=\"emoji\" alt=\":smile:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 16543,
+      "post_number": 24,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2017-01-14T00:19:46.606Z",
+      "cooked": "<p>Pjer mireseuktheve se na thave syte .nashi mire edhe kaq se per borxh administratoret nuk na e kane kete sherbim falas ne saje te se cilit ti ,une e shume te tjere mblidhemi e bejme llogje <img src=\"https://peshkupauje.com/images/emoji/apple/smile.png?v=5\" title=\":smile:\" class=\"emoji\" alt=\":smile:\"></p>",
+      "reply_to_post_number": 20,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 1443,
+    "title": "Vendimi",
+    "slug": "vendimi",
+    "category_id": 14,
+    "created_at": "2017-01-09T18:16:30.978Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 753,
+    "like_count": 0,
+    "word_count": 108
+  },
+  "posts": [
+    {
+      "id": 15855,
+      "post_number": 1,
+      "username": "Mergimtarja",
+      "name": "Mergimtarja",
+      "avatar_template": "/user_avatar/peshkupauje.com/mergimtarja/{size}/2022_2.png",
+      "created_at": "2017-01-09T18:16:31.052Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.balkanweb.com/site/historia-e-reja-me-3-femije-fut-burrin-ne-burg-dhe-iken-me-te-dashurin-18-vjecar-ish-vjehrra-i-ben-nje-thirrje-nga-tv/\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/3X/0/4/049c41ee8a7f0ba3bd2a099eb692ee4f4a34ceaa.png\" class=\"site-icon\" width=\"16\" height=\"16\">\n\n      <a href=\"https://www.balkanweb.com/site/historia-e-reja-me-3-femije-fut-burrin-ne-burg-dhe-iken-me-te-dashurin-18-vjecar-ish-vjehrra-i-ben-nje-thirrje-nga-tv/\" target=\"_blank\" rel=\"noopener nofollow ugc\">balkanweb.com</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:713/566;\"><img src=\"https://peshkupauje.com/uploads/default/original/3X/6/e/6e4ef3c7acce7a47e00c98ec756f95441289482f.jpeg\" class=\"thumbnail\" width=\"713\" height=\"566\"></div>\n\n<h3><a href=\"https://www.balkanweb.com/site/historia-e-reja-me-3-femije-fut-burrin-ne-burg-dhe-iken-me-te-dashurin-18-vjecar-ish-vjehrra-i-ben-nje-thirrje-nga-tv/\" target=\"_blank\" rel=\"noopener nofollow ugc\">E reja me 3 fëmijë fut burrin në burg dhe ikën me të dashurin 18-vjeçar</a></h3>\n\n  <p>TIRANË- Një histori e pazakontë vjen sot në studion e emisionit “Me zemër të hapur” të gazetare Evis Ahmeti në News24. Historia e një nëne që me lot në sy kërkon që nusja e djalit të kthehet për të marrë nipin 6 vjeç që e ka braktisur për të shkuar...</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>Vetem nje pellembe i ka dhene djali nuses… “thote Vjerra”!</p>\n<p>Per te ardhur keq. Si per djalin qe e ka dhunuar,  si per nusen qe mori kete vendim por gjithashtu edhe per djalin e vogel 6 vjecar.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 15864,
+      "post_number": 2,
+      "username": "anon63896856",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "created_at": "2017-01-09T19:07:15.125Z",
+      "cooked": "<p>Mua para te gjithash me vjen keq per publikun qe bombardohet dite per dite me drama familjare nga media.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 15877,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-01-09T21:03:27.893Z",
+      "cooked": "<p>Pse e marton djalin kur e ke te semure mi plake? Apo mendon qe mbase edhe ai te behet kryeM nje dite?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

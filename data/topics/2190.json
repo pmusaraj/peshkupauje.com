@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": 2190,
+    "title": "Ngjela mbi aktualitetin",
+    "slug": "ngjela-mbi-aktualitetin",
+    "category_id": 7,
+    "created_at": "2017-04-21T13:19:48.032Z",
+    "tags": [],
+    "posts_count": 7,
+    "views": 734,
+    "like_count": 2,
+    "word_count": 109
+  },
+  "posts": [
+    {
+      "id": 27807,
+      "post_number": 1,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-04-21T13:19:48.092Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"http://www.gazetatema.net/2017/04/21/edhe-femijet-e-dine-se-keta-mjerane-nuk-kane-force-as-te-bertasin-e-jo-me-te-bejne-lufte/\" target=\"_blank\" title=\"09:25AM - 21 April 2017\" rel=\"nofollow noopener\">Gazeta Tema – 21 Apr 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/389;\"><img src=\"http://www.gazetatema.net/wp-content/uploads/2017/03/basha-proteste-2_0.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://www.gazetatema.net/2017/04/21/edhe-femijet-e-dine-se-keta-mjerane-nuk-kane-force-as-te-bertasin-e-jo-me-te-bejne-lufte/\" target=\"_blank\" rel=\"nofollow noopener\">Edhe fëmijët e dinë se këta mjeranë nuk kanë forcë as të bërtasin, e jo më të...</a></h3>\n\n<p>Nga Spartak Ngjela\n\nShqiptarët janë në kohën më të favorshme për të bërë hapin vendimtar të progresit të tyrë real, pas 500 vjetësh mbijetesë; kurse këtë nuk po e lejojnë ata që i drejtojnë padrejtësisht.\n\nl.\n\nKjo është gjendja e sotme e...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27814,
+      "post_number": 2,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-04-21T13:25:33.684Z",
+      "cooked": "<p>mos na sillni, as publikoni shkrime qe flasin per luftenxitje</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27818,
+      "post_number": 3,
+      "username": "ACDC",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e68b1a/{size}.png",
+      "created_at": "2017-04-21T13:35:35.457Z",
+      "cooked": "<p>Ngjela me Ramen kane nje gje te perbashket.<br>\nKane nderuar partite sipas qefit.<br>\nNjeri 7 parti tjetri 6.<br>\nRama desh te futej edhe tek Partia e Ballit Kombetar ne 1994…</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27824,
+      "post_number": 4,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2017-04-21T13:50:28.946Z",
+      "cooked": "<p>Avukati ka rrjedhur por na mori dhe nje mikun tone Te nderuar ne qafe😩</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 27836,
+      "post_number": 5,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-04-21T14:28:08.185Z",
+      "cooked": "<p>Avokat leshi, a thua e ka abuluar akoma il piacere della faiga?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28103,
+      "post_number": 6,
+      "username": "Fikret",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/c2a13f/{size}.png",
+      "created_at": "2017-04-22T23:48:59.896Z",
+      "cooked": "<div class=\"lazyYT\" data-youtube-id=\"alMTNTFtwyg\" data-youtube-title=\"\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28272,
+      "post_number": 7,
+      "username": "bradland",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/9de0a6/{size}.png",
+      "created_at": "2017-04-23T22:16:53.705Z",
+      "cooked": "<p>Takut i falet se eshte perdhunuar ne burg .</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

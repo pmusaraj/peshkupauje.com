@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 3338,
+    "title": "Nuk mund të mërgosh prej të qenit aktivist",
+    "slug": "nuk-mund-te-mergosh-prej-te-qenit-aktivist",
+    "category_id": 9,
+    "created_at": "2017-09-08T23:01:37.352Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 1201,
+    "like_count": 0,
+    "word_count": 37
+  },
+  "posts": [
+    {
+      "id": 51504,
+      "post_number": 1,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2017-09-08T23:01:37.421Z",
+      "cooked": "<p><a href=\"https://rreth.org/2015/05/17/nuk-mund-te-mergosh-prej-te-qenit-aktivist/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">https://rreth.org/2015/05/17/nuk-mund-te-mergosh-prej-te-qenit-aktivist/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 51538,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-09-09T15:14:48.049Z",
+      "cooked": "<p>Lerini aktivizmat, por edukoni kalamicat kur tu vije rradha</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 51551,
+      "post_number": 3,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-09-09T17:18:42.833Z",
+      "cooked": "<p>Thjesht muhabeti, qeverite tona te bukura, e kane 10-re me punen e tyre.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

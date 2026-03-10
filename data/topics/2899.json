@@ -1,0 +1,115 @@
+{
+  "meta": {
+    "id": 2899,
+    "title": "Vargje nga Julio Cortázar",
+    "slug": "vargje-nga-julio-cortazar",
+    "category_id": 15,
+    "created_at": "2017-06-29T06:14:41.849Z",
+    "tags": [],
+    "posts_count": 9,
+    "views": 994,
+    "like_count": 0,
+    "word_count": 165
+  },
+  "posts": [
+    {
+      "id": 40325,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-06-29T06:14:41.921Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/4/4d4e78ded1d48f902b97967f46ce155c6f4bdc18.jpg\" width=\"480\" height=\"391\"></p>\n<p>“Ç’ma ka ënda prej trupit tënd<br>\nështë seksi.<br>\nÇ’ma ka ënda prej seksit tënd<br>\nështë goja.<br>\nÇ’ma ka ënda prej gojës tënde<br>\nështë gjuha.<br>\nÇ’ma ka ënda prej gjuhës tënde<br>\nështë fjala”.</p>\n<p>Vargjet: Julio Cortázar<br>\nShqipërimi: Edon Qesari<br>\nFotografia: Lucien Clergue</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 40326,
+      "post_number": 2,
+      "username": "Saturni",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/13edae/{size}.png",
+      "created_at": "2017-06-29T06:23:35.314Z",
+      "cooked": "<p>C’ma ka enda mua prej trupit te saj eshte gjoksi.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 40330,
+      "post_number": 3,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-06-29T07:26:10.354Z",
+      "cooked": "<p>pallo fjalorin - iu gjegj</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 40336,
+      "post_number": 4,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-06-29T11:36:25.639Z",
+      "cooked": "<p>ahahaha <img src=\"https://peshkupauje.com/images/emoji/apple/grinning.png?v=5\" title=\":grinning:\" class=\"emoji\" alt=\":grinning:\"></p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 40354,
+      "post_number": 5,
+      "username": "Fikret",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/c2a13f/{size}.png",
+      "created_at": "2017-06-29T12:30:59.968Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/images/emoji/apple/smile.png?v=5\" title=\":smile:\" class=\"emoji\" alt=\":smile:\"> Rrofsh se ma nise diten tu qesh</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 40470,
+      "post_number": 6,
+      "username": "anon64581289",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/3ab097/{size}.png",
+      "created_at": "2017-06-29T22:46:46.775Z",
+      "cooked": "<p>ai po thote qe ne bisedim ka me vlere per te sesa nje pallim.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 40493,
+      "post_number": 7,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-06-30T04:32:35.961Z",
+      "cooked": "<p>ajo po thote qe nje fjalor ka me teper vlere se nje pallim, deri edhe nje bisedim, sepse ne nje fjalor mund te gjesh etimologjine pellazge te termit “pallim”.</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 40660,
+      "post_number": 8,
+      "username": "anvlo10",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/a4c791/{size}.png",
+      "created_at": "2017-07-01T08:13:31.986Z",
+      "cooked": "<p>Kortasari te bukura ka tregimet e shkurtra… per poezine e tij nuk eshte i njohur…</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 40801,
+      "post_number": 9,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-07-01T19:59:16.799Z",
+      "cooked": "<p>ik o julio cortázar, shko bej shetitje ne pyll midis pemeve i her, pastaj ngri syte drejt qiellit per te pa qiellin e shtate.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

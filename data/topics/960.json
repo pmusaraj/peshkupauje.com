@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": 960,
+    "title": "Kryeministër, u ktheve nga pushimet? “Kazanët” po vlojnë!",
+    "slug": "kryeminister-u-ktheve-nga-pushimet-kazanet-po-vlojne",
+    "category_id": 7,
+    "created_at": "2016-11-28T09:16:12.333Z",
+    "tags": [],
+    "posts_count": 6,
+    "views": 857,
+    "like_count": 3,
+    "word_count": 73
+  },
+  "posts": [
+    {
+      "id": 10728,
+      "post_number": 1,
+      "username": "kapo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/kapo/{size}/4005_2.png",
+      "created_at": "2016-11-28T09:16:12.403Z",
+      "cooked": "<p><a href=\"http://gazeta55.al/kryeminister-u-ktheve-nga-pushimet-kazanet-po-vlojne/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://gazeta55.al/kryeminister-u-ktheve-nga-pushimet-kazanet-po-vlojne/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 10738,
+      "post_number": 2,
+      "username": "Ingeborg",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/i/73ab20/{size}.png",
+      "created_at": "2016-11-28T10:03:33.457Z",
+      "cooked": "<p>Kazanet ne Shqiperi gjithmone kane zier. Nuk eshte arsye per tu kthyer nga pushimet.<img src=\"https://peshkupauje.com/images/emoji/apple/wink.png?v=5\" title=\":wink:\" class=\"emoji\" alt=\":wink:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 10760,
+      "post_number": 3,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2016-11-28T13:26:29.916Z",
+      "cooked": "<p>Te pakten na dha mundesine qe te vlojne… <img src=\"https://peshkupauje.com/images/emoji/apple/wink.png?v=5\" title=\":wink:\" class=\"emoji\" alt=\":wink:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 10770,
+      "post_number": 4,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2016-11-28T14:51:29.821Z",
+      "cooked": "<p>ca haramash keta, as te besh pak pushime ste lene</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 10878,
+      "post_number": 5,
+      "username": "Tirondon",
+      "name": "Turondon",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/51bf81/{size}.png",
+      "created_at": "2016-11-29T03:59:36.853Z",
+      "cooked": "<p>1 pilaf dhe 1 pace derri, per Farri Balliun !</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 11060,
+      "post_number": 6,
+      "username": "bulkthi",
+      "name": "Gazmend Butka",
+      "avatar_template": "/user_avatar/peshkupauje.com/bulkthi/{size}/154_2.png",
+      "created_at": "2016-11-30T09:58:07.136Z",
+      "cooked": "<p>Edhe per ate modelen qe kish shkruar artikllen me porosi: dy qofte, nje birre dhe nje shikim nga bythet.</p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    }
+  ]
+}

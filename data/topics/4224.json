@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 4224,
+    "title": "Aventure me biciklete ne Zall Bastar",
+    "slug": "aventure-me-biciklete-ne-zall-bastar",
+    "category_id": 11,
+    "created_at": "2018-06-10T16:02:25.768Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 1511,
+    "like_count": 1,
+    "word_count": 79
+  },
+  "posts": [
+    {
+      "id": 74797,
+      "post_number": 1,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2018-06-10T16:02:25.864Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://www.reporter.al/aventure-me-biciklete-ne-zall-bastar-blog-foto/\" target=\"_blank\" title=\"07:18PM - 15 May 2018\" rel=\"nofollow noopener\">reporter.al – 15 May 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/480;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/8/8c2a96d25ec5c2835da7d7e7e9fe5eb15435f850.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.reporter.al/aventure-me-biciklete-ne-zall-bastar-blog-foto/\" target=\"_blank\" rel=\"nofollow noopener\">Aventurë me biçikletë në Zall Bastar (Blog/Foto) - reporter.al</a></h3>\n\n<p>Një aventurë me biçikletë drejt fshatit Zall Bastar pas malit të Dajtit përbën një arratisje të këndshme, por edhe sfiduese nga kryeqyteti për të pasionuarit e dyrrotakëve. 20 kilometra nga Tirana, Zall Bastari ofron panoramën tipike të qendrës së...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 74800,
+      "post_number": 2,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2018-06-10T17:45:39.436Z",
+      "cooked": "<p>Nese I zhvillojne keto fshatra me rruge ujesjelles kanalizime mund Te kthehen ne subdivisions moderne .</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 74811,
+      "post_number": 3,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2018-06-11T13:34:05.815Z",
+      "cooked": "<p>projekt afatgjate, edhe nese supozohet vetem ecuri progresive (se s’i perjashton dot zigzaket dhe prapakthimet ne zhvillimet ne ekonomine e varfer shqiptare te tregut). Per goxha kohe them se do mbeten subjekt eksplorimi aventure.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 74829,
+      "post_number": 4,
+      "username": "Yeriho",
+      "name": "yeriho",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/y/c2a13f/{size}.png",
+      "created_at": "2018-06-12T09:26:24.827Z",
+      "cooked": "<p>Mendjen “zhvillim” por robi i shkrete pikerisht nga zhvillimi kerkon te largohet me nje udhetim te tille.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    }
+  ]
+}

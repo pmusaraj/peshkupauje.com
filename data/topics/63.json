@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": 63,
+    "title": "Foto panoramike e stadiumit të Shkodrës",
+    "slug": "foto-panoramike-e-stadiumit-te-shkodres",
+    "category_id": 10,
+    "created_at": "2016-09-17T16:35:56.224Z",
+    "tags": [],
+    "posts_count": 7,
+    "views": 1708,
+    "like_count": 2,
+    "word_count": 119
+  },
+  "posts": [
+    {
+      "id": 100,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-09-17T16:35:56.310Z",
+      "cooked": "<p>Stadiumi Loro Boriçi në Shkodër, 5 shtator, 2016, para ndeshjes me Maqedoninë, e cila u zhvillua në dy ditë për shkak të stuhisë së shiut.<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/1X/f93118f4b5a1efa020766a4a9e2347e7fdd456f9.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/f93118f4b5a1efa020766a4a9e2347e7fdd456f9\" title=\"Shkodra.jpg\"><img src=\"https://peshkupauje.com/uploads/default/optimized/1X/f93118f4b5a1efa020766a4a9e2347e7fdd456f9_2_800x181.jpg\" width=\"800\" height=\"181\" srcset=\"https://peshkupauje.com/uploads/default/optimized/1X/f93118f4b5a1efa020766a4a9e2347e7fdd456f9_2_800x181.jpg, https://peshkupauje.com/uploads/default/optimized/1X/f93118f4b5a1efa020766a4a9e2347e7fdd456f9_2_1200x271.jpg 1.5x, https://peshkupauje.com/uploads/default/optimized/1X/f93118f4b5a1efa020766a4a9e2347e7fdd456f9_2_1600x362.jpg 2x\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/1X/f93118f4b5a1efa020766a4a9e2347e7fdd456f9_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Shkodra.jpg</span><span class=\"informations\">1601×363 110 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 131,
+      "post_number": 2,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2016-09-21T02:55:34.238Z",
+      "cooked": "<p>Nga celulari faqja duket shkelqyshem. Hapet shpejt dhe formati eshte sh mire. Me likes this</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 558,
+      "post_number": 3,
+      "username": "del-ta",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/del-ta/{size}/74_2.png",
+      "created_at": "2016-10-01T16:07:46.813Z",
+      "cooked": "<p>nuk u doli betoni qe i kane ato hapesirat ?   apo si puna e rrugeve qe nuk mbarojne asnje deri ne fund!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 626,
+      "post_number": 4,
+      "username": "anon63896856",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "created_at": "2016-10-01T19:28:41.358Z",
+      "cooked": "<p>Bukur … veçse se ajo fushe me shume qendron e lagesht se e thate.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 632,
+      "post_number": 5,
+      "username": "BeluliXVI",
+      "name": "Beluli-XVI",
+      "avatar_template": "/user_avatar/peshkupauje.com/belulixvi/{size}/241_2.png",
+      "created_at": "2016-10-01T19:47:11.064Z",
+      "cooked": "<p>e pse nuk e bene sic duhet,  te gjithe te mbuluar,  kete stadium keta ?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 1699,
+      "post_number": 6,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2016-10-06T19:24:05.374Z",
+      "cooked": "<p>As une s’e kuptoj kete pjesen e bere me copa.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 1809,
+      "post_number": 7,
+      "username": "odin",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/o/87869e/{size}.png",
+      "created_at": "2016-10-07T14:38:01.999Z",
+      "cooked": "<p>Simbolizon bedenat e kalase se Shkodres, me thane.</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    }
+  ]
+}

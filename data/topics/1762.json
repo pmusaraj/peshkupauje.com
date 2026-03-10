@@ -1,0 +1,126 @@
+{
+  "meta": {
+    "id": 1762,
+    "title": "Faqja e parë tani renditet sipas algoritmit",
+    "slug": "faqja-e-pare-tani-renditet-sipas-algoritmit",
+    "category_id": 3,
+    "created_at": "2017-02-09T14:50:20.532Z",
+    "tags": [],
+    "posts_count": 10,
+    "views": 1656,
+    "like_count": 2,
+    "word_count": 334
+  },
+  "posts": [
+    {
+      "id": 20306,
+      "post_number": 1,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2017-02-09T14:50:20.674Z",
+      "cooked": "<p>Kemi bërë një ndryshim teknik sot në faqen e parë: postimet atje tani do të renditen sipas një algoritmi që kombinon postimet e reja në faqe me ato që kanë pasur më shumë aktivitet dhe pëlqime gjatë ditëve të fundit.</p>\n<p>Deri tani, postimet në faqen e parë renditeshin sipas përgjigjes së fundit (si në një forum), dhe ndryshonte shumë shpesh. Tani e tutje, renditja do jetë më stabël.</p>\n<p>Si gjithmonë, na thoni nëse hasni probleme.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20317,
+      "post_number": 2,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-02-09T15:58:00.685Z",
+      "cooked": "<p>sikur te njesonit opsionet ne pamjen desktop  me ate te celularit do kursente mundimin per sh. veprime me faqen</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20342,
+      "post_number": 3,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2017-02-09T19:20:33.945Z",
+      "cooked": "<p>Ala se keni kuptu pse calon peshku i ri, ne versionin mobile mungon mundesia per te pare ne faqe komentet e fundit per cfaredolloj teme, ndryshe nga versioni i vjeter, ne kete menyre humbet kurioziteti per te ndjek temat dhe kesisoj edhe per te ndervepru mes komentuesve. I keni fut peshqit ne akuariume individuale me versionin e ri, prandaj ka humv interesi.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20344,
+      "post_number": 4,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-02-09T19:34:14.763Z",
+      "cooked": "<p>me ket faqen sapo te re, humbi seksioni komenteve edhe ne desktop view</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20388,
+      "post_number": 5,
+      "username": "Kthupi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/3bc359/{size}.png",
+      "created_at": "2017-02-10T23:42:27.221Z",
+      "cooked": "<p>Ky algoritmi I ri eshte qe ma nxjerr mua faqen ne desktop allasoj? Kur vij te faqja kryesore postimet dalin si te paformatuara, shtrihen nga e majta ne te djathte dhe ca numra qe rreshtuara nje nga krushka nje nga mushka, qe s’e di cfare perfaqesojne. Bera nje screenshot:</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/1/11391f8d3881c24999adb7c5227481e784d23ea8.JPG\" data-download-href=\"https://peshkupauje.com/uploads/default/11391f8d3881c24999adb7c5227481e784d23ea8\" title=\"Peshku.JPG\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/1/11391f8d3881c24999adb7c5227481e784d23ea8.JPG\" width=\"800\" height=\"384\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/1/11391f8d3881c24999adb7c5227481e784d23ea8_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Peshku.JPG</span><span class=\"informations\">1252×601 72.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20389,
+      "post_number": 6,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2017-02-11T00:19:05.797Z",
+      "cooked": "<p>Cilin browser perdor ti… (e gjeta me duket, Internet Explorer)</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20390,
+      "post_number": 7,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2017-02-11T00:47:48.590Z",
+      "cooked": "<p>E rregullova, pjesërisht…</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 20426,
+      "post_number": 8,
+      "username": "Kthupi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/3bc359/{size}.png",
+      "created_at": "2017-02-11T03:16:01.642Z",
+      "cooked": "<p>Ejvallah!</p>\n<p>Po, ajo ishte nga kompjuteri i punes, IE perdorim.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20445,
+      "post_number": 9,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-02-11T12:54:05.161Z",
+      "cooked": "<p>ka diçka qe nuk shkon. Duket sikur kane prioritet temat e mbyllura me dry, meqe jane te mbyllura. Tema e hapur (sorosjane)  <em>Trajtesë mbi kohën dhe dritën (1)</em> ka mbetur pas shoqeve te saja (2) dhe (3) te mbyllura (trumpjane), megjithse me numur shikimesh te njejta.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 20535,
+      "post_number": 10,
+      "username": "Whitesnake",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/whitesnake/{size}/72_2.png",
+      "created_at": "2017-02-12T01:23:10.363Z",
+      "cooked": "<p>Kjo nuk funksionon… Temat e para  jane te bllokuara , nese nuk perditson postimet e fundit ne perputhje  temat qe i bashkangjiten  …humb sensin e kohes , humb interesimin… faqja pare kthehet ne VARR…</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

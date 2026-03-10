@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 1865,
+    "title": "PMI ne Shqiperi?",
+    "slug": "pmi-ne-shqiperi",
+    "category_id": 5,
+    "created_at": "2017-02-24T11:39:54.524Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 847,
+    "like_count": 2,
+    "word_count": 81
+  },
+  "posts": [
+    {
+      "id": 21977,
+      "post_number": 1,
+      "username": "CHAOS",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/9d8465/{size}.png",
+      "created_at": "2017-02-24T11:39:54.589Z",
+      "cooked": "<p>Nga kerkimet zbulova se me e mira ne bote per certifikime ne fushen e menaxhimit profesional te projekteve eshte: PMI.<br>\n<a href=\"http://www.pmi.org/learning/training-development/reps/find\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.pmi.org/learning/training-development/reps/find</a></p>\n<p>Cila eshte menyra me cheapest per ta aksesuar nga Shqiperia trajnimin per kete program?<br>\nA ka menyra te tjera njesoj efikase dhe me te akessueshme per t’u certifikuar ne fushen e menaxhimit te projekteve?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 21998,
+      "post_number": 2,
+      "username": "Cecua",
+      "name": "Ceco",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/87869e/{size}.png",
+      "created_at": "2017-02-24T14:16:47.465Z",
+      "cooked": "<p>Per ca te duhet PMI kur nuk ke as edhe nje biznes a drejtori qe ndjek proceset?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

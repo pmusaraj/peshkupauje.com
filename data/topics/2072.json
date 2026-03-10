@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 2072,
+    "title": "Iku dhe Serbia. Po ne?",
+    "slug": "iku-dhe-serbia-po-ne",
+    "category_id": 7,
+    "created_at": "2017-04-03T20:37:37.960Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 819,
+    "like_count": 0,
+    "word_count": 36
+  },
+  "posts": [
+    {
+      "id": 25934,
+      "post_number": 1,
+      "username": "kapo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/kapo/{size}/4005_2.png",
+      "created_at": "2017-04-03T20:37:38.025Z",
+      "cooked": "<p><a href=\"http://www.syri.net/op-ed/53273/iku-dhe-serbia-po-ne/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.syri.net/op-ed/53273/iku-dhe-serbia-po-ne/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25935,
+      "post_number": 2,
+      "username": "ACDC",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e68b1a/{size}.png",
+      "created_at": "2017-04-03T20:45:22.189Z",
+      "cooked": "<p>Ne kemi pjerdhur qe ne 1944-en…me dy pushime te shkurtera ne 1992-96 dhe 2005-2009.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25971,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-04-04T02:19:21.332Z",
+      "cooked": "<p>We are next. Shembull nga putinka</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 2013,
+    "title": "Kthim në vendin e ngjarjes",
+    "slug": "kthim-ne-vendin-e-ngjarjes",
+    "category_id": 11,
+    "created_at": "2017-03-26T16:08:17.376Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 1730,
+    "like_count": 0,
+    "word_count": 189
+  },
+  "posts": [
+    {
+      "id": 25158,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-03-26T16:08:17.459Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/6/649dee83194eb57157268837f0daad80f0eddc13.JPG\" data-download-href=\"https://peshkupauje.com/uploads/default/649dee83194eb57157268837f0daad80f0eddc13\" title=\"IMG_4868.JPG\"><img src=\"https://peshkupauje.com/uploads/default/optimized/2X/6/649dee83194eb57157268837f0daad80f0eddc13_2_800x645.JPG\" width=\"800\" height=\"645\" srcset=\"https://peshkupauje.com/uploads/default/optimized/2X/6/649dee83194eb57157268837f0daad80f0eddc13_2_800x645.JPG, https://peshkupauje.com/uploads/default/optimized/2X/6/649dee83194eb57157268837f0daad80f0eddc13_2_1200x967.JPG 1.5x, https://peshkupauje.com/uploads/default/optimized/2X/6/649dee83194eb57157268837f0daad80f0eddc13_2_1600x1290.JPG 2x\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/6/649dee83194eb57157268837f0daad80f0eddc13_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">IMG_4868.JPG</span><span class=\"informations\">3000×2421 653 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Esko dhe ariu i murrmë. Posio, Finlandë.<br>\nFotografi francez Pierre Abensur ka realizuar një set fotografish të titulluar “Trofe subjektivë”, ku ka sjellë sëbashku gjahtarët dhe pretë e vrara prej tyre në vendin e saktë ku ka ndodhur vrasja. Koncepti sjell gjahtarët në teshat e tyre më të mira, ndërsa kafshët, të balsamosura. Nuk ka më  gjak, djersë, adrenalinë dhe plumba. Disa e kanë kritikuar idenë si glorifikim të vrasjes së kafshëve. Ndërsa fotografi thotë se nuk ka ndërmend as glorifikimin e as dënimin e gjuetisë por kapjen e emocioneve komplekse midis gjahtarit dhe gjahut.</p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/7/7717075633551cbc49386ec547bfe1b908acf32c.JPG\" width=\"676\" height=\"533\"></p>\n<p>Danene dhe çitat. Kalakua, Namibi.</p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/9/9e2c1f66be36ceaad653faceb235bdcd12b21b87.JPG\" width=\"676\" height=\"530\"></p>\n<p>Gunteri dhe gjirafa. Otavi, Namibi.</p>\n<p><a href=\"http://www.nationalgeographic.com/photography/proof/2017/03/hunting-trophies-abensur/\" rel=\"nofollow noopener\">Më shumë foto.</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25167,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-03-26T18:26:37.598Z",
+      "cooked": "<p>Interesante, veç ai sajti ku thuhet; Me shume foto. ,  nuk kishte asnje foto.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25171,
+      "post_number": 3,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-03-26T20:14:57.269Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/e/e83342d0af7b89cb3f740838047dab2af37cb7cb.jpg\" width=\"640\" height=\"350\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25172,
+      "post_number": 4,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-03-26T20:23:21.880Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/8/80c842a0d50ef0d5ff119f443c71539130478377.jpg\" width=\"640\" height=\"419\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

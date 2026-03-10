@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": 5717,
+    "title": "Housing",
+    "slug": "housing",
+    "category_id": 5,
+    "created_at": "2021-07-01T13:58:09.004Z",
+    "tags": [],
+    "posts_count": 8,
+    "views": 1802,
+    "like_count": 1,
+    "word_count": 95
+  },
+  "posts": [
+    {
+      "id": 117715,
+      "post_number": 1,
+      "username": "Jim_Davis",
+      "name": "Jim Davis",
+      "avatar_template": "/user_avatar/peshkupauje.com/jim_davis/{size}/21287_2.png",
+      "created_at": "2021-07-01T13:58:09.091Z",
+      "cooked": "<p>Hello. We need a home in Albania. They say it is really cheap in Albania. But it seems very expensive! No one wants to help. We can’t find any of these hospitable Albanians anywhere. Thank you. Faleminderit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 117716,
+      "post_number": 2,
+      "username": "Mirejam_Tirana",
+      "name": "Mirëjam Tirana",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/a8b319/{size}.png",
+      "created_at": "2021-07-01T14:53:48.952Z",
+      "cooked": "<p>welcome to our community mister Jim_Davis</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 117720,
+      "post_number": 3,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2021-07-01T15:50:04.756Z",
+      "cooked": "<p>i nderuari mister Jim_Davis,<br>\nkujdes se ne Shqiperi mund te jesh person <em>non grata</em>, qe perkthehet: person qe nuk kruhesh.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 117876,
+      "post_number": 4,
+      "username": "Mirejam_Tirana",
+      "name": "Mirëjam Tirana",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/a8b319/{size}.png",
+      "created_at": "2021-07-13T15:55:03.536Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/e/6/e6dbf9091edeae7f6eb3a3f7ff5b04af420c28e6.jpeg\" alt=\"image\" data-base62-sha1=\"wWh6Gao7sBsmPtPmPPfLINMhfMO\" width=\"515\" height=\"600\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 117877,
+      "post_number": 5,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2021-07-13T16:42:11.497Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/3/e/3e9009f80bf97126d8c650083ec53480aebe60b7.jpeg\" alt=\"kali\" data-base62-sha1=\"8VscIHbh9o9wlDT5UQtbH0diuUL\" width=\"600\" height=\"417\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 117878,
+      "post_number": 6,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2021-07-13T17:32:05.855Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/4/3/43871c41b74ac23552064e1781f47454f941f1b5.jpeg\" alt=\"kali333\" data-base62-sha1=\"9DnsIqeiO0HqPb2OfZtz9EZWbEp\" width=\"600\" height=\"483\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 117879,
+      "post_number": 7,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2021-07-13T17:52:40.798Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/3X/a/5/a5b936bf0a6d6838e545385bf50f9f4ff3d54912.jpeg\" data-download-href=\"https://peshkupauje.com/uploads/default/a5b936bf0a6d6838e545385bf50f9f4ff3d54912\" title=\"MaurizioCattelanBeRightBack_web_2\"><img src=\"https://peshkupauje.com/uploads/default/optimized/3X/a/5/a5b936bf0a6d6838e545385bf50f9f4ff3d54912_2_600x328.jpeg\" alt=\"MaurizioCattelanBeRightBack_web_2\" data-base62-sha1=\"nE3Bi3SenASxBv5xqpc3utiEcQa\" width=\"600\" height=\"328\" srcset=\"https://peshkupauje.com/uploads/default/optimized/3X/a/5/a5b936bf0a6d6838e545385bf50f9f4ff3d54912_2_600x328.jpeg, https://peshkupauje.com/uploads/default/optimized/3X/a/5/a5b936bf0a6d6838e545385bf50f9f4ff3d54912_2_900x492.jpeg 1.5x, https://peshkupauje.com/uploads/default/optimized/3X/a/5/a5b936bf0a6d6838e545385bf50f9f4ff3d54912_2_1200x656.jpeg 2x\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/3X/a/5/a5b936bf0a6d6838e545385bf50f9f4ff3d54912_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use href=\"#far-image\"></use></svg><span class=\"filename\">MaurizioCattelanBeRightBack_web_2</span><span class=\"informations\">1400×768 112 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 119040,
+      "post_number": 8,
+      "username": "Mirejam_Tirana",
+      "name": "Mirëjam Tirana",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/a8b319/{size}.png",
+      "created_at": "2021-09-16T06:44:36.962Z",
+      "cooked": "<p>gudmorning dear <a href=\"https://youtu.be/0DZ-Jj8Z1eo\" rel=\"noopener nofollow ugc\">Jim</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

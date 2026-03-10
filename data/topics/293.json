@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 293,
+    "title": "Pikturat e Jean-Leon Gerome që paraqesin ushtarë shqiptarë në Egjypt",
+    "slug": "pikturat-e-jean-leon-gerome-qe-paraqesin-ushtare-shqiptare-ne-egjypt",
+    "category_id": 11,
+    "created_at": "2016-10-03T20:08:45.232Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 1474,
+    "like_count": 4,
+    "word_count": 145
+  },
+  "posts": [
+    {
+      "id": 1075,
+      "post_number": 1,
+      "username": "Rrapatushi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/ea666f/{size}.png",
+      "created_at": "2016-10-03T20:08:45.293Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/1X/355889fc111e43d1b62570afc191ebee62ee25ab.jpg\" width=\"640\" height=\"380\"></p>\n<p><a href=\"http://imgur.com/a/MFCCr\" rel=\"nofollow noopener\">http://imgur.com/a/MFCCr</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 1078,
+      "post_number": 2,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2016-10-03T20:17:11.559Z",
+      "cooked": "<p>nje pershkrim i ketij piktori:</p>\n<p><a href=\"http://www.thealbanian.co.uk/bota-shqiptare-ne-veprat-e-piktorit-jean-leon-gerome.html\" class=\"onebox\" target=\"_blank\">http://www.thealbanian.co.uk/bota-shqiptare-ne-veprat-e-piktorit-jean-leon-gerome.html</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 1083,
+      "post_number": 3,
+      "username": "Rrapatushi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/ea666f/{size}.png",
+      "created_at": "2016-10-03T20:24:14.078Z",
+      "cooked": "<p>Bashi-bazouk, “koke e dëmtuar” ose te quajtur ndryshe Deli bashi, fjalë për fjalë “koke e çmendur”, ishin ushtar te parregullt te ushtrisë osmane. Veçanërisht te njohur për mungesën e tyre të disiplinës.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 1155,
+      "post_number": 4,
+      "username": "Whitesnake",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/whitesnake/{size}/72_2.png",
+      "created_at": "2016-10-04T06:29:13.647Z",
+      "cooked": "<p>Ehhh…nga nuk shkuan klyshet e turqve…pastaj Battle of Navarino…flota angleze , franceze dhe ruse …i dha drejtimin e duhur Ibrahim Pashes…<div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/1X/be71cfe758a0f814a2b473ab67e224581bd36e77.JPG\" data-download-href=\"https://peshkupauje.com/uploads/default/be71cfe758a0f814a2b473ab67e224581bd36e77\" title=\"Ivan_Constantinovich_Aivazovsky_-_Battle_of_Çesme_at_Night.JPG\"><img src=\"https://peshkupauje.com/uploads/default/optimized/1X/be71cfe758a0f814a2b473ab67e224581bd36e77_2_750x800.JPG\" width=\"750\" height=\"800\" srcset=\"https://peshkupauje.com/uploads/default/optimized/1X/be71cfe758a0f814a2b473ab67e224581bd36e77_2_750x800.JPG, https://peshkupauje.com/uploads/default/optimized/1X/be71cfe758a0f814a2b473ab67e224581bd36e77_2_1125x1200.JPG 1.5x, https://peshkupauje.com/uploads/default/optimized/1X/be71cfe758a0f814a2b473ab67e224581bd36e77_2_1500x1600.JPG 2x\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/1X/be71cfe758a0f814a2b473ab67e224581bd36e77_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">Ivan_Constantinovich_Aivazovsky_-_Battle_of_Çesme_at_Night.JPG</span><span class=\"informations\">1876×2000 411 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 1385,
+      "post_number": 5,
+      "username": "del-ta",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/del-ta/{size}/74_2.png",
+      "created_at": "2016-10-05T09:03:56.939Z",
+      "cooked": "<p>ti ,gjarpër i bardhë ,je me ata që i ndanë trojet shqiptare dhe ua falën fqinjeve?    po ata që nuk ishin këlysh turqish,çu bëne? ku jane,pse <em>s’duken|</em>!   pse shumica e shqiptarëve te krishtere janë asimiluar?   ëëëëëë</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

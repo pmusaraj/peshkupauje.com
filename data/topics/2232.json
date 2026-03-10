@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": 2232,
+    "title": "Video: Solomoni që u bë Sulejman",
+    "slug": "video-solomoni-qe-u-be-sulejman",
+    "category_id": 11,
+    "created_at": "2017-04-25T10:53:39.132Z",
+    "tags": [],
+    "posts_count": 7,
+    "views": 2124,
+    "like_count": 3,
+    "word_count": 263
+  },
+  "posts": [
+    {
+      "id": 28478,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-04-25T10:53:39.207Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/0/03f87c896bc77f0b93a6532ab93af8021f2e499e.jpg\" width=\"800\" height=\"531\"></p>\n<p>Kjo është historia e jashtëzakonshme e Ali Kuçit, që gjatë Luftës së dytë botërore fshehu në shtëpi një familje hebrenjsh, duke e bëri Solomonin vëllain e vet, e duke e quajtur (dhe mbrojtur) si Sulejman. Por këto janë vetëm konturet, në brendësi historia përmban hollësi me shumë emocione dhe një dramë të madhe. Historia tregohet nga Edvin Kuçi, nipi i Aliut.</p>\n<div class=\"lazyYT\" data-youtube-id=\"33VHl-nd-PY\" data-youtube-title=\"Une jam mbrojtesi yt - Edvin Kuçi tregon historinë e Ali Kuçit\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>\n<p>Më shumë mbi këtë temë nga <a href=\"http://time.com/4651298/holocaust-memorial-day-muslims-jews/\" rel=\"nofollow noopener\">TIME MAGAZINE</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28483,
+      "post_number": 3,
+      "username": "anon63896856",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e99b99/{size}.png",
+      "created_at": "2017-04-25T12:36:15.882Z",
+      "cooked": "<p>Histori rrenqethese. Mund te jemi shume njerezore dhe mizore njekohesisht si popull.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28516,
+      "post_number": 4,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-04-25T16:28:50.454Z",
+      "cooked": "<p>Historia ishte e dhimbshme persa i perket vrasjes se ketij njeriu te mire, vrasje pa gjyq, gje qe binte ne kundershtim edhe me ligjet e asaj kohe.<br>\nSa per programin e Blendit, ajo qe me çuditi ishte titulli; “Une jam mbrojtesi yt”. Blendi do ishte mire te mbronte levizjen ku ben pjese tani, gje qe fatkeqesisht nuk po e ben.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28968,
+      "post_number": 5,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-04-28T11:40:41.924Z",
+      "cooked": "<p>Pjer, po behesh shume i bezdisshem me keto sulmet idiote vend e pa vend ndaj Blendit.</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 29022,
+      "post_number": 6,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-04-28T15:58:46.831Z",
+      "cooked": "<p>Gjembo, une dua ta rizgjoj ate apo ta shkund pak nga rutina e perditeshme, dhe kjo gje veç mire i ben.</p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    },
+    {
+      "id": 29023,
+      "post_number": 7,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-04-28T16:11:22.143Z",
+      "cooked": "<p>Ku dreqin e di ti rutinen e Blendit o Pjer? Cfare te duket vetja qe paske aftesine te zgjosh te tjeret?</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 29030,
+      "post_number": 8,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-04-28T16:37:05.051Z",
+      "cooked": "<p>Gjembo qenke e hidhet keto dite, mos je zene me burrin moj.</p>",
+      "reply_to_post_number": 7,
+      "like_count": 0
+    }
+  ]
+}

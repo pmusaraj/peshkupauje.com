@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 2054,
+    "title": "Shqipëria i shiti armë ndërmjetësit të dyshimtë bullgar",
+    "slug": "shqiperia-i-shiti-arme-ndermjetesit-te-dyshimte-bullgar",
+    "category_id": 7,
+    "created_at": "2017-03-31T14:28:09.134Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 668,
+    "like_count": 1,
+    "word_count": 130
+  },
+  "posts": [
+    {
+      "id": 25723,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-03-31T14:28:09.208Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://www.reporter.al/shqiperia-i-shiti-arme-ndermjetesit-te-dyshimte-bullgar/\" target=\"_blank\" title=\"08:17AM - 31 March 2017\" rel=\"nofollow noopener\">reporter.al – 31 Mar 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:640/480;\"><img src=\"https://www.reporter.al/wp-content/uploads/Training-of-Syrian-rebels-in-Jordan-Youtube-640.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.reporter.al/shqiperia-i-shiti-arme-ndermjetesit-te-dyshimte-bullgar/\" target=\"_blank\" rel=\"nofollow noopener\">Shqipëria i shiti armë ndërmjetësit të dyshimtë bullgar - reporter.al</a></h3>\n\n<p>Shqipëria ka shitur një pjesë të rezervave të saj të mëdha të armëve të vjetra te një firme e dyshimtë bullgare, e cila është e lidhur me një shpërthim vdekjeprurës që shkaktoi vdekjen e një trajnuesi të Pentagonit.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25763,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-03-31T20:53:25.687Z",
+      "cooked": "<p>\" …Në të njëjtën kohë, Alguns ishte e punësuar si nënkontraktor i Komandës së Operacioneve Speciale të Pentagonit (SOCOM), si pjesë e përpjekjeve të SHBA-së për të furnizuar dhe trajnuar rebelët sirianë të cilët luftojnë Shtetin Islamik, i njohur gjithashtu si ISIS…\"</p>\n<p>Sipas te dhenave qe disponojme nga emigrantet siriane kendej, te ashtuquajturit rebele qe thuhet ketu, hedhin nga dy pushke kundra IS-t, dhe ter baterine e shkarkonin kundra trupave qeveritare.  Veç tani e kane ndalur luften, pasi jane ftuar ne bisedime ne Kazakistan.<br>\nNga artikulli, dhe te dhenat qe japin deshmitaret e luftes, i bie qe Pentagoni ka ndihmuar IS-in, siç e thote dhe presidenti Trump.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25912,
+      "post_number": 3,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-04-03T17:04:13.330Z",
+      "cooked": "<p>Me siguri flitet per marreveshje te bera nga Berisha.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

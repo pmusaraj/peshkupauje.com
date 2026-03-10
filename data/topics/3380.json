@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "id": 3380,
+    "title": "Shpetojeni punetorin e mire Ismail",
+    "slug": "shpetojeni-punetorin-e-mire-ismail",
+    "category_id": 7,
+    "created_at": "2017-09-25T19:55:53.079Z",
+    "tags": [],
+    "posts_count": 7,
+    "views": 881,
+    "like_count": 0,
+    "word_count": 108
+  },
+  "posts": [
+    {
+      "id": 52943,
+      "post_number": 1,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-09-25T19:55:53.150Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"http://www.monitor.al/shpetojeni-punetorin-e-mire-ismail-kthejeni-ne-shtepi-2/\" target=\"_blank\" title=\"11:06PM - 23 September 2017\" rel=\"nofollow noopener\">Revista Monitor – 23 Sep 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:400/267;\"><img src=\"http://www.monitor.al/images/2017/09/Emigrantet-The-Mirror.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://www.monitor.al/shpetojeni-punetorin-e-mire-ismail-kthejeni-ne-shtepi-2/\" target=\"_blank\" rel=\"nofollow noopener\">Shpëtojeni punëtorin e mirë Ismail: kthejeni në shtëpi! |</a></h3>\n\n<p>EDITORIAL/MONITOR PRINT Ismaili, 26 vjeç, është saldator, zanatçi i mirë. Gazetarët e Daily Mirror, kur po investigonin për trafikun e qenieve njerëzore, para pak ditësh, e gjetën atë në një çadër së bashku me nipin, në një nga kodrat e Bilbaos...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 53035,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-09-26T20:31:18.059Z",
+      "cooked": "<p>Gazetaret e Daily Mirror, do ishte mire te investigonin edhe ne Shqiperi, jo vetem ne portet e Bilbaos.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 53037,
+      "post_number": 3,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2017-09-26T20:43:02.389Z",
+      "cooked": "<p>Kesaj here ke qelluar ne shenje pjer, artikull i mire.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 53042,
+      "post_number": 4,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-09-26T21:11:34.436Z",
+      "cooked": "<p>nga titulli albano, nuk i vura shume rendesi, lexova ter artikujt qe vinin, e kete jo, mirpo kur e lexova, vura re se e kisha paragjykuar gabim nga titulli.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 53043,
+      "post_number": 5,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-09-26T21:15:09.788Z",
+      "cooked": "<p>rrofsh xha pjer</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 53633,
+      "post_number": 6,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2017-10-01T05:03:41.396Z",
+      "cooked": "<p>Monika Kryemadhi duket se ka lexuar VQ:<br>\nKryemadhi:Sa më shumë prodhim<br>\nvendas, aq më e fortë ekonomia</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 53653,
+      "post_number": 7,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-10-01T16:07:18.059Z",
+      "cooked": "<p>Mua do t’me vinte mire Alba, se tek VQ i meshohet edhe investimit ne prodhimin vendas.</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    }
+  ]
+}

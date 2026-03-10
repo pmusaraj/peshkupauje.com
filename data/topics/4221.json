@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 4221,
+    "title": "Smajlaj medalje ari ne Lihtenshtein",
+    "slug": "smajlaj-medalje-ari-ne-lihtenshtein",
+    "category_id": 10,
+    "created_at": "2018-06-09T14:19:16.990Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 1518,
+    "like_count": 2,
+    "word_count": 16
+  },
+  "posts": [
+    {
+      "id": 74778,
+      "post_number": 1,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2018-06-09T14:19:17.098Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/2X/e/e6025510477579f01c186677bd8e264f344adbec.png\" class=\"site-icon\" width=\"192\" height=\"192\">\n      <a href=\"http://top-channel.tv/2018/06/09/smajlaj-medalje-ari-edhe-ne-lihtenshtein/\" target=\"_blank\" rel=\"nofollow noopener\">top-channel.tv</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:600/530;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/5/5c6cae7abc17abc02686508baed6d8df8f151b0d.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://top-channel.tv/2018/06/09/smajlaj-medalje-ari-edhe-ne-lihtenshtein/\" target=\"_blank\" rel=\"nofollow noopener\">Smajlaj medalje ari edhe në Lihtenshtein</a></h3>\n\n<p>Atleti shkodran Izmir Smajlaj është shpallur kampion Europe për vendet e vogla, në një kompeticion ku morën pjesë 18 shtete.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 74780,
+      "post_number": 2,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2018-06-09T17:28:10.557Z",
+      "cooked": "<p>te lumte Miri</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

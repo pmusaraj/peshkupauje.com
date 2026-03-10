@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 2247,
+    "title": "Prindërit e teprojnë me celularin thonë adoleshentët anglezë",
+    "slug": "prinderit-e-teprojne-me-celularin-thone-adoleshentet-angleze",
+    "category_id": 7,
+    "created_at": "2017-04-26T20:01:04.395Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 687,
+    "like_count": 2,
+    "word_count": 109
+  },
+  "posts": [
+    {
+      "id": 28686,
+      "post_number": 1,
+      "username": "pmusaraj",
+      "name": "pmusaraj",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/f05b48/{size}.png",
+      "created_at": "2017-04-26T20:01:04.463Z",
+      "cooked": "<p>Jeta në familje dëmtohet nga përdorimi i tepërt i celularëve nga prinderit, thotë një studim me rreth 2000 nxënës të shkollave të mesme në Angli.</p>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"http://www.bbc.com/news/education-39666863\" target=\"_blank\" rel=\"nofollow noopener\">BBC News</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/450;\"><img src=\"https://ichef-1.bbci.co.uk/news/1024/branded_news/83E3/production/_95736733_mobilephonedadignoresgirl.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://www.bbc.com/news/education-39666863\" target=\"_blank\" rel=\"nofollow noopener\">Parents' mobile use 'harms family life'</a></h3>\n\n<p>More than a third of pupils have felt the need to ask adults to put down their phones, suggests a poll.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n\n<p>Sipas sondazhit:</p>\n<ul>\n<li>36% e nxënësve i kanë kërkuar prindërve që të ndalin përdorimin e telefonit</li>\n<li>82% e nxënësve mendojnë se nuk duhet përdorur telefoni gjatë vakteve</li>\n<li>22% thonë se përdorimi i celularëve i pengon të shijojnë shoqërinë e njëri-tjetrit në familje</li>\n</ul>\n<p>Si reagojnë prindërit? Vetëm 10% e prindërve besonin se përdorimi i celularit prej tyre shqetësonte fëmijët.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28699,
+      "post_number": 2,
+      "username": "Mimoza_llastica",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/mimoza_llastica/{size}/15437_2.png",
+      "created_at": "2017-04-26T21:26:20.057Z",
+      "cooked": "<p>We know that but we can’t help it. <img src=\"https://peshkupauje.com/images/emoji/apple/relieved.png?v=5\" title=\":relieved:\" class=\"emoji\" alt=\":relieved:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28710,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-04-26T23:48:41.317Z",
+      "cooked": "<p>me mire telefoni sesa vr se pastaj dukena si budallenj</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

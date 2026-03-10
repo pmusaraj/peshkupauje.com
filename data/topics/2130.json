@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 2130,
+    "title": "Vetingu/ Basha akuzave ambasadorëve të huaj në Tiranë: Jeni të korruptuar, do",
+    "slug": "vetingu-basha-akuzave-ambasadoreve-te-huaj-ne-tirane-jeni-te-korruptuar-do",
+    "category_id": 8,
+    "created_at": "2017-04-12T16:45:28.771Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 915,
+    "like_count": 0,
+    "word_count": 24
+  },
+  "posts": [
+    {
+      "id": 26855,
+      "post_number": 1,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2017-04-12T16:45:28.850Z",
+      "cooked": "<p><a href=\"http://www.lapsi.al/lajme/2017/04/12/vetingu-basha-akuzave-ambasador-ve-t-huaj-n-tiran-jeni-t-korruptuar-do-d-nohen#.WO4gK0V97DA\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.lapsi.al/lajme/2017/04/12/vetingu-basha-akuzave-ambasador-ve-t-huaj-n-tiran-jeni-t-korruptuar-do-d-nohen#.WO4gK0V97DA</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 26856,
+      "post_number": 2,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2017-04-12T16:47:09.046Z",
+      "cooked": "",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

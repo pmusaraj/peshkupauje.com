@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 1552,
+    "title": "Orteku mbulon hotelin ne Itali. Dyshohet per viktima",
+    "slug": "orteku-mbulon-hotelin-ne-itali-dyshohet-per-viktima",
+    "category_id": 6,
+    "created_at": "2017-01-19T09:28:18.587Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 997,
+    "like_count": 0,
+    "word_count": 231
+  },
+  "posts": [
+    {
+      "id": 17155,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-01-19T09:28:18.731Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/0/0d2cca9bdb70a6ada6fbf3846a972c12460ea286.jpg\" width=\"780\" height=\"438\"></p>\n<p>Te pakten nje njeri eshte konfirmuar i vdekur, ndersa shume te tjere gjithashtu dyshohen te jene vrare gjate nates ne Italine qendrore, ku lekundjet e termetit shkaktuan nje ortek i cili mbuloi Hotel Rigopiano-n, qe ndodhet ne fund te malit Gran Sasso. Operacionet e shpetimit kane nisur ne hotelin ku qendronin 22 mysafire dhe stafi. Informacioni nga <a href=\"http://edition.cnn.com/2017/01/19/europe/italy-avalanche-earthquake-deaths/index.html\" rel=\"nofollow noopener\">CNN</a>.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 17159,
+      "post_number": 2,
+      "username": "Saturni",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/13edae/{size}.png",
+      "created_at": "2017-01-19T09:41:14.434Z",
+      "cooked": "<p>Hoteli nuk ka mysafire Blendi,ka kliente.Dhe kur thua qe nje eshte konfirmuar i vdekur,nuk ka me pune dyshimi per viktima pastaj.Mbette me aq,sidoqofte.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 17228,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-01-19T20:07:59.178Z",
+      "cooked": "<p>Kur cmimi eshte shume i krypur, jane mysafire, e biles ne shtepine e tyre.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 17239,
+      "post_number": 4,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-01-19T20:29:44.210Z",
+      "cooked": "<p>twisting facts while you can… ?</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 17738,
+      "post_number": 5,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-01-22T18:05:53.868Z",
+      "cooked": "<p>Gjer me tani, jane shpetuar disa njerez, por ajo qe shoh une ne ate tragjedi, eshte;</p>\n<ol>\n<li>mjerimi i teknollogjise italiane, nje nga 7 vendetet e industrializuara,   dhe</li>\n<li>mjerimi i impenjimit per te shpetuar njerzit e ngelur brenda.<br>\n1a- Ky vend i teknollogjise se larte, nuk kish dhe nuk ka mjete qe e pastrojne vendin per disa ore.<br>\n1b- Nuk kish sonda çpuese, per te çuar oksigjenin dhe kabllo lidhese me viktimat brenda, te izoluar.<br>\n2a- Grupet shpetuese aty, shum syresh, vinin verdall kot, sikur nuk e dinin punen e tyre.<br>\n2b- Mungonte nje tru manaxhues/drejtues.</li>\n</ol>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

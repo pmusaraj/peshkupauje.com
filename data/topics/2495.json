@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 2495,
+    "title": "Mbi Libra: Ura e mbretit Shën Luigj, roman nga Thornton Wilder",
+    "slug": "mbi-libra-ura-e-mbretit-shen-luigj-roman-nga-thornton-wilder",
+    "category_id": 15,
+    "created_at": "2017-05-23T07:01:33.967Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 1356,
+    "like_count": 1,
+    "word_count": 118
+  },
+  "posts": [
+    {
+      "id": 33551,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-05-23T07:01:34.032Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/3/3e463e8338a8b8ef98e43d130179a6ca8f693513.png\" width=\"606\" height=\"350\"></p>\n<p>Bisede ne studio mbi romanin “Ura e mbretit Shën Luigj” (The Bridge of San Luis Rey) nga shkrimtari amerikan Thornton Wilder, përkthyer nga Pirro Dollani, botimet Living. Romani ka në qendër të ngjarjes rrëzimin e një ure këmbësorësh në Lima të Perusë. Pesë vetë ishin rastësisht atë moment mbi urë dhe për At Xhuniperin që e pa ngjarjen, ky ishte një rast për të zbuluar nëse Zoti ka një plan për jetën dhe vdekjen tonë. Fitues i çmimit Pulitzer 1928.</p>\n<div class=\"lazyYT\" data-youtube-id=\"BeujcYjwub0\" data-youtube-title=\"Agim Baci   - Ura e Mbretit Shen Luigj nga Thorntor Wilder\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 33592,
+      "post_number": 2,
+      "username": "bradland",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/9de0a6/{size}.png",
+      "created_at": "2017-05-23T11:21:40.746Z",
+      "cooked": "<p>S\"paska faj Pjeri qe nuk shkoka mo tek studioja e Blendi Sales , ky as karrige ste jepka.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

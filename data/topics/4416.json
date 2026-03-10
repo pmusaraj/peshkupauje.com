@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 4416,
+    "title": "Si po e shpërdoron Rilindja Kadarenë",
+    "slug": "si-po-e-shperdoron-rilindja-kadarene",
+    "category_id": 7,
+    "created_at": "2018-10-28T13:58:57.843Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 975,
+    "like_count": 0,
+    "word_count": 49
+  },
+  "posts": [
+    {
+      "id": 78794,
+      "post_number": 1,
+      "username": "ars",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/ars/{size}/197_2.png",
+      "created_at": "2018-10-28T13:58:57.916Z",
+      "cooked": "<p><a href=\"https://lapsi.al/2018/10/28/faktet-si-po-e-shperdoron-rilindja-kadarene-per-krimet-e-veta/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">https://lapsi.al/2018/10/28/faktet-si-po-e-shperdoron-rilindja-kadarene-per-krimet-e-veta/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 78861,
+      "post_number": 2,
+      "username": "del-ta",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/del-ta/{size}/74_2.png",
+      "created_at": "2018-10-31T17:42:59.454Z",
+      "cooked": "<p>Lapsi😀.   Po veliu juaji eshte,cun I sorrosit!  Nderkombetarist veliaj,nderkombetarist luli! Ça keni qe beni gam gam!   Me mire sulmoni ramen  qe ju vrau ate grekun🙋</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 78881,
+      "post_number": 3,
+      "username": "kapo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/kapo/{size}/4005_2.png",
+      "created_at": "2018-11-01T12:27:06.660Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/6/69a51024cca4527e4a0662f4a6f0f6ef1a641400.jpeg\" data-download-href=\"https://peshkupauje.com/uploads/default/69a51024cca4527e4a0662f4a6f0f6ef1a641400\" title=\"45170175_10217518926596089_2630303581990813696_n.jpg\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/6/69a51024cca4527e4a0662f4a6f0f6ef1a641400.jpeg\" alt=\"45170175_10217518926596089_2630303581990813696_n\" width=\"788\" height=\"800\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/6/69a51024cca4527e4a0662f4a6f0f6ef1a641400_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">45170175_10217518926596089_2630303581990813696_n.jpg</span><span class=\"informations\">946×960 87.6 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

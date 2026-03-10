@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 3671,
+    "title": "Çështje vokacioni",
+    "slug": "ceshtje-vokacioni",
+    "category_id": 7,
+    "created_at": "2017-12-07T17:41:27.725Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 744,
+    "like_count": 1,
+    "word_count": 82
+  },
+  "posts": [
+    {
+      "id": 60753,
+      "post_number": 1,
+      "username": "ars",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/ars/{size}/197_2.png",
+      "created_at": "2017-12-07T17:41:27.798Z",
+      "cooked": "<p><a href=\"http://gazeta-shqip.com/lajme/2017/12/06/ceshtje-vokacioni/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://gazeta-shqip.com/lajme/2017/12/06/ceshtje-vokacioni/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 60755,
+      "post_number": 2,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-12-07T18:03:51.678Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/5/5bb8e8f4a032b301c502f1cbf4be17283581a474.jpg\" width=\"306\" height=\"191\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 60759,
+      "post_number": 3,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-12-07T19:29:24.870Z",
+      "cooked": "<p>tregimi , ose me sakte analiza,  ndonse i gjate, me pelqeu. veç autori duhet te kete parasysh, se pavarsisht se ti e thua nje gje me nje kuptim, ai tjetri e kupton krejt ndyshe, dhe ketu lindin keqkuptimet, se mvaret si e thua dhe si e sheh.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

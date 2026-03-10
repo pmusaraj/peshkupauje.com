@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": 1957,
+    "title": "Mos e “shk#@%%heni” protestën!",
+    "slug": "mos-e-shk-heni-protesten",
+    "category_id": 7,
+    "created_at": "2017-03-14T06:25:30.084Z",
+    "tags": [],
+    "posts_count": 1,
+    "views": 653,
+    "like_count": 0,
+    "word_count": 36
+  },
+  "posts": [
+    {
+      "id": 24035,
+      "post_number": 1,
+      "username": "ceres",
+      "name": "Olta Reka",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/b487fb/{size}.png",
+      "created_at": "2017-03-14T06:25:30.160Z",
+      "cooked": "<p><a href=\"http://gazetaminerva.com/mos-e-shkerdheni-protesten/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://gazetaminerva.com/mos-e-shkerdheni-protesten/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

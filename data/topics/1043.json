@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 1043,
+    "title": "Kreditë e këqija, rritje e pandalshme",
+    "slug": "kredite-e-keqija-rritje-e-pandalshme",
+    "category_id": 7,
+    "created_at": "2016-12-06T08:31:48.344Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 808,
+    "like_count": 0,
+    "word_count": 101
+  },
+  "posts": [
+    {
+      "id": 11889,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-12-06T08:31:48.433Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.reporter.al/2016/12/05/kredite-e-keqija-rritje-e-pandalshme/\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/3X/5/7/574bfd1d6d53fc8f58c8d802b60eed5b9c76e19d.png\" class=\"site-icon\" width=\"32\" height=\"32\">\n\n      <a href=\"https://www.reporter.al/2016/12/05/kredite-e-keqija-rritje-e-pandalshme/\" target=\"_blank\" rel=\"noopener\" title=\"06:31PM - 05 December 2016\">Reporter.al – 5 Dec 16</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:600/371;\"><img src=\"https://peshkupauje.com/uploads/default/original/3X/a/c/ac427126d7fb29ef64f5c86edeacbc04f10f29c9.png\" class=\"thumbnail\" width=\"600\" height=\"371\"></div>\n\n<h3><a href=\"https://www.reporter.al/2016/12/05/kredite-e-keqija-rritje-e-pandalshme/\" target=\"_blank\" rel=\"noopener\">Kreditë e këqija, rritje e pandalshme</a></h3>\n\n  <p>Treguesi i kredive të këqija të sistemit bankar shënoi kuotën 21.35 për qind të totalit të kredive në muajin tetor,</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 11957,
+      "post_number": 2,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2016-12-06T15:16:04.304Z",
+      "cooked": "<p>Te gjitha keto kredi qe sot jane te keqija jane dhene ne vitet 2005 - 2012, pra kur qeverisnin batakcinjte dhe kusaret. Sigurisht qe bankat kane fajin kryesor  e ketu nuk perjashtohet edhe banka qendrore me kryebankierin Fullani. Nejse, sot qeveria duhet te beje cmos per te ndihmuar bankat qe te zbusin sadopak humbjen e krijuar nepermjet posedimit te kolateraleve nga kompanite me kredi te keqija dhe kthimin e tyre ne likuiditete sa me shpejt.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 11962,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2016-12-06T15:27:46.001Z",
+      "cooked": "<p>nga kredite e hane fuqi te medha si akerika, e jo me vende te vogla si ne</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

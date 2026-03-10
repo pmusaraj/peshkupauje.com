@@ -1,0 +1,40 @@
+{
+  "meta": {
+    "id": 60,
+    "title": "Sadiku gol me Zyrihun kundër Villarealit",
+    "slug": "sadiku-gol-me-zyrihun-kunder-villarealit",
+    "category_id": 10,
+    "created_at": "2016-09-15T20:14:20.345Z",
+    "tags": [
+      "video"
+    ],
+    "posts_count": 2,
+    "views": 1051,
+    "like_count": 0,
+    "word_count": 16
+  },
+  "posts": [
+    {
+      "id": 95,
+      "post_number": 1,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2016-09-15T20:14:20.467Z",
+      "cooked": "<div class=\"lazyYT\" data-youtube-id=\"4nE8kH9KVE0\" data-youtube-title=\"Armando Sadiku shënon super gol kundër Villareal.\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 98,
+      "post_number": 2,
+      "username": "test",
+      "name": "Test",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/f9ae1b/{size}.png",
+      "created_at": "2016-09-16T18:52:53.496Z",
+      "cooked": "<p>Shume gol i bukur po gjynah, ndeshjen e humben.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

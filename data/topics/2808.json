@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": 2808,
+    "title": "Sistemi i adresave",
+    "slug": "sistemi-i-adresave",
+    "category_id": 5,
+    "created_at": "2017-06-17T12:04:44.145Z",
+    "tags": [],
+    "posts_count": 8,
+    "views": 1204,
+    "like_count": 4,
+    "word_count": 529
+  },
+  "posts": [
+    {
+      "id": 37893,
+      "post_number": 1,
+      "username": "gjergji",
+      "name": "gjergji",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjergji/{size}/5335_2.png",
+      "created_at": "2017-06-17T12:04:44.215Z",
+      "cooked": "<p>Kohet e fundit prinderit levizen ne nje apartament te ri ne Durres.  Gjate nje telefonate i pyeta per adresen qe t’i dergoja dicka qe u duhej.  Babai hezitoi per nje moment dhe tha: \"…Gjergj, …se …domethene kjo puna e adresave eshte pak e komplikuar ketu.  Sidoqofte shkruaj:</p>\n<p>Lagja 1, Rruga “Taulantia”,<br>\nPallati perbri Hotel XYZ, siper bar ABC…\"</p>\n<p>Per ata qe e njohin Durresin, nuk po behet fjale per nje lagjje te re te mbire si kerpudhe pas shiut.  Pyetja qe kam eshte: Pse eshte kaq e veshtire qe te kete nje sistem adresash ku i paraprin ndertimeve te reja?   Dmth, nese dikush nga ju eshte arkitekt apo ka njohje te sistemit, si funksionon ky sistem per momentin, dhe si mund te rregullohet?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37896,
+      "post_number": 2,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-06-17T12:23:38.310Z",
+      "cooked": "<p>O Gjergji, ke ndonje pyetje per Kinen, Angline, luften ne Gjirin Persik? Apo do te dish sesi mund te shkosh nga shtepia jote te wallmarti me i afert? Ku jane getot ne filan qytet? Per keto gjera na pyet sa here te duash, ndersa per sistemin e adresave ne Shqiperi… nuk merremi me keto vogelsira. Ai qe kerkon gjen, thote populli 5here me i zgjuar shqiptar.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37899,
+      "post_number": 3,
+      "username": "salben",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/f05b48/{size}.png",
+      "created_at": "2017-06-17T12:33:06.618Z",
+      "cooked": "<p>Nuk besoj te mos jete bere ne durres, por ne Tirane dhe ne disa qytete te tjera ku kam te njohur, erdhen neper shtepia dhe moren regjistrimin per adresat e reja. Nuk e di a kane hyre numrat e rinj ne fuqi, por gjithsesi dhe me pare ka pasur nje numer. Thjesht babai yt ndoshta nuk e di, por posta ka nje numer zyrtar per cdo ndertese e per cdo apartament. Babai te shikoje faturen e ujit, se aty e ka adresen. Dhe po s’e pati aty, e ka te sakte fare te hipoteka. Por nga ana popullore, kur porosit nje pice, psh, menyra me e thjeshte eshte me objekte te njohura. Populli yne nuk eshte mesuar me tjeter sistem.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37901,
+      "post_number": 4,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-06-17T12:43:28.641Z",
+      "cooked": "<p>Shkabe erdhen neper shtepia pikerisht per te krijuar ate qe quhet rezidenca si dhe per regullimin e sistemit te adresave. Por nga ardhja ne shtepi e intervistueseve derisa te perfundoje procesi (ndoshta edhe nuk perfundon, pasi e nisi njehere bashkia e Tirones nese te kujtohet kur ishte pronar, me fal kryetar Edi Rama, por nuk perfundoje) mbase kalojne edhe 10 vjet.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 37902,
+      "post_number": 5,
+      "username": "Cecua",
+      "name": "Ceco",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/87869e/{size}.png",
+      "created_at": "2017-06-17T12:46:13.732Z",
+      "cooked": "<p>\"Populli yne nuk eshte mesuar me tjeter sistem.“<br>\nNcncnc Po edhe Ura Vajgurore ka adresa te tipit \" Rruga X, Pallati abc/1/2/etj, Hyrja 1/2/3, Kati 3, apartamenti yz”. Limitohu ne 2 gomarlleqe ne dite them une.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37903,
+      "post_number": 6,
+      "username": "salben",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/s/f05b48/{size}.png",
+      "created_at": "2017-06-17T12:52:45.606Z",
+      "cooked": "<p>ata erdhen per te ndryshuar sistemin, dmth nga pallati numer kaq, tani do te behet “ndertesa numer kaq”, por jo se me perpara nuk kishte adrese. Cdo apartament e cdo banese e ka nje numer regjistrimi, nese nuk eshte aq e paligjshme sa te mos kete lidhje per uje e drita.</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 37905,
+      "post_number": 7,
+      "username": "machitewa",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/machitewa/{size}/238_2.png",
+      "created_at": "2017-06-17T13:14:54.985Z",
+      "cooked": "<p>Ne shqiperi ruhet privatesia e individit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37949,
+      "post_number": 8,
+      "username": "qimja",
+      "name": "qimja",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/q/7993a0/{size}.png",
+      "created_at": "2017-06-18T10:14:39.285Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"gjergji\" data-post=\"1\" data-topic=\"2808\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/user_avatar/peshkupauje.com/gjergji/48/5335_2.png\" class=\"avatar\"> gjergji:</div>\n<blockquote>\n<p>nese dikush nga ju eshte arkitekt apo ka njohje te sistemit, si funksionon ky sistem</p>\n</blockquote>\n</aside>\n<p>o byrazer, i vetmi sistem qe funksiono ne ket prizem esht  anullimi i planit urban i legjislatures meparshme nga tufeshkerdhysat e rradhes.Thuj shyqyr zotit, prä-neandertalet po shtrojn tubat e ujit perpara se me ngrejt muret.<br>\n<img src=\"https://peshkupauje.com/images/emoji/apple/joy.png?v=12\" title=\":joy:\" class=\"emoji only-emoji\" alt=\":joy:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

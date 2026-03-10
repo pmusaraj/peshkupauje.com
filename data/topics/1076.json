@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 1076,
+    "title": "Filmi “Ndërkombëtarët”, ironia therëse si tek “Njeriu ynë në Havanë” i Graham Greeen",
+    "slug": "filmi-nderkombetaret-ironia-therese-si-tek-njeriu-yne-ne-havane-i-graham-greeen",
+    "category_id": 7,
+    "created_at": "2016-12-10T07:53:52.154Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 619,
+    "like_count": 3,
+    "word_count": 87
+  },
+  "posts": [
+    {
+      "id": 12433,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-12-10T07:53:52.235Z",
+      "cooked": "<p><a href=\"http://www.pasqyre.al/te-gjitha/filmi-nderkombetaret-ironia-therese-si-tek-njeriu-yne-ne-havane-i-graham-greeen\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">http://www.pasqyre.al/te-gjitha/filmi-nderkombetaret-ironia-therese-si-tek-njeriu-yne-ne-havane-i-graham-greeen</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12443,
+      "post_number": 2,
+      "username": "ACDC",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e68b1a/{size}.png",
+      "created_at": "2016-12-10T13:58:38.683Z",
+      "cooked": "<p>Urime!<br>\nIde shume e bukur!<br>\nUroj te ndergjegjesohen albanistanasit mbi keta “zota” te rreme qe krijojne.<br>\nDerisa te ndergjegjesohen dhe te kuptojne, qe per Shqiperine duhet te vendosin shqiptaret dhe qe shqiptaret te majte apo te djathte qofshin ata, duhet te punojne sebashku,deri atehere do te shikohen dhe trajtohen si indianet e Amerikes nga spanjollet,francezet,portigezet apo anglezet.<br>\nDeri atehere per mua jane albanistanas jo shqiptare.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 2817,
+    "title": "Foto e ditës: zjarri në Portugali",
+    "slug": "foto-e-dites-zjarri-ne-portugali",
+    "category_id": 6,
+    "created_at": "2017-06-18T20:50:31.819Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 745,
+    "like_count": 0,
+    "word_count": 88
+  },
+  "posts": [
+    {
+      "id": 37980,
+      "post_number": 1,
+      "username": "Reni",
+      "name": "Reni Kaziu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/a9adbd/{size}.png",
+      "created_at": "2017-06-18T20:50:31.887Z",
+      "cooked": "<p>Zjarrfikësit punojnë për të fikur zjarrin në Portugali. /18 Qershor, 2017.</p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/5/57a94fc3b0d01ef85724d23f8b7f2180d44a4bd0.jpg\" width=\"783\" height=\"522\"></p>\n<p>Burimi - <a href=\"http://www.msn.com/en-us/news/world/image-of-the-day/ss-BB1F1yA?fullscreen=true#image=1\" rel=\"nofollow noopener\">MSN</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 37993,
+      "post_number": 2,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-06-19T04:36:37.542Z",
+      "cooked": "<p>Bukur, por kete lloj bukurie vetem nje tiran si Neroni mund ta kuptoje. (perjashtu Moza elastiken demokratiken qe i pelqejne perendimet e zjarrta te diellit).</p>\n<p>Çfar ka ndodh, u shojt Shqiperia qe nuk komenton me njeri ne Peshk?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 38025,
+      "post_number": 3,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-06-19T14:21:36.396Z",
+      "cooked": "<p>lere,  lere.  iku per peshk leshi</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+[
+  {
+    "id": 6,
+    "name": "Kryesore",
+    "slug": "kryesore",
+    "description": "",
+    "topic_count": 282,
+    "parent_category_id": null,
+    "color": "F8BBD0",
+    "text_color": "000000"
+  },
+  {
+    "id": 9,
+    "name": "Politikë",
+    "slug": "politike",
+    "description": "Tema mbi politikën shqiptare dhe ndërkombëtare.",
+    "topic_count": 145,
+    "parent_category_id": null,
+    "color": "E1BEE7",
+    "text_color": "000000"
+  },
+  {
+    "id": 11,
+    "name": "Kulturë",
+    "slug": "kulture",
+    "description": "",
+    "topic_count": 287,
+    "parent_category_id": null,
+    "color": "BBDEFB",
+    "text_color": "000000"
+  },
+  {
+    "id": 15,
+    "name": "Letërsi",
+    "slug": "letersi",
+    "description": "",
+    "topic_count": 344,
+    "parent_category_id": null,
+    "color": "BBDEFB",
+    "text_color": "000000"
+  },
+  {
+    "id": 12,
+    "name": "Shkencë",
+    "slug": "shkence",
+    "description": "Tema mbi të rejat nga fusha të ndryshme të shkencës. Postime që lidhen me zbulime, studime, hapësirën, avancimet teknologjike apo mjeksinë do të kategorizoheshin mirë këtu.",
+    "topic_count": 26,
+    "parent_category_id": null,
+    "color": "B3E5FC",
+    "text_color": "000000"
+  },
+  {
+    "id": 10,
+    "name": "Sport",
+    "slug": "sport",
+    "description": "",
+    "topic_count": 45,
+    "parent_category_id": null,
+    "color": "B2DFDB",
+    "text_color": "000000"
+  },
+  {
+    "id": 5,
+    "name": "Pyetje",
+    "slug": "pyetje",
+    "description": "Këtu mund të dërgoni pyetje për komunitetin.",
+    "topic_count": 121,
+    "parent_category_id": null,
+    "color": "F0F4C3",
+    "text_color": "000000"
+  },
+  {
+    "id": 8,
+    "name": "24 karat",
+    "slug": "24-karat",
+    "description": "",
+    "topic_count": 48,
+    "parent_category_id": null,
+    "color": "FFECB3",
+    "text_color": "000000"
+  },
+  {
+    "id": 7,
+    "name": "Shtypi",
+    "slug": "shtypi",
+    "description": "Lidhje drejt artikujve interesantë nga shtypi dhe mediat online. Pranon vetem ngjitjen e një lidhjeje.",
+    "topic_count": 597,
+    "parent_category_id": null,
+    "color": "FFE0B2",
+    "text_color": "000000"
+  },
+  {
+    "id": 3,
+    "name": "Meta",
+    "slug": "mbipeshkun",
+    "description": "Komente, përshtypje, njoftime gabimesh në lidhje me vetë këtë faqe (Peshkun).",
+    "topic_count": 9,
+    "parent_category_id": null,
+    "color": "FFCCBC",
+    "text_color": "000000"
+  },
+  {
+    "id": 14,
+    "name": "Diskutime të lira",
+    "slug": "hapur",
+    "description": "Një temë në javë do të krijohet nën këtë kategori për diskutime të lira.",
+    "topic_count": 120,
+    "parent_category_id": null,
+    "color": "D7CCC8",
+    "text_color": "000000"
+  },
+  {
+    "id": 13,
+    "name": "Referencë",
+    "slug": "reference",
+    "description": "Këtu do të vendosim disa tema për referencë, si psh. listën e lidhjeve drejt mediave shqiptare online (gazetat, TV-të, bloget, etj.). Vetëm administratorët mund të krijojnë tema të reja.",
+    "topic_count": 3,
+    "parent_category_id": null,
+    "color": "D7CCC8",
+    "text_color": "000000"
+  }
+]

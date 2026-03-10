@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 4306,
+    "title": "Kolonizimi teknologjik i kultures shqiptare",
+    "slug": "kolonizimi-teknologjik-i-kultures-shqiptare",
+    "category_id": 7,
+    "created_at": "2018-08-05T09:36:09.551Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 795,
+    "like_count": 2,
+    "word_count": 223
+  },
+  "posts": [
+    {
+      "id": 76269,
+      "post_number": 1,
+      "username": "Albano-id",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/albano-id/{size}/14620_2.png",
+      "created_at": "2018-08-05T09:36:09.611Z",
+      "cooked": "<p><a href=\"http://www.panorama.com.al/kolonizimi-teknologjik-i-kultures-shqiptare/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.panorama.com.al/kolonizimi-teknologjik-i-kultures-shqiptare/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 76272,
+      "post_number": 2,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2018-08-05T14:48:05.533Z",
+      "cooked": "<p>Fatkeqesisht ne Shqiperi ka shume injorance. Shume rende na ka rene perendimi. Me kete kulturen argetuese instagrami eshte nder bombat me te fuqishme per neuronet e njerezve, eshte vendi ku finalizohet argetimi duke treguar live cdo konsum qe realizon dhe ku madje paguhesh per performancen po te kesh shume ndjekesa. Sa shtrenjte paguhet cdo sekond qe njeriu i largohet jetes?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 76283,
+      "post_number": 3,
+      "username": "del-ta",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/del-ta/{size}/74_2.png",
+      "created_at": "2018-08-06T10:56:21.786Z",
+      "cooked": "<p>po i vjen rrotull thelbit por nuk i bie dot në të!   ka një keqkuptim të madh në lidhje me ‘‘evropën’’.      në shqipëri evropian konsiderohet njeriu me mëndësi afrikane.   përbotist,pa identitet kombëtar,lypsar kulturor, e me radhë.    thelbi i saj është që të jesh ‘‘evropian’’  duhet të mos jesh ‘‘shqiptar’’.     një shqiptar i ‘‘integruar’’  nuk e vë kurrë në dyshim një ide apo prodhim që vjen nga evropa.    ‘‘e tha ambasadori’’,   universiteti ‘‘evropian’’, spitali ‘‘gjerman’’,  e me radhë janë aksioma që nuk duhet ti verë kush në diskutim.   janë pak në vështirësi tani ku kombëtarizmi ,si vlerë evropiane po del më fuqishëm në skenë dhe çirakët e integrimit nuk e fshehin dot më diellin me shoshë!  sidoqoftë,shkëputja e dhunshme  e synuar nga rrënjët kombëtare  nuk besoj se mund të vazhdojë gjatë, pavarësisht se zezakëria e kolonizuar është goxha e madhe akoma.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 76285,
+      "post_number": 4,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2018-08-06T12:04:48.017Z",
+      "cooked": "<p>Mertirin s’e kam lexuar dot ndonjehere, keshtu edhe tani.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 4053,
+    "title": "PD: Rama pjesë e skemës për grabitjen e tokës në bregdet",
+    "slug": "pd-rama-pjese-e-skemes-per-grabitjen-e-tokes-ne-bregdet",
+    "category_id": 7,
+    "created_at": "2018-03-25T21:30:34.778Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 884,
+    "like_count": 0,
+    "word_count": 116
+  },
+  "posts": [
+    {
+      "id": 70366,
+      "post_number": 1,
+      "username": "espana",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/e/ed655f/{size}.png",
+      "created_at": "2018-03-25T21:30:34.847Z",
+      "cooked": "<p><a href=\"http://www.panorama.com.al/rama-pjese-e-skemes-per-grabitjen-e-tokave-ne-bregdet-pd-nxjerr-dokumentet/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.panorama.com.al/rama-pjese-e-skemes-per-grabitjen-e-tokave-ne-bregdet-pd-nxjerr-dokumentet/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 70392,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2018-03-26T11:51:03.810Z",
+      "cooked": "<p>Është i madh kazani, çdo 4 vjet një tepri. Ska ngel pordhitikan pa miliona</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 70425,
+      "post_number": 3,
+      "username": "espana",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/e/ed655f/{size}.png",
+      "created_at": "2018-03-26T17:10:13.778Z",
+      "cooked": "<p>Jep shpjegimi i tha Rama sot. Ate e ka marr miku vet dhe po ben hotel po ai sdi gje fakiri.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 70429,
+      "post_number": 4,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2018-03-26T17:18:09.530Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"espana\" data-post=\"3\" data-topic=\"4053\" data-full=\"true\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/letter_avatar_proxy/v4/letter/e/ed655f/48.png\" class=\"avatar\"> espana:</div>\n<blockquote>\n<p>Jep shpjegimi i tha Rama sot. Ate e ka marr miku vet dhe po ben hotel po ai sdi gje fakiri.</p>\n</blockquote>\n</aside>\n<p>politikan fakir, akoma nuk kam pare, mos eshte e kunderta me te.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 70469,
+      "post_number": 5,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2018-03-27T02:36:31.822Z",
+      "cooked": "<p>Rama paralajmëron: 2018-ta do të jetë viti më i zi për zyrtarët dhe bandat me kostume<br>\nAvash se i patakse😊</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 2645,
+    "title": "Dokumentat tregojnë përpjekjet ruse dhe serbe për tu përzjerë në Maqedoni",
+    "slug": "dokumentat-tregojne-perpjekjet-ruse-dhe-serbe-per-tu-perzjere-ne-maqedoni",
+    "category_id": 7,
+    "created_at": "2017-06-05T10:12:08.949Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 665,
+    "like_count": 0,
+    "word_count": 143
+  },
+  "posts": [
+    {
+      "id": 35845,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-06-05T10:12:09.022Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/b/baf987f735455f2cf76f484afaad401b50ebafd2.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/baf987f735455f2cf76f484afaad401b50ebafd2\" title=\"maqedonia.jpg\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/b/baf987f735455f2cf76f484afaad401b50ebafd2.jpg\" width=\"800\" height=\"450\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/b/baf987f735455f2cf76f484afaad401b50ebafd2_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">maqedonia.jpg</span><span class=\"informations\">876×493 85.5 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>Spiunet dhe diplomatet ruse prej pothuajse nje dekade jane perfshire ne nje perpjekje per te perhapur propagande dhe provokuar mosmarreveshje ne Maqedoni - kjo si nje perpjekje rajonale per te ndaluar hyrjen ne NATO te vendeve te Ballkanit. Ky konkluzion vjen pasi nje numer dokumentash zyrtare ra ne duart e Projektit per Raportimin mbi Krimin e Organizuar dhe Korrupsionin  (OCCRP) ne bashkepunim me NOVA TV dhe Rrjetin e Raportimit mbi Krimin dhe Korrupsionin (KRIK).</p>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://www.occrp.org/assets/common/favicon.png\" class=\"site-icon\" width=\"284\" height=\"302\">\n      <a href=\"https://www.occrp.org/en/spooksandspin/leaked-documents-show-russian-serbian-attempts-to-meddle-in-macedonia/\" target=\"_blank\" rel=\"nofollow noopener\">OCCRP</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/581;\"><img src=\"https://www.occrp.org/assets/spooksandspin/zoran-zaev.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.occrp.org/en/spooksandspin/leaked-documents-show-russian-serbian-attempts-to-meddle-in-macedonia/\" target=\"_blank\" rel=\"nofollow noopener\">Leaked Documents Show Russian, Serbian Attempts to Meddle in Macedonia - OCCRP</a></h3>\n\n<p>Secret intelligence documents obtained by OCCRP and partners show how Russian and Serbian operatives in Macedonia have worked to pry the fragile Balkan nation away from the West.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 35864,
+      "post_number": 2,
+      "username": "Balzac",
+      "name": "Genti",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/4da419/{size}.png",
+      "created_at": "2017-06-05T12:58:18.317Z",
+      "cooked": "<p>Mire bene qe dolen dokumentat po kjo pak a shume dihej. Presim te dalin dokumentat mbi influencen ruse ne trazirat parazgjedhore ne Shqiperi.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 35929,
+      "post_number": 3,
+      "username": "dafne",
+      "name": "Dafne",
+      "avatar_template": "/user_avatar/peshkupauje.com/dafne/{size}/4008_2.png",
+      "created_at": "2017-06-05T18:49:46.415Z",
+      "cooked": "<p>pritni ne rradhe pak , ka kohe mjafte …</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 36102,
+      "post_number": 4,
+      "username": "Elba",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/e/ecc23a/{size}.png",
+      "created_at": "2017-06-06T18:18:35.302Z",
+      "cooked": "<p>lobi shqiptar …nder me te dobetit , po beji fresk amerikes thuj</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

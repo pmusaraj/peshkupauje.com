@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 97,
+    "title": "Kinkaleri?",
+    "slug": "kinkaleri",
+    "category_id": 5,
+    "created_at": "2016-09-28T12:29:03.477Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 915,
+    "like_count": 1,
+    "word_count": 68
+  },
+  "posts": [
+    {
+      "id": 200,
+      "post_number": 1,
+      "username": "preparat",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/e9c0ed/{size}.png",
+      "created_at": "2016-09-28T12:29:03.530Z",
+      "cooked": "<p>Nga vjen kjo fjale? Une u bera 20 vjet ne Amerike dhe nuk di a perdoret me ne Shqiperi, po jam kurioz te di nga vjen. Ka te beje me llojin e mallit qe shitet ne keto dyqane? Mall nga Kina?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 201,
+      "post_number": 2,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2016-09-28T12:54:45.338Z",
+      "cooked": "<p>Me siguri që vjen nga frëngjishtja.</p>\n<p>Quincaillerie - janë ca dyqane të vogla që kanë kryesisht gjëra për riparime shtëpie, vegla, etj.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 205,
+      "post_number": 3,
+      "username": "preparat",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/e9c0ed/{size}.png",
+      "created_at": "2016-09-28T13:23:12.580Z",
+      "cooked": "<p>Interesante.  Rrofsh!</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 726,
+      "post_number": 4,
+      "username": "Cecua",
+      "name": "Ceco",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/87869e/{size}.png",
+      "created_at": "2016-10-02T08:05:20.672Z",
+      "cooked": "<p>Po, c’ju nevojitet?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

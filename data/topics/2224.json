@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 2224,
+    "title": "Arbëreshët festojnë 550 e fitores së Skënderbeut për herë të parë në Krujë",
+    "slug": "arbereshet-festojne-550-e-fitores-se-skenderbeut-per-here-te-pare-ne-kruje",
+    "category_id": 7,
+    "created_at": "2017-04-24T11:25:00.048Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 668,
+    "like_count": 2,
+    "word_count": 75
+  },
+  "posts": [
+    {
+      "id": 28351,
+      "post_number": 1,
+      "username": "Cecua",
+      "name": "Ceco",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/87869e/{size}.png",
+      "created_at": "2017-04-24T11:25:00.133Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"http://www.shqiptarja.com/images/favicon.ico\" class=\"site-icon\" width=\"16\" height=\"16\">\n      <a href=\"http://shqiptarja.com/video/index.php?IDVideo=50802&amp;idkat=53\" target=\"_blank\" rel=\"nofollow noopener\">shqiptarja.com</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:290/215;\"><img src=\"http://shqiptarja.com//videoAlbum/Video/a_50802.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://shqiptarja.com/video/index.php?IDVideo=50802&amp;idkat=53\" target=\"_blank\" rel=\"nofollow noopener\">Arbëreshët festojnë 550 e fitores së\nSkënderbeut për herë të parë në Krujë</a></h3>\n\n<p>Arbëreshët e Italisë, kanë ardhur për herë të parë në Kruje, që të festojnë 550-vjetorin e fitores së Skënderbeut. \n \nManifestimet lidhen me fitoren e Skënderbeut mbi ushtrinë Osmane të udhëhequr nga Ballaban Pashe Badera. Fitorja e Skënderbeut...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28360,
+      "post_number": 2,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2017-04-24T12:08:59.391Z",
+      "cooked": "<p>keto jane bote me vete<br>\n(ashtu sic duhet te ishte bota shqiptare ne te vertete)</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28366,
+      "post_number": 3,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-04-24T12:49:19.810Z",
+      "cooked": "<p>tridhtepes vjet pa e pa e u cmena. …</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28384,
+      "post_number": 4,
+      "username": "Cecua",
+      "name": "Ceco",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/c/87869e/{size}.png",
+      "created_at": "2017-04-24T14:52:18.434Z",
+      "cooked": "<p>Te kene meshire thuj, mos ti lejojne me kalu ke rruga Eli-basanit.<br>\nTerp per ne.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 28397,
+      "post_number": 5,
+      "username": "ACDC",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e68b1a/{size}.png",
+      "created_at": "2017-04-24T15:59:29.277Z",
+      "cooked": "<p>Nderkohe shqiptaret e Kosoves bejne homazhe tek tyrbeja e Sulltanit te vrare ne Fush-Kosove ne 28 Qershor 1389 nga nje arberesh.<br>\nSa poshte kemi rene!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

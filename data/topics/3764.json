@@ -1,0 +1,137 @@
+{
+  "meta": {
+    "id": 3764,
+    "title": "Shot Pow",
+    "slug": "shot-pow",
+    "category_id": 15,
+    "created_at": "2017-12-28T13:11:43.337Z",
+    "tags": [],
+    "posts_count": 11,
+    "views": 958,
+    "like_count": 3,
+    "word_count": 361
+  },
+  "posts": [
+    {
+      "id": 62609,
+      "post_number": 1,
+      "username": "raqi",
+      "name": "raqi",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/r/db5fbb/{size}.png",
+      "created_at": "2017-12-28T13:11:43.392Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/2X/c/c89acce54132d0325378170ecd8c460520f2c3a0.jpg\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://llafe.wordpress.com/2017/12/12/shot-pow/\" target=\"_blank\" title=\"02:04PM - 12 December 2017\" rel=\"nofollow noopener\">derë – 12 Dec 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <img src=\"https://peshkupauje.com/uploads/default/original/2X/b/b5fd5c9837da24b1f99a08a27038505f8e138f86.jpg\" class=\"thumbnail onebox-avatar\" width=\"200\" height=\"200\">\n\n<h3><a href=\"https://llafe.wordpress.com/2017/12/12/shot-pow/\" target=\"_blank\" rel=\"nofollow noopener\">Shot Pow</a></h3>\n\n<p>Aldush Babanin, pa arritur t’a mbaronte kafen e shtrydhur dhe të gjatë që porositi tek bari në kat të parë të ndërtesës pompoze në të cilën ishte vendosur stacioni televiziv në të cilin punonte, e …</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62656,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-12-28T18:10:08.970Z",
+      "cooked": "<p>oh hoo, ç’u 10-va tu qesh  <img src=\"https://peshkupauje.com/images/emoji/apple/laughing.png?v=5\" title=\":laughing:\" class=\"emoji\" alt=\":laughing:\">  tregimi kish - nga fillimi e deri ne fund - nje sens humori <img src=\"https://peshkupauje.com/images/emoji/apple/laughing.png?v=5\" title=\":laughing:\" class=\"emoji\" alt=\":laughing:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62679,
+      "post_number": 3,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2017-12-28T21:44:53.349Z",
+      "cooked": "<p>Aman o dere(bardhe), hiqi ato apostrofe nga “ma” dhe “ta” se na vrasin site.<br>\nTregimi shume aktual, muhabete shqiptare tipike, me te knaq, kishte goxha material te bukur, but pak i rremujshem, them se ka nevoje per riorganizim.<br>\nP.S: Sa per Ob-Gyn…gay s’behet fjale, madje ta garantoj jane raca me hot e mjekeve. <img src=\"https://peshkupauje.com/images/emoji/apple/radioactive.png?v=5\" title=\":radioactive:\" class=\"emoji\" alt=\":radioactive:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62681,
+      "post_number": 4,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-12-28T21:49:23.653Z",
+      "cooked": "<p>Me apostrof shkruhen se jane bashkim fjalesh.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 62683,
+      "post_number": 5,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2017-12-28T21:50:53.569Z",
+      "cooked": "<p>Perkufizim ishte ky gjembo? Bashkim fjalesh…ca note e ke pas gjuhen ne 8 vjeqare?</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 62684,
+      "post_number": 6,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-12-28T21:53:27.591Z",
+      "cooked": "<p>4.5</p>\n<p>Trajte e shkurter e bashkuar e peremrit.</p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    },
+    {
+      "id": 62685,
+      "post_number": 7,
+      "username": "Kthupi",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/k/3bc359/{size}.png",
+      "created_at": "2017-12-28T21:53:44.892Z",
+      "cooked": "<p>Kur jane trajta te shkurtra te bashkuara perdoret apostrofe. Ne rastet e tjera, jo.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62689,
+      "post_number": 8,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2017-12-28T21:59:41.041Z",
+      "cooked": "<p>Aquamarine<br>\nTet '16<br>\nAman si s’u lodhet me te njejtat muhabete. Meqe s’ra fjala, gjuha shqipe is too difficult to learn si drejtshkruhet apostrofi.<br>\nKe trajtat e shkurtra te peremrit vetor ma dhe ta mos vendosni apostrof. Ke peremri pyetes cfare don’t apostrophe, vetem kur ky i fundit shkurtohet si ne rastet: c’u be? c’ishte?<br>\nKe trajtat m’i, t’i, m’u, t’u…jes, vendosni apostrof.<br>\natij/asaj i + ate e = ia dhe jo “ja”; atij i + u = iu dhe jo “ju”. (Ja perdoret vetem per te thene ketu: Ja ku eshte peshku i vjeter, ja u regjistrove ke i riu) Ia dhurova asaj VQ-ne. Iu lutem Pjerit te vinte ke peshku i ri.<br>\nNeve na dhe, Juve ju…vetem per rasen dhanore. Emerore dhe kallzore jane “ne (na)” dhe “ju (ju)”.<br>\nNeve na dhuruan zemra ne koment (kujt? neve na). Ju ju sinjalizuan privatisht (ke? ju ju)<br>\nAdminet na cregjistruan ne nga peshku i vjeter (ke cregjistruan? Ne na).<br>\nJu nuk e dini c’vendim ka marre Pjeri. (kush: ju)…etj etj</p>\n<p>Na falni per mungesen e fantazise ne krijimin e fjalive, por e kisha me ngut.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62690,
+      "post_number": 9,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2017-12-28T22:04:22.820Z",
+      "cooked": "<p>Trajte e shkurter e bashkuar eshte edhe ma-ja edhe ta-ja (mua më + atë e dhe ty të + atë e), por nuk vendoset  ’ .</p>",
+      "reply_to_post_number": 7,
+      "like_count": 0
+    },
+    {
+      "id": 62700,
+      "post_number": 10,
+      "username": "Aquamarine",
+      "name": "Aquamarine",
+      "avatar_template": "/user_avatar/peshkupauje.com/aquamarine/{size}/11614_2.png",
+      "created_at": "2017-12-28T22:59:28.099Z",
+      "cooked": "<p>Shot pow…top show?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62851,
+      "post_number": 11,
+      "username": "vlora",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlora/{size}/51_2.png",
+      "created_at": "2017-12-30T13:29:33.919Z",
+      "cooked": "<p>Aldush Babani-Alban Dudushi</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

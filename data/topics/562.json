@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 562,
+    "title": "Meta: Lista të hapura zgjedhore dhe president të zgjedhur nga populli",
+    "slug": "meta-lista-te-hapura-zgjedhore-dhe-president-te-zgjedhur-nga-populli",
+    "category_id": 7,
+    "created_at": "2016-10-18T13:49:54.436Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 690,
+    "like_count": 0,
+    "word_count": 155
+  },
+  "posts": [
+    {
+      "id": 3353,
+      "post_number": 1,
+      "username": "Whitesnake",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/whitesnake/{size}/72_2.png",
+      "created_at": "2016-10-18T13:49:54.488Z",
+      "cooked": "<p><a href=\"http://www.gazetatema.net/web/2016/01/26/meta-propozon-lista-te-hapura-per-deputetet-te-kufizohen-biznesmenet/\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.gazetatema.net/web/2016/01/26/meta-propozon-lista-te-hapura-per-deputetet-te-kufizohen-biznesmenet/</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 3382,
+      "post_number": 2,
+      "username": "Br3dharaku",
+      "name": "Br3dh, br3dho...",
+      "avatar_template": "/user_avatar/peshkupauje.com/br3dharaku/{size}/6132_2.png",
+      "created_at": "2016-10-18T16:59:47.451Z",
+      "cooked": "<p>po normal o shoku, i ke bo llogarite me laps e <strong>bllok</strong> ne dore. Me 2 mije lek vota, as 1 milion dollaro nuk te duhen dhe zgjidhesh direkt president. Kurse deputetet e kane pazarin shume me lart sesa poplli barkthate. 1 milion s’te del as per nji prej tyre</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 3387,
+      "post_number": 3,
+      "username": "Whitesnake",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/whitesnake/{size}/72_2.png",
+      "created_at": "2016-10-18T17:19:57.877Z",
+      "cooked": "<p>PD dhe PS… e mbajne peng Shqiperine …e tratojne popullin si dele sepse nuk duan te balancojne dhe te ndajne pushtetet…nuk duan transparece te listave zgjedhore…Ka ardhur koha per ndryshime RRENJESORE ne legjistracion…Po flasim per koncepte …nuk ka rendesi fare kush parti e propozon…</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 3391,
+      "post_number": 4,
+      "username": "BeluliXVI",
+      "name": "Beluli-XVI",
+      "avatar_template": "/user_avatar/peshkupauje.com/belulixvi/{size}/241_2.png",
+      "created_at": "2016-10-18T17:32:32.512Z",
+      "cooked": "<p>hemm, prandaj po thosha une: nga e morren idene keta, qerratallaret, adminet e peshkut qe hapen rubriken: ‘‘Meta : propozime, diskutime per peshkun’’ ?!.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 3397,
+      "post_number": 5,
+      "username": "Whitesnake",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/whitesnake/{size}/72_2.png",
+      "created_at": "2016-10-18T17:45:57.011Z",
+      "cooked": "<p>Ky eshte vizioni i ri i peshkut …liri shprehje edhe mendimi per te gjithe …( DEBATI SJELL ZHVILLIM )…</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    }
+  ]
+}

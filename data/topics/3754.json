@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "id": 3754,
+    "title": "A ju kujton gjë kjo frazë mijra vjet e lashtë në situatën e sotme?",
+    "slug": "a-ju-kujton-gje-kjo-fraze-mijra-vjet-e-lashte-ne-situaten-e-sotme",
+    "category_id": 5,
+    "created_at": "2017-12-26T20:48:43.746Z",
+    "tags": [],
+    "posts_count": 5,
+    "views": 1433,
+    "like_count": 0,
+    "word_count": 183
+  },
+  "posts": [
+    {
+      "id": 62480,
+      "post_number": 1,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-12-26T20:48:43.834Z",
+      "cooked": "<blockquote>\n<p>Ti pikëllohesh për një bimë ricini që nuk arrite ta rritësh, që në një natë lindi e në një natë vdiq, po unë që duhet të kem mëshirë për Ninivën, një qytet i madh, në të cilin ka më tepër se njëqind e njëzetmijë njerëz, <em>që nuk të dinë dallojnë të djathtën e tyre nga e majta e tyre</em>, dhe një numër të madh kafshësh - Jona 4, 10.</p>\n</blockquote>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62497,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-12-27T02:09:44.491Z",
+      "cooked": "<p>Nje nga masakrat e johevoit?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 62503,
+      "post_number": 3,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-12-27T06:18:09.010Z",
+      "cooked": "<p>bravo, e gjete, te kujton masakren e munguar te “johevoit!” mbi injorantet e djathte ngambrapamoderne, qe per te shku djathtas (brimes ngambrapa), i bijne majtas!</p>\n<p>(edhe anasjelltas, qe te mos i mbetet hatri asnje feleje politike)</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 62580,
+      "post_number": 6,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2017-12-27T21:30:59.883Z",
+      "cooked": "<p>koment ne jutub:</p>\n<blockquote>\n<p>Hammer Bjj<br>\nstiamo annegando in un mare di merda e stiamo ancora a farci le pippe mentali su chi e cosa sia di destra o di sinistra, concetti coi quali ce lo hanno messo in culo per quasi 80 anni …</p>\n</blockquote>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 65479,
+      "post_number": 7,
+      "username": "Mi_Arkivash",
+      "name": "Mi Arkivash",
+      "avatar_template": "/user_avatar/peshkupauje.com/mi_arkivash/{size}/10033_2.png",
+      "created_at": "2018-02-02T15:57:45.876Z",
+      "cooked": "<p>analize perfekte e politikes moderniste.</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    }
+  ]
+}

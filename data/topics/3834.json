@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 3834,
+    "title": "Nuk e di kuj i duhej vdekja ime",
+    "slug": "nuk-e-di-kuj-i-duhej-vdekja-ime",
+    "category_id": 7,
+    "created_at": "2018-01-15T13:13:09.145Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 1618,
+    "like_count": 0,
+    "word_count": 70
+  },
+  "posts": [
+    {
+      "id": 64332,
+      "post_number": 1,
+      "username": "kapo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/kapo/{size}/4005_2.png",
+      "created_at": "2018-01-15T13:13:09.218Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/2X/a/a160a36e7b94a0a3c57f123aa8ccfada7d179a33.jpg\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://urimgjata.wordpress.com/2018/01/13/nuk-e-di-kuj-i-duhej-vdekja-ime/\" target=\"_blank\" title=\"06:59PM - 13 January 2018\" rel=\"nofollow noopener\">AL in Sweden. – 13 Jan 18</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:440/212;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/4/4f413a2516445b4a14bd8e2e89e02f2d5cf75600.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://urimgjata.wordpress.com/2018/01/13/nuk-e-di-kuj-i-duhej-vdekja-ime/\" target=\"_blank\" rel=\"nofollow noopener\">Nuk e di kuj i duhej vdekja ime.</a></h3>\n\n<p>Nga Konstadin Koliqi/Drejtor i SHIU_t. Problemi ishte se protestat nuk po përhapeshin, aq sa duhej në qytetet e tjera. Gjatë dhjetëditeshit të dytë të Shkurtit, bëhej thirrje për përhapjen e protes…</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 64367,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2018-01-15T18:47:16.131Z",
+      "cooked": "<p>Ngjarjet ne ate kohe i kemi ndjekur nga afer, nepermjet medias, njerzeve tane ne Vlore, gazetave qe percillnin çdo hollesi, por ajo qe me habiti ketu, ishte 3 fotot, me mbiemrin Hidri. ç’ne tre Hidri ne SHIK.  Di gje njeri, per kete problem.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 125838,
+      "post_number": 3,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2023-07-12T12:07:59.102Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/6/e/6e588fe6766dff770e5947dec8e6c0469fcf035d.jpeg\" alt=\"358112056_10219790277146791_4428057227337329496_n\" data-base62-sha1=\"fKagrpyDNKbOMePao0pYB4cyIlD\" width=\"592\" height=\"650\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 125839,
+      "post_number": 4,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2023-07-12T15:12:30.852Z",
+      "cooked": "<p><strong>RIP</strong></p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/1/6/16d94d5f146cebdfe6768867b732c71ff52ca1fd.jpeg\" alt=\"immagine\" data-base62-sha1=\"3g84tFAMZ5MCHD14TEdxJk5DXYN\" width=\"500\" height=\"640\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

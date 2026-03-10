@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 1059,
+    "title": "Mediat zbardhin herët opinionin e Venencias; Pro Vettingut",
+    "slug": "mediat-zbardhin-heret-opinionin-e-venencias-pro-vettingut",
+    "category_id": 7,
+    "created_at": "2016-12-07T14:47:17.422Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 630,
+    "like_count": 0,
+    "word_count": 222
+  },
+  "posts": [
+    {
+      "id": 12153,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-12-07T14:47:17.523Z",
+      "cooked": "<p><a href=\"http://m.top-channel.tv/lajme/artikull.php?id=342498&amp;kryesore\" class=\"onebox\" target=\"_blank\" rel=\"noopener\">http://m.top-channel.tv/lajme/artikull.php?id=342498&amp;kryesore</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12154,
+      "post_number": 2,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2016-12-07T14:51:16.476Z",
+      "cooked": "<p>Ja kete po pret  edhe Sali bajraktari. I beson dhe i mirepret gjithmone rekomandimet e eksperteve te Venecias pavaresisht se ne ndonje rast mund te jene edhe kunder opinionit te tij. Ay eshte demokrat i lindur dhe respekton regullat e lojes.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12167,
+      "post_number": 3,
+      "username": "kapo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/kapo/{size}/4005_2.png",
+      "created_at": "2016-12-07T17:03:04.702Z",
+      "cooked": "<p>…varet se ke portal shikon <img src=\"https://peshkupauje.com/images/emoji/apple/ghost.png?v=9\" title=\":ghost:\" class=\"emoji\" alt=\":ghost:\"></p>\n<p>Presidenti i Komisioni të Venecias: Nuk ka asnjë vendim për vetingun, kërkesa nuk është shqyrtuar</p>\n<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/4/432d5c44db2ef1e67da83989991d7d45398e2776.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/432d5c44db2ef1e67da83989991d7d45398e2776\" title=\"blob.jpg\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/4/432d5c44db2ef1e67da83989991d7d45398e2776.jpg\" width=\"800\" height=\"320\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/4/432d5c44db2ef1e67da83989991d7d45398e2776_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">blob.jpg</span><span class=\"informations\">900×361 46.4 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<p>12:59, 07/12/2016<br>\nPresidenti i Komisionit të Venecias, Gianni Buquicchio ka bërë të ditur se shqyrtimi i kërkesës së Gjykatës Kushtetuese për ligjin e vetingut në Shqipëri do të zhvillohet në datat 8 dhe 9 dhjetor.</p>\n<p>“Çështje të rëndësishme që kanë të bëjnë me Shqipërinë, Armeninë, Moldavinë, Marokunm Turqinë dhe Ukrainën në rendin e ditës në Komisionin e Venecias në 8-9 dhjetor”, shkruan Gianni Buquicchio në Twitter.</p>\n<p>Prej disa ditësh në media flitet se Komisioni i Venecias ka marrë vendim për këtë ligj, ndërsa ditën e sotme Report Tv deklaroi se Komisioni ka marrë vendim duke u shprehur se vetingu është në përputhje me Kushtetutën.</p>\n<p>Ndërkohë, që sipas njoftimit zyrtar të vet Presidentit të këtij komisioni, mbledhja do të mbahet më 8 dhe 9 dhjetor.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12177,
+      "post_number": 4,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2016-12-07T17:31:50.374Z",
+      "cooked": "<p>ca lidhje kemi ne me marokun dhe armenine?</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    }
+  ]
+}

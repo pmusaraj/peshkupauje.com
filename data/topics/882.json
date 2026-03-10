@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 882,
+    "title": "Romani me tematikë nga Kosova merr çmim letrar në Gjermani",
+    "slug": "romani-me-tematike-nga-kosova-merr-cmim-letrar-ne-gjermani",
+    "category_id": 7,
+    "created_at": "2016-11-21T16:24:04.106Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 665,
+    "like_count": 2,
+    "word_count": 18
+  },
+  "posts": [
+    {
+      "id": 9487,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-11-21T16:24:04.176Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"http://dialogplus.ch/en\">\n  <header class=\"source\">\n      <img src=\"http://dialogplus.ch/en/favicon.ico\" class=\"site-icon\" width=\"\" height=\"\">\n\n      <a href=\"http://dialogplus.ch/en\" target=\"_blank\" rel=\"noopener\">dialogplus.ch</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    \n\n<h3><a href=\"http://dialogplus.ch/en\" target=\"_blank\" rel=\"noopener\">This domain has been registered for a customer by nicsell</a></h3>\n\n  <p>This domain dialogplus.ch was registered successfully by nicsell due to a customer order and will be moved soon.</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 9488,
+      "post_number": 2,
+      "username": "peshkuikuq",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshkuikuq/{size}/289_2.png",
+      "created_at": "2016-11-21T16:28:07.746Z",
+      "cooked": "<p>Duket si reklamë  <em>ketchupi</em></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

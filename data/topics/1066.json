@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 1066,
+    "title": "Kur në Korçë u shpall “Pavarësia”",
+    "slug": "kur-ne-korce-u-shpall-pavaresia",
+    "category_id": 7,
+    "created_at": "2016-12-08T12:15:14.413Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 572,
+    "like_count": 2,
+    "word_count": 15
+  },
+  "posts": [
+    {
+      "id": 12244,
+      "post_number": 1,
+      "username": "Toska",
+      "name": "Baro Petro",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/22d042/{size}.png",
+      "created_at": "2016-12-08T12:15:14.483Z",
+      "cooked": "<p><a href=\"http://www.shekulli.com.al/p.php?id=537583\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.shekulli.com.al/p.php?id=537583</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 12518,
+      "post_number": 2,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2016-12-11T18:34:50.059Z",
+      "cooked": "<p>lumja ti, moj korce,  o lule</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

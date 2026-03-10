@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 3402,
+    "title": "A mund te gjej bileta per ndeshjen Shqiperi-Itali?",
+    "slug": "a-mund-te-gjej-bileta-per-ndeshjen-shqiperi-itali",
+    "category_id": 5,
+    "created_at": "2017-10-03T21:48:57.179Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 1385,
+    "like_count": 0,
+    "word_count": 81
+  },
+  "posts": [
+    {
+      "id": 54038,
+      "post_number": 1,
+      "username": "AdaGranger",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/eb9ed0/{size}.png",
+      "created_at": "2017-10-03T21:48:57.240Z",
+      "cooked": "<p>Pershendetje,</p>\n<p>doja te dija nese mendoni se ka ndonje shans per nje shqiptare mesatare si puna ime te siguroje ndonje bilete per ndeshjen Shqiperi - Itali, e cila luhet me 9 tetor. Provova te blija online por e disponueshme eshte vetem tribuna VIP ( jo, rrofsh!). Thuhet se me vone do te filloje shitja ne terren. Ku shiten zakonisht?</p>\n<p>Faleminderit nese pergjigjesh! <img src=\"https://peshkupauje.com/images/emoji/apple/slight_smile.png?v=5\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 54053,
+      "post_number": 2,
+      "username": "andri",
+      "name": "Silence is golden.",
+      "avatar_template": "/user_avatar/peshkupauje.com/andri/{size}/31_2.png",
+      "created_at": "2017-10-04T09:22:07.102Z",
+      "cooked": "<p>A post was merged into an existing topic: <a href=\"/t/diskutim-i-lire-tetor-2017/3394\">Diskutim i lirë - tetor 2017</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 54054,
+      "post_number": 3,
+      "username": "andri",
+      "name": "Silence is golden.",
+      "avatar_template": "/user_avatar/peshkupauje.com/andri/{size}/31_2.png",
+      "created_at": "2017-10-04T09:22:07.257Z",
+      "cooked": "",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

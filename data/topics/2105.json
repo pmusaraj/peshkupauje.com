@@ -1,0 +1,104 @@
+{
+  "meta": {
+    "id": 2105,
+    "title": "A mund te afrohen zgjedhjet parlamentare?",
+    "slug": "a-mund-te-afrohen-zgjedhjet-parlamentare",
+    "category_id": 5,
+    "created_at": "2017-04-07T22:36:30.202Z",
+    "tags": [],
+    "posts_count": 8,
+    "views": 776,
+    "like_count": 5,
+    "word_count": 219
+  },
+  "posts": [
+    {
+      "id": 26429,
+      "post_number": 1,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-04-07T22:36:30.270Z",
+      "cooked": "<p>E kam fjalen qe te behen te themi jo me 18 qershor por  me 4 qershor, pra 2 jave me perpara. Jo per gjo, por dua te iki me pushime ne gjysmen e dyte te qershorit ne Antalia.<br>\nOse a mund te votoj une qe ne daten 15 qershor?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 26436,
+      "post_number": 2,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-04-07T22:59:18.071Z",
+      "cooked": "<p>Kuazi, ti shko e ti gezosh pushimet, se votove apo jo hiç mos e rruj, e ka vendos Z. Basha me Z. Trump kete pune.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 26439,
+      "post_number": 3,
+      "username": "46and2",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/4/858c86/{size}.png",
+      "created_at": "2017-04-07T23:11:20.557Z",
+      "cooked": "<p>jo jo te rrije se duhet dikush tja shpjegoje z.President qe jemi republike parlamentare, se ai ngul kembe qe do e beje Bashen mbret</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 26441,
+      "post_number": 4,
+      "username": "jps",
+      "name": "jps",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/j/b4bc9f/{size}.png",
+      "created_at": "2017-04-07T23:15:21.246Z",
+      "cooked": "<p>Aleko - ik se cadren aty ku eshte do ta gjesh edhe kur te kthehesh. Rama behet mbret!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 26443,
+      "post_number": 5,
+      "username": "46and2",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/4/858c86/{size}.png",
+      "created_at": "2017-04-07T23:24:23.573Z",
+      "cooked": "<p>zeqo qysh kur i degjoi emrat u impresuonua ne meyre te vecante… Lulzim, le te lulzije jeta tha. Edi, jo jo tha se e di vete, nuk e di njeri me mire se une!!</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 26445,
+      "post_number": 6,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2017-04-07T23:38:41.325Z",
+      "cooked": "<p>Prit içik se ka rradhe puna, Basha KM si fillim, president Likja, Rama po i shpetoi burgut te jete i kenaqur me kaq, pastaj nese diskutohet per mbret i takon Pr Dr Z. Berisha.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 26472,
+      "post_number": 7,
+      "username": "Fikret",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/c2a13f/{size}.png",
+      "created_at": "2017-04-08T03:25:15.712Z",
+      "cooked": "<p>Pazari ka filluer nga pika me e larte z.Zeqo.<br>\nZ.Trump e do z.Mziu kryetar parlamenti</p>",
+      "reply_to_post_number": 6,
+      "like_count": 0
+    },
+    {
+      "id": 26489,
+      "post_number": 8,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-04-08T11:36:34.103Z",
+      "cooked": "<p>Te kene bythe keta i lene zgjedhjet me 5 gusht, kur tere refugjatet jane kthy per plazh</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 2033,
+    "title": "Eksperienca shqiptare në biznesin novator",
+    "slug": "eksperienca-shqiptare-ne-biznesin-novator",
+    "category_id": 7,
+    "created_at": "2017-03-29T07:57:50.540Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 618,
+    "like_count": 1,
+    "word_count": 146
+  },
+  "posts": [
+    {
+      "id": 25433,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-03-29T07:57:50.617Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://www.reporter.al/eksperienca-shqiptare-ne-biznesin-novator/\" target=\"_blank\" title=\"05:18PM - 27 March 2017\" rel=\"nofollow noopener\">reporter.al – 27 Mar 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:608/318;\"><img src=\"https://www.reporter.al/wp-content/uploads/Startup.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.reporter.al/eksperienca-shqiptare-ne-biznesin-novator/\" target=\"_blank\" rel=\"nofollow noopener\">Eksperienca shqiptare në biznesin novator - reporter.al</a></h3>\n\n<p>Njihni të rinjtë shqiptarë që eksperimentojnë me ide të reja për të ndërtuar biznese “startup”. Jetojmë në epokën e mendjes, ideve, atyre të thjeshta në dukje, por revolucionarizuese në përmbajtje. Ide, që vijnë edhe nga  mendjet e bukura të të...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25438,
+      "post_number": 2,
+      "username": "Bleta",
+      "name": "Bleta",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/ee59a6/{size}.png",
+      "created_at": "2017-03-29T09:59:29.979Z",
+      "cooked": "<p>Per fat te mire edhe ne kushte absurde mesimnxenie dhe  laboratorike, ka femije shqiptare te talentuar dhe qe vertetojne se nuk ndalohet dot deshira natyrale e njeriut per te nxene. Per fat te keq, ne momentin e perballjes me te verteten shqiptare, dhe keta jane pre e pamundesise per te zhvilluar talentin dhe promovuar idete e tyre ne barazi te plote dhe konkurrim te drejte. Per kete arsye shume studente qe mbarojne shkenca teknike e natyrore shkelqyer ikin sapo u jepet mundesia.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25439,
+      "post_number": 3,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-03-29T10:30:28.441Z",
+      "cooked": "<p>Inisiativa te tilla me pelqejne, megjithse e di veshtersine qe heqin ata te rinj, per te gjetur burime financimi. Qeveria e Rivdekjes, me falni Rilindjes, mund dhe duhet te beje me shume per keta te rinj.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 25446,
+      "post_number": 4,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-03-29T12:03:34.821Z",
+      "cooked": "<p>Europa e lindjes ben miliarda me informatike, por ne skemi shkolla qe te nxjerrin profesioniste</p>\n<p>Ne jemi vetem hakara</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

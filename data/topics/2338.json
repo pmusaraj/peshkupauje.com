@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 2338,
+    "title": "Ngrehina",
+    "slug": "ngrehina",
+    "category_id": 7,
+    "created_at": "2017-05-06T21:16:51.786Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 628,
+    "like_count": 0,
+    "word_count": 191
+  },
+  "posts": [
+    {
+      "id": 30506,
+      "post_number": 1,
+      "username": "Fikret",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/c2a13f/{size}.png",
+      "created_at": "2017-05-06T21:16:51.857Z",
+      "cooked": "<p><a href=\"http://www.mapo.al/2017/05/qiellgervishtesit-ne-tirane-ndertuesit-paralajmerojne-fllusken/1\" class=\"onebox\" target=\"_blank\" rel=\"nofollow noopener\">http://www.mapo.al/2017/05/qiellgervishtesit-ne-tirane-ndertuesit-paralajmerojne-fllusken/1</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 30519,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-05-07T03:30:30.758Z",
+      "cooked": "<p>te dhifsha dubain para tiranes</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 30521,
+      "post_number": 3,
+      "username": "Balzac",
+      "name": "Genti",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/b/4da419/{size}.png",
+      "created_at": "2017-05-07T05:05:34.127Z",
+      "cooked": "<p>Tregu imobilar nuk eshte i lehte per tu parashikuar sidomos ne nje treg te pamonitorishem si ne Tirane. Rreth kullave te reja ne bulevardin e ri, edhe pse Tirana ka plot ndertesa, besoj se per momentin eshte zona ideale dhe qe do i pershtatej ndertimit me dendesi te larte. Atyre gjithologeve analiste qe bertasin beton do ishte mire ti lene vendin urbanisteve te projektojne zhvillimin urban sipas planit te ri rregullues. Joni Baboci ka bere pune te mire ne kete drejtim ne bashkine e Tiraned.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 30525,
+      "post_number": 4,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-05-07T10:22:35.431Z",
+      "cooked": "<p>Artikulli ishte interesant, dhe perveç informacionit, kishte edhe pergjigjen e duhur <img src=\"https://peshkupauje.com/images/emoji/apple/blush.png?v=5\" title=\":blush:\" class=\"emoji\" alt=\":blush:\"></p>\n<p>\" … Në vend që të mendohet afatgjatë, po vijon të shkohet drejt rendjes afatshkurtër, drejt fitimeve të shpejta dhe shtimit të ofertës për pasuri të paluajtshme … \"</p>\n<p>Siç e thosh dhe artikulli, investitoret vendas, ne vend qe te investojne ne sektorin prodhues, ndonse me fitime te ulta por te sigurta,  po investojne ne sektorin apartamente+zyra, qe kane dhe rrezikun e humbjes se fitimeve, sepse do detyrohen ti shesin pastaj me çmimin e investimit ose edhe nen vlere.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

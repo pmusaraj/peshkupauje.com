@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 1482,
+    "title": "PS...nuk do lista zgjedhore te hapura",
+    "slug": "ps-nuk-do-lista-zgjedhore-te-hapura",
+    "category_id": 7,
+    "created_at": "2017-01-11T11:01:04.514Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 569,
+    "like_count": 0,
+    "word_count": 84
+  },
+  "posts": [
+    {
+      "id": 16151,
+      "post_number": 1,
+      "username": "Whitesnake",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/whitesnake/{size}/72_2.png",
+      "created_at": "2017-01-11T11:01:04.584Z",
+      "cooked": "<p><a href=\"http://shqiptarja.com/news.php?id_legami=228080\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">http://shqiptarja.com/news.php?id_legami=228080</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 16154,
+      "post_number": 2,
+      "username": "Toska",
+      "name": "Baro Petro",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/t/22d042/{size}.png",
+      "created_at": "2017-01-11T11:17:00.450Z",
+      "cooked": "<p>Kuptohet pse? Listat zgjedhore të hapura kufizojnë pushtetin e kryetarit të partisë. Ato të mbyllura dihet se janë drejtpërdrejtë zgjedhje e tij, janë shpërblim për ndihmën që i kanë dhënë kryetarit, jo partisë. Është kështu, ndaj ndodh që popullin e kanë përfaqesuar në parlament nga të dy krahët edhe banditë, ordiner, madje dhe vrasës e lloj-lloj nastradinash me e pa kapele</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 16171,
+      "post_number": 3,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-01-11T14:13:08.257Z",
+      "cooked": "<p>meta po i mat pulsin envines, i fusin me pas nje ngjale dhe bien dakord…</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

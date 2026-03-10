@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 5552,
+    "title": "FIKS",
+    "slug": "fiks",
+    "category_id": 15,
+    "created_at": "2020-07-19T21:22:47.680Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 989,
+    "like_count": 1,
+    "word_count": 304
+  },
+  "posts": [
+    {
+      "id": 111017,
+      "post_number": 1,
+      "username": "Arianit_Roshi",
+      "name": "Arianit Roshi",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e47c2d/{size}.png",
+      "created_at": "2020-07-19T21:22:47.763Z",
+      "cooked": "<p>Eshte fix ora per te filluar nje shi qe nuk ka rene kurre me pare. Nje shi qe mbjell vetmine ne rruget turbekulare, mbuluar me pluhur civilizimi, ambalazhe plot ngjyra … trishtim.<br>\nKush qendron mbas xhamave, qofshin keto edhe zhamat e nje moteli eshte frikacak. Nese guxoj dhe e them kete me ze te larte, e di qe rruget do te mbushen plote, me trupa qe hidhen nen rrebesh, kercejne ritmin e shiut, te zhveshur nga mendimet. Si ne nje lavatrice te madhe koha centrifugon. Fugon femijeri pantallona te shkurtra, fustane basme me lule, me sandale plastike.<br>\nNga qielli rigojne forma te tejzgjatura tingujsh. Fjalet nuk kane kuptim. Njeriu brenda meje dremit si qen. Cuditshem ndihem pjese e se gjithes. Cuditshem peshtyj, fershellej, humbas.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 111046,
+      "post_number": 2,
+      "username": "Arianit_Roshi",
+      "name": "Arianit Roshi",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e47c2d/{size}.png",
+      "created_at": "2020-07-21T18:58:11.719Z",
+      "cooked": "<p>ODISEA</p>\n<p>Burri me mjekrren e denduar, te zbardhur nga kripa e detit qe era ja kishte perplasur cdo dite fytyres, kishte mbeshtetur koken ne direkun e anijes, dhe bashke me te lekundej nga dallget e detit. Tej nga skaji tjeter i anijes, degjohej kenga e nje tjeter burri, qe nuk i intereson rrefimit tone. Ai kishte nje ze te rende. I rende ishte gjuha dhe veshtrimi i tij. Ne mes te anijes, me timonin shtreguar mes duarve te medha, qendronte nje burri i trete. Edhe ky me nje ze qe buciste, kendonte nje kenge te gezueshme, mbushur me harbimin eres, dhe lirine e detit. Mbi direk, ishte nje burri i katert. Ai nuk kendonte. Ai ulerinte plot ngasherima dhe si majmun i terbuar kercente sa ne nje direk ne tjetrin. Nje i peste burre, godiste me sa fuqi kishte nje daulle me lekure derri. Gjemonte diafragma e burrit te heshtur, gjemonte shpina e anijes dhe kubeja e qiellit.<br>\nRreth anijes, sirenat, me nje ze qe nuk degjohej, i kendonin burrit te heshtur nje kenge malli. Ne perendim endej shtegu i kthimit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

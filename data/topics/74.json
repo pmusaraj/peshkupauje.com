@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": 74,
+    "title": "NYT do të përdorë robotë për të moderuar komentet",
+    "slug": "nyt-do-te-perdore-robote-per-te-moderuar-komentet",
+    "category_id": 7,
+    "created_at": "2016-09-21T13:28:49.681Z",
+    "tags": [],
+    "posts_count": 1,
+    "views": 516,
+    "like_count": 0,
+    "word_count": 17
+  },
+  "posts": [
+    {
+      "id": 134,
+      "post_number": 1,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2016-09-21T13:28:49.797Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.nytimes.com/interactive/2016/09/20/insider/approve-or-reject-moderation-quiz.html?_r=2\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/3X/d/a/da724c3f80e17332490b1085c432b1179878755d.png\" class=\"site-icon\" width=\"48\" height=\"48\">\n\n      <a href=\"https://www.nytimes.com/interactive/2016/09/20/insider/approve-or-reject-moderation-quiz.html?_r=2\" target=\"_blank\" rel=\"noopener\" title=\"02:22PM - 20 September 2016\">nytimes.com – 20 Sep 16</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/532;\"><img src=\"https://peshkupauje.com/uploads/default/optimized/3X/2/6/26286ebd37f7911e9b152c255dfa66f10caa8967_2_800x532.jpeg\" class=\"thumbnail\" width=\"800\" height=\"532\" srcset=\"https://peshkupauje.com/uploads/default/optimized/3X/2/6/26286ebd37f7911e9b152c255dfa66f10caa8967_2_800x532.jpeg, https://peshkupauje.com/uploads/default/original/3X/2/6/26286ebd37f7911e9b152c255dfa66f10caa8967.jpeg 1.5x, https://peshkupauje.com/uploads/default/original/3X/2/6/26286ebd37f7911e9b152c255dfa66f10caa8967.jpeg 2x\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/3X/2/6/26286ebd37f7911e9b152c255dfa66f10caa8967_2_10x10.png\"></div>\n\n<h3><a href=\"https://www.nytimes.com/interactive/2016/09/20/insider/approve-or-reject-moderation-quiz.html?_r=2\" target=\"_blank\" rel=\"noopener\">Approve or Reject: Can You Moderate Five New York Times Comments? (Published...</a></h3>\n\n  <p>We’re partnering with Google to change the way we review the 11,000 comments posted each day to nytimes.com — and this is what we’re up against.</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

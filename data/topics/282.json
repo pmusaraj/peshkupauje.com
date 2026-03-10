@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 282,
+    "title": "Kryeministri në Opinion",
+    "slug": "kryeministri-ne-opinion",
+    "category_id": 7,
+    "created_at": "2016-10-03T12:20:01.742Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 574,
+    "like_count": 1,
+    "word_count": 108
+  },
+  "posts": [
+    {
+      "id": 946,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-10-03T12:20:01.818Z",
+      "cooked": "<div class=\"lazyYT\" data-youtube-id=\"b991z13sL5Y\" data-youtube-title=\"Opinion - Edi Rama! (29 shtator 2016)\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 969,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2016-10-03T13:51:29.764Z",
+      "cooked": "<p>se ka kollaj rama, eshte e lehte te lehesh per gjithcka kur je ne opozite, pasi shikon bardhe e zi. Tani qe shikon me ngjyra e ka te veshtire te tregohet burre e pranoje qe e ka pas gabim.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 985,
+      "post_number": 3,
+      "username": "plehraxhiu-i-kualifikuar",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/b38774/{size}.png",
+      "created_at": "2016-10-03T15:08:13.757Z",
+      "cooked": "<p>Video e sjelle nuk hapet sepse eshte nen te drejtat eksluzive te perhapjes se TV-Klan, thote njoftimi!!!.. Perse sillni vidio qe nuk hapen???..</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 1006,
+      "post_number": 4,
+      "username": "peshku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/peshku/{size}/15_2.png",
+      "created_at": "2016-10-03T16:01:42.217Z",
+      "cooked": "<p>Hmm, s’e dinim që TV Klani e kishte bllokuar këtë video për ne. Po mund ta <a href=\"https://www.youtube.com/watch?v=b991z13sL5Y&amp;feature=player_embedded\">shikoni në Youtube</a>.</p>\n<p>(Kush ka kohë me pa 2 orë intervistë, anyway…)</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    }
+  ]
+}

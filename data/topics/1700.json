@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 1700,
+    "title": "Saga Çiço.. edhe hashash",
+    "slug": "saga-cico-edhe-hashash",
+    "category_id": 7,
+    "created_at": "2017-02-04T15:35:07.611Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 680,
+    "like_count": 0,
+    "word_count": 16
+  },
+  "posts": [
+    {
+      "id": 19739,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-02-04T15:35:07.684Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"http://top-channel.tv/icons/android-icon-192x192.png\" class=\"site-icon\" width=\"192\" height=\"192\">\n      <a href=\"http://top-channel.tv/2017/02/04/saga-cico-edhe-hashash/\" target=\"_blank\" rel=\"nofollow noopener\">top-channel.tv</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:442/265;\"><img src=\"http://top-channel.tv/wp-content/uploads/2017/10/14862066731486070574hasanbegaj.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"http://top-channel.tv/2017/02/04/saga-cico-edhe-hashash/\" target=\"_blank\" rel=\"nofollow noopener\">Saga Çiço.. edhe hashash</a></h3>\n\n<p>Ndonëse vrasësit e tij nuk janë arrestuar ende, saga e Elton Çiços, i ekzekutuar gati një vit më parë, vijon të nxjerrë në dritë lidhje të tjera të dyshimta. Të paktën këtë e tregojnë arrestimet më të fundit të dy zyrtarëve të policisë, të cilët...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 19748,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2017-02-04T15:57:01.842Z",
+      "cooked": "<p>Do kete peshurrur jashte kavanozit çiçoja</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

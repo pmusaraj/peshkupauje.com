@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 3304,
+    "title": "Tirana do të testojë autobusët elektrikë",
+    "slug": "tirana-do-te-testoje-autobuset-elektrike",
+    "category_id": 7,
+    "created_at": "2017-08-29T06:58:42.271Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 748,
+    "like_count": 5,
+    "word_count": 118
+  },
+  "posts": [
+    {
+      "id": 50052,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-08-29T06:58:42.359Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://businessmag.al/wp-content/themes/bm/images/favicon_bm.jpg\" class=\"site-icon\" width=\"24\" height=\"24\">\n      <a href=\"https://businessmag.al/tirana-te-testoje-autobuset-elektrike/\" target=\"_blank\" title=\"12:18PM - 28 August 2017\" rel=\"nofollow noopener\">Business Magazine Albania – Media Dixhitale dedikuar Sipërmarrjes – 28 Aug 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:770/513;\"><img src=\"https://businessmag.al/wp-content/uploads/2017/08/solaris_urbino_12_electric-770x513.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://businessmag.al/tirana-te-testoje-autobuset-elektrike/\" target=\"_blank\" rel=\"nofollow noopener\">Tirana do të testojë autobusët elektrikë</a></h3>\n\n<p>Kryetari i Bashkisë së Tiranës, Erion Veliaj ka publikuar në Twitter lajmin se kryeqyteti do të testoj këtë vjeshtë autobusët elektrik.</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 50073,
+      "post_number": 2,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-08-29T13:21:13.208Z",
+      "cooked": "<p>shume gje e mire. shtim i transportit publik jeshil, shtim te hapesirave te gjelberta, krijimin e rugeve per bicikletat, vendosjen e parkimeve me pagese, kjo eshte rruga e duhur per te ulur ndotjen dhe rritur cilesine e te jetuarit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 50152,
+      "post_number": 3,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-08-29T16:36:18.888Z",
+      "cooked": "<p>tash vje palloshi<br>\nme libr n’dor<br>\nm’kan vjedh vizionin<br>\ntuj brtit<br>\n( vijon)</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 51397,
+      "post_number": 4,
+      "username": "Fin",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/f/96bed5/{size}.png",
+      "created_at": "2017-09-07T18:51:11.217Z",
+      "cooked": "<p>Tirana ka nevoje urgjente per metropolitane/subway po ce do qe aty, edhe po ti kishin fondet, e kane mendjen te vjedhin. Me pothuajse 1 milione banore nuk i dilet vetem me autobuze dhe meqe do ishin nentoke do shpopullonin dhe rruget ne oraret e pikut. Dy linja metroje qe ti bien kryq Tiranes do ishin ideale.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

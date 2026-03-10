@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 2945,
+    "title": "Ne Jemi Femije",
+    "slug": "ne-jemi-femije",
+    "category_id": 15,
+    "created_at": "2017-07-03T20:13:31.892Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 764,
+    "like_count": 3,
+    "word_count": 155
+  },
+  "posts": [
+    {
+      "id": 41050,
+      "post_number": 1,
+      "username": "xhatani",
+      "name": "xhatani",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/x/13edae/{size}.png",
+      "created_at": "2017-07-03T20:13:31.954Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/uploads/default/original/2X/d/dad5f422c54907afaba3804f07070461deb314c0.jpg\" width=\"720\" height=\"480\"></p>\n<p>Ne jemi femije,<br>\nNga ata qe rrine strukur ne lumturine e dhimbjes se perditshme.<br>\nMe faqe te cjerra,hunden e kuqe,floket kacube,me gishtat me gjak.</p>\n<hr>\n<p>Ne jemi mëditës.<br>\nNuk flasim shume ngaqe jemi te uritur.<br>\nRrime e presim prinderit cdo muzg.<br>\nAta kurre nuk na perqafojne.<br>\nAs veten.</p>\n<hr>\n<p>Ne jemi femije<br>\nNga ata femije,qe femijet e tjere i shohin nga rrjetat e lojrave me topa shumengjyresh.<br>\nNuk dime akoma asnje perralle.<br>\nKemi vetem nje vegim te degjuar copa-copa.<br>\nPer borebardhen dhe 7 xhuxhat,Pinokun,Hirushen dhe Harri Poter.<br>\nThone se ne fillim i vizatojne.<br>\nPastaj u veshin rroba te pastra,te bukura,qe ne fund ata t’na lumturojne.</p>\n<hr>\n<p>Ne jemi femije<br>\nDhe presim me padurim te zbardhe.<br>\nTe lind’ dielli.<br>\nQe me pas ne te fluturojme<br>\nNder dite te arta.</p>\n<hr>\n<p>Cerrik, 29 maj 2017.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 41115,
+      "post_number": 2,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2017-07-04T15:05:59.355Z",
+      "cooked": "<p>Dhimbshmerisht e bukur.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

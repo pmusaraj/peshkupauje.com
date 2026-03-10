@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 64,
+    "title": "Rreth kategorisë Shkencë",
+    "slug": "rreth-kategorise-shkence",
+    "category_id": 12,
+    "created_at": "2016-09-17T16:38:27.622Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 1383,
+    "like_count": 0,
+    "word_count": 58
+  },
+  "posts": [
+    {
+      "id": 101,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-09-17T16:38:27.682Z",
+      "cooked": "<p>Tema mbi të rejat nga fusha të ndryshme të shkencës. Postime që lidhen me zbulime, studime, hapësirën, avancimet teknologjike apo mjeksinë do të kategorizoheshin mirë këtu.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 113955,
+      "post_number": 2,
+      "username": "Mirejam_Tirana",
+      "name": "Mirëjam Tirana",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/a8b319/{size}.png",
+      "created_at": "2021-01-09T18:14:46.830Z",
+      "cooked": "<p>marremëndja nuk është vetëm simptomë e <a href=\"https://www.scienzenotizie.it/2021/01/07/rotazione-della-terra-nel-2020-laccelerazione-maggiore-mai-registrata-1842860?fbclid=IwAR1iAuKyIkXnMilPN6ftEyjAyjVIMizQkLxA6pYaJF2ZGxUV9SNWBIvMcJQ\" rel=\"noopener nofollow ugc\">koronës</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 127254,
+      "post_number": 3,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2025-01-28T15:51:12.750Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/images/emoji/apple/u7981.png?v=12\" title=\":u7981:\" class=\"emoji only-emoji\" alt=\":u7981:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/b/9/b96a4b0f5e1d565a66450e0bbc144acbddd4046f.jpeg\" alt=\"475800040_10228335299469576_8599468312866335934_n\" data-base62-sha1=\"qsg3YFGgVByMEKp01pyeGdSMMwL\" width=\"480\" height=\"528\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 730,
+    "title": "Paketa fiskale 2017. Të gjitha ndryshimet e taksave",
+    "slug": "paketa-fiskale-2017-te-gjitha-ndryshimet-e-taksave",
+    "category_id": 7,
+    "created_at": "2016-11-05T10:55:24.108Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 647,
+    "like_count": 0,
+    "word_count": 43
+  },
+  "posts": [
+    {
+      "id": 6180,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2016-11-05T10:55:24.192Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://www.monitor.al/paketa-fiskale-2017-te-gjitha-ndryshimet-e-taksave/\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/3X/8/9/893fe9898c0871566be9a83816796aeea06ff2a8.png\" class=\"site-icon\" width=\"32\" height=\"32\">\n\n      <a href=\"https://www.monitor.al/paketa-fiskale-2017-te-gjitha-ndryshimet-e-taksave/\" target=\"_blank\" rel=\"noopener\" title=\"07:10AM - 05 November 2016\">Revista Monitor – 5 Nov 16</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:254/190;\"><img src=\"https://peshkupauje.com/uploads/default/original/3X/4/5/450a66d1f746c30cfb13fa09b6a0c4dbd376ba47.jpeg\" class=\"thumbnail\" width=\"254\" height=\"190\"></div>\n\n<h3><a href=\"https://www.monitor.al/paketa-fiskale-2017-te-gjitha-ndryshimet-e-taksave/\" target=\"_blank\" rel=\"noopener\">Paketa Fiskale 2017: Të gjitha ndryshimet e taksave</a></h3>\n\n  <p>Rritje e akcizës për gazin e lëngshëm, heqje e rimbursimit të akcizës për peshkimin, dyfishim i akcizës për purot, ndryshim i bazës së referencave...</p>\n\n  <p>\n    <span class=\"label1\">Est. reading time: 7 minutes</span>\n  </p>\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 6186,
+      "post_number": 2,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2016-11-05T12:19:32.234Z",
+      "cooked": "<p>Na falni ju administrata e peshkut por lidhjet ekskluzive me Mapo- n i ka vetem njeri.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 6187,
+      "post_number": 3,
+      "username": "zeqo",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/zeqo/{size}/218_2.png",
+      "created_at": "2016-11-05T12:24:11.338Z",
+      "cooked": "<p>Monitorin deshe te thoshe!</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 6194,
+      "post_number": 4,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2016-11-05T13:58:30.103Z",
+      "cooked": "<p>Te dyja me M fillojne. Por ke te drejte per saktesimin.</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    }
+  ]
+}

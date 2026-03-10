@@ -1,0 +1,27 @@
+{
+  "meta": {
+    "id": 1966,
+    "title": "Zjarr i shuar në Bibliotekën Kombëtare",
+    "slug": "zjarr-i-shuar-ne-biblioteken-kombetare",
+    "category_id": 7,
+    "created_at": "2017-03-15T18:26:44.609Z",
+    "tags": [],
+    "posts_count": 1,
+    "views": 522,
+    "like_count": 0,
+    "word_count": 23
+  },
+  "posts": [
+    {
+      "id": 24178,
+      "post_number": 1,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2017-03-15T18:26:44.689Z",
+      "cooked": "<p><a href=\"http://www.m.lapsi.al/lajme/2017/03/15/masakra-me-librat-n-bibliotek-n-komb-tare-shikoni-kaosin-pas-zjarrit-video#.WMmGWZEo_qA\" class=\"onebox\" target=\"_blank\">http://www.m.lapsi.al/lajme/2017/03/15/masakra-me-librat-n-bibliotek-n-komb-tare-shikoni-kaosin-pas-zjarrit-video#.WMmGWZEo_qA</a></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

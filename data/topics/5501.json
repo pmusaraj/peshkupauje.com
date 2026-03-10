@@ -1,0 +1,38 @@
+{
+  "meta": {
+    "id": 5501,
+    "title": "Fabul 2 ( Cikli i xhungles) ",
+    "slug": "fabul-2-cikli-i-xhungles",
+    "category_id": 15,
+    "created_at": "2020-04-04T16:23:14.053Z",
+    "tags": [],
+    "posts_count": 2,
+    "views": 1017,
+    "like_count": 0,
+    "word_count": 284
+  },
+  "posts": [
+    {
+      "id": 109037,
+      "post_number": 1,
+      "username": "Arianit_Roshi",
+      "name": "Arianit Roshi",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/e47c2d/{size}.png",
+      "created_at": "2020-04-04T16:23:14.110Z",
+      "cooked": "<p>Burri lekur-bardhe, fshinte djerset ndersa ecte ne zheg. Me kujdes, burri perpiqej te zgjidhte rrugen duke kaluar gjithmone ne shtegun ku hija ishte me e dendur. Ndersa capitej pertueshem, enderronte veranden e shtepise ne breg te detit, nje got limonade te ftohte, dhe kredhjet ne pishine.<br>\nPikerisht ne kete moment, burri shtangu. Perballe tij kishte qendruar nje tiger i rritur, me shikimin shpues, dhe frymarrje buluruese.</p>\n<p>Tigri, e pa burrin qe kulloi djerse, shtangien e tij, dhe mendoi se ekzistenca e sendeve dhe e qenieve ishte shprehje e qellimeve, ndersa perseritja e tyre sipas nje rendi ne dukje te papercaktuar dhe kaotik, ishte thelbi I harmonise se botes.<br>\nNdryshe nga tigri, burri nuk mendonte asgje. I shtangur, ai kishte harruar te mbushej me fryme.</p>\n<p>Por Tigri nderkohe mendoi se gjithe kjo ishte liria me te cilen forcat e panjohura shprehin veten, i imponohen harmonise se pashkruar te ekzistences se sendeve dhe qenieneve. Tigrit ishte i bindur ne pamundesine e burrit  qe te kuptonte argumentin e tij, ndersa shihte se si dobesia e bente burrin, qellim te ketij mendimi, kaq te larte dhe unik.<br>\nDhe per ti provuar vetes se kishte te drejte, per te vertetuar se harmonia ishte pjese e nje rregulli te paqellimte  dhe te vetemjaftueshem, kerceu mbi burrin dhe e shqeu sakaq.</p>\n<p>Nje shpend, i cili ne ate cast fluturoi aty prane dhe pa gjithe skenen, u mahnit nga vertetsia e argumentit te Tigrit, I cili aq qarte ishte artikuluar ne ate kercim akrobatik dhe ne ate ngulje virtuzose te dhembeve ne qafen e burrit.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 109061,
+      "post_number": 2,
+      "username": "xhatani",
+      "name": "xhatani",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/x/13edae/{size}.png",
+      "created_at": "2020-04-05T07:56:45.719Z",
+      "cooked": "<p>Per nje cast edhe une u zhyta koke e kembe Tek pishina , limonada dhe shplodhja , por ce do SE ne Afrike Tigri eshte si cun lagje.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

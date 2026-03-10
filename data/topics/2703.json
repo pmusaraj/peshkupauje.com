@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "id": 2703,
+    "title": "Muzikë: Vitmar Basha - E imja dhe e jotja",
+    "slug": "muzike-vitmar-basha-e-imja-dhe-e-jotja",
+    "category_id": 11,
+    "created_at": "2017-06-09T17:02:04.910Z",
+    "tags": [
+      "muzikë",
+      "eimjadheejotja",
+      "vitmarbasha",
+      "muzikëshqiptare"
+    ],
+    "posts_count": 8,
+    "views": 2837,
+    "like_count": 2,
+    "word_count": 111
+  },
+  "posts": [
+    {
+      "id": 36564,
+      "post_number": 1,
+      "username": "bsalaj",
+      "name": "Blendi Salaj",
+      "avatar_template": "/user_avatar/peshkupauje.com/bsalaj/{size}/1491_2.png",
+      "created_at": "2017-06-09T17:02:04.990Z",
+      "cooked": "<p><div class=\"lightbox-wrapper\"><a class=\"lightbox\" href=\"https://peshkupauje.com/uploads/default/original/2X/9/9c33137b8c810d64177a8a9f707c3a5371d7e792.jpg\" data-download-href=\"https://peshkupauje.com/uploads/default/9c33137b8c810d64177a8a9f707c3a5371d7e792\" title=\"IMG_2815.jpg\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/9/9c33137b8c810d64177a8a9f707c3a5371d7e792.jpg\" width=\"799\" height=\"458\" data-small-upload=\"https://peshkupauje.com/uploads/default/optimized/2X/9/9c33137b8c810d64177a8a9f707c3a5371d7e792_2_10x10.png\"><div class=\"meta\">\n<svg class=\"fa d-icon d-icon-far-image svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#far-image\"></use></svg><span class=\"filename\">IMG_2815.jpg</span><span class=\"informations\">1199×687 70.3 KB</span><svg class=\"fa d-icon d-icon-discourse-expand svg-icon\" aria-hidden=\"true\"><use xlink:href=\"#discourse-expand\"></use></svg>\n</div></a></div></p>\n<div class=\"lazyYT\" data-youtube-id=\"6PLZeFG4Bz0\" data-youtube-title=\"Vitmar Basha - E imja dhe e jotja (Official Video)\" data-width=\"480\" data-height=\"270\" data-parameters=\"feature=oembed&amp;wmode=opaque\"></div>\n<p>Video Xhoana Thanasi, kinematografia Rezart Gurashi, në rol Shejla Domi, kostumet Ani Xhaxhiu.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 36566,
+      "post_number": 2,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2017-06-09T17:07:49.851Z",
+      "cooked": "<p>oh cu knoqa.  rrofsh blend</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 36639,
+      "post_number": 3,
+      "username": "Mimoza_llastica",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/mimoza_llastica/{size}/15437_2.png",
+      "created_at": "2017-06-10T01:14:03.719Z",
+      "cooked": "<p>Dicka e vecante ne krahasim me ato tallavate qe te cajne menderen. E kendshme si video <img src=\"https://peshkupauje.com/images/emoji/apple/slight_smile.png?v=5\" title=\":slight_smile:\" class=\"emoji\" alt=\":slight_smile:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 36851,
+      "post_number": 4,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2017-06-10T22:09:30.988Z",
+      "cooked": "<p>teksti ndihet paksa i sforcuar,<br>\nmuzika ndihet paksa e kopjuar,<br>\n(do te jete brittish/indie, ia del te jete italo-rock)<br>\nkendimi ndihet paksa i recituar,<br>\nooohoooo …<br>\nne teresi e pafrymezuar.</p>\n<p>gjithsesi, perpjekje e mire.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 36958,
+      "post_number": 5,
+      "username": "aleko",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/ce73a5/{size}.png",
+      "created_at": "2017-06-11T13:59:26.048Z",
+      "cooked": "<p>edhe mua nuk me ngjiti.</p>",
+      "reply_to_post_number": 4,
+      "like_count": 0
+    },
+    {
+      "id": 37067,
+      "post_number": 6,
+      "username": "Nika",
+      "name": "xhoana",
+      "avatar_template": "/user_avatar/peshkupauje.com/nika/{size}/4739_2.png",
+      "created_at": "2017-06-11T21:01:54.354Z",
+      "cooked": "<p>Faleminderit Blend</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 127454,
+      "post_number": 7,
+      "username": "Manjola_Tirana",
+      "name": "Arqi Pellagu",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/m/ba8739/{size}.png",
+      "created_at": "2025-05-31T06:02:47.420Z",
+      "cooked": "<p><img src=\"https://peshkupauje.com/images/emoji/apple/+1.png?v=12\" title=\":+1:\" class=\"emoji only-emoji\" alt=\":+1:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>\n<p><img src=\"https://peshkupauje.com/uploads/default/original/3X/f/1/f12c2ce2ec80e2fb79bcffbcd4bbd667ac6bc262.jpeg\" alt=\"505234824_1426064781855975_3731109152264725750_n\" data-base62-sha1=\"ypvImM6TGBvSXBOZjDaIPmQs146\" width=\"450\" height=\"800\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 127587,
+      "post_number": 8,
+      "username": "Tafuti",
+      "name": "Mee",
+      "avatar_template": "/user_avatar/peshkupauje.com/tafuti/{size}/23337_2.png",
+      "created_at": "2025-08-31T06:15:13.718Z",
+      "cooked": "<div class=\"youtube-onebox lazy-video-container\" data-video-id=\"V8Hr6S_uzCw\" data-video-title=\"TESTAMENT - Over The Wall (OFFICIAL MUSIC VIDEO)\" data-video-start-time=\"\" data-provider-name=\"youtube\">\n  <a href=\"https://www.youtube.com/watch?v=V8Hr6S_uzCw\" target=\"_blank\" class=\"video-thumbnail\" rel=\"noopener nofollow ugc\">\n    <img class=\"youtube-thumbnail\" src=\"https://peshkupauje.com/uploads/default/original/3X/8/7/8726a399e7856d1b577733ce412c3c386ac97bb7.jpeg\" title=\"TESTAMENT - Over The Wall (OFFICIAL MUSIC VIDEO)\" data-dominant-color=\"5C4946\" width=\"800\" height=\"450\">\n  </a>\n</div>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

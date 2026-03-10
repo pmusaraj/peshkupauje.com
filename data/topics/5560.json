@@ -1,0 +1,60 @@
+{
+  "meta": {
+    "id": 5560,
+    "title": "E shijoj zbardhjen",
+    "slug": "e-shijoj-zbardhjen",
+    "category_id": 15,
+    "created_at": "2020-08-01T20:16:57.435Z",
+    "tags": [],
+    "posts_count": 4,
+    "views": 1378,
+    "like_count": 0,
+    "word_count": 174
+  },
+  "posts": [
+    {
+      "id": 111177,
+      "post_number": 1,
+      "username": "xhatani",
+      "name": "xhatani",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/x/13edae/{size}.png",
+      "created_at": "2020-08-01T20:16:57.511Z",
+      "cooked": "<p>Veshtroni<br>\nJam i pari me dallendyshet qe mengjesin zgjoj.<br>\nJam ulur prane dritares, me cigaren, te vetmin shok qe cmoj.<br>\nE shijoj zbardhjen, si krim te erresires qe shkoi.<br>\nPer njerzit, te pafajshmit qe rruget pis do te bejne, e zhurma e kafes neper klube do ushtoj.<br>\nJam mbret i rrugeve qe cdo mengjes<br>\nTe njejten udhe pershkoj.</p>\n<p>Xha tani</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 111195,
+      "post_number": 2,
+      "username": "xhatani",
+      "name": "xhatani",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/x/13edae/{size}.png",
+      "created_at": "2020-08-02T08:30:22.116Z",
+      "cooked": "<p>\" e shijoj zbardhjen si krim te erresires qe shkoi \" edhe pse ka me shume se dy dekada qe eshte shkruar kjo poezi, serish vargun e siperpermendur nuk e deshifroj dot. Nuk di cfare ka dashtun te thote xha tani asokohe…<br>\nPardon te dashur lexues veror. Hera e pare qe me ndodh dicka e ketille.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 111196,
+      "post_number": 3,
+      "username": "korriku",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/korriku/{size}/18544_2.png",
+      "created_at": "2020-08-02T13:07:28.779Z",
+      "cooked": "<aside class=\"quote no-group\" data-username=\"xhatani\" data-post=\"1\" data-topic=\"5560\">\n<div class=\"title\">\n<div class=\"quote-controls\"></div>\n<img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/letter_avatar_proxy/v4/letter/x/13edae/48.png\" class=\"avatar\"> xhatani:</div>\n<blockquote>\n<p>E shijoj zbardhjen, si krim te erresires qe shkoi</p>\n</blockquote>\n</aside>\n<p>Per mendimin tim edhe pse pa shpjegimin specifik meqe ne pergjithesi zbardhja e dites vret erresiren e nates, prape shkon vetem se vihet re ca egzagjerim, po prape mire.<br>\nVjershe shume e mire <img src=\"https://peshkupauje.com/images/emoji/apple/star.png?v=12\" title=\":star:\" class=\"emoji\" alt=\":star:\" loading=\"lazy\" width=\"20\" height=\"20\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 111197,
+      "post_number": 4,
+      "username": "InkuizitoriMoth",
+      "name": "..... ......",
+      "avatar_template": "/user_avatar/peshkupauje.com/inkuizitorimoth/{size}/7035_2.png",
+      "created_at": "2020-08-02T13:11:22.800Z",
+      "cooked": "<aside class=\"quote\" data-post=\"2\" data-topic=\"5412\">\n  <div class=\"title\">\n    <div class=\"quote-controls\"></div>\n    <img loading=\"lazy\" alt=\"\" width=\"24\" height=\"24\" src=\"https://peshkupauje.com/user_avatar/peshkupauje.com/korriku/48/18544_2.png\" class=\"avatar\">\n    <a href=\"https://peshkupauje.com/t/me-dallandyshet/5412/2\">Me Dallandyshet !</a> <a class=\"badge-category__wrapper \" href=\"/c/letersi/15\"><span data-category-id=\"15\" style=\"--category-badge-color: #BBDEFB; --category-badge-text-color: #000000;\" data-drop-close=\"true\" class=\"badge-category \"><span class=\"badge-category__name\">Letërsi</span></span></a>\n  </div>\n  <blockquote>\n    e kishe sjelle kete me pare xhatani\n  </blockquote>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

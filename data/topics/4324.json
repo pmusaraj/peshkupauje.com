@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 4324,
+    "title": "Përballë makinerive që u morrën jetën",
+    "slug": "perballe-makinerive-qe-u-morren-jeten",
+    "category_id": 11,
+    "created_at": "2018-08-20T07:33:37.403Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 1121,
+    "like_count": 0,
+    "word_count": 148
+  },
+  "posts": [
+    {
+      "id": 76832,
+      "post_number": 1,
+      "username": "squarepusher",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/squarepusher/{size}/13677_2.png",
+      "created_at": "2018-08-20T07:33:37.493Z",
+      "cooked": "<aside class=\"onebox allowlistedgeneric\" data-onebox-src=\"https://kosovotwopointzero.com/adem-reka-dhe-ardit-gjoklaj-perballe-makinerive-qe-u-morren-jeten/\">\n  <header class=\"source\">\n      <img src=\"https://peshkupauje.com/uploads/default/original/2X/6/6e43db771ca3f73a31c22b2002eb726d0a99a90d.png\" class=\"site-icon\" data-dominant-color=\"E7E303\" width=\"115\" height=\"115\">\n\n      <a href=\"https://kosovotwopointzero.com/adem-reka-dhe-ardit-gjoklaj-perballe-makinerive-qe-u-morren-jeten/\" target=\"_blank\" rel=\"noopener\" title=\"09:07AM - 13 August 2018\">Kosovo 2.0 – 13 Aug 18</a>\n  </header>\n\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:695/325;\"><img src=\"https://peshkupauje.com/uploads/default/optimized/2X/7/7165af489d95423628c814d2b12503fb0489f943_2_800x375.jpeg\" class=\"thumbnail\" data-dominant-color=\"222223\" width=\"800\" height=\"375\"></div>\n\n<h3><a href=\"https://kosovotwopointzero.com/adem-reka-dhe-ardit-gjoklaj-perballe-makinerive-qe-u-morren-jeten/\" target=\"_blank\" rel=\"noopener\">Adem Reka dhe Ardit Gjoklaj përballë makinerive që u morrën jetën - Kosovo 2.0</a></h3>\n\n  <p>A janë përmirësuar të drejtat e punëtorëve në Shqipëri që nga regjimi i Hoxhës?</p>\n\n\n  </article>\n\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n\n  <div style=\"clear: both\"></div>\n</aside>\n\n<blockquote>\n<p>Me ndryshimin e sistemit politik dhe ekonomik, duket se kushtet e punës së punëtorëve nuk janë përmirësuar. Shfrytëzimi dhe vdekjet në vend të punës, vazhdojnë të jenë pjesë e jetës së përditshme. Veprimet e institucioneve duken të jenë të pasuksesshme në mbrotje të punëtorëve dhe 50 vite më vonë, fati i Adem Rekës ishte dhe i Ardit Gjoklaj.</p>\n</blockquote>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 76840,
+      "post_number": 2,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2018-08-20T19:29:44.643Z",
+      "cooked": "<p>njerez qe vdesin ne pune nga pakujdesia, ka patur, ka dhe do te kete gjithmone, pavaesisht nga sistemet apo regjimet.<br>\nne ate kohe, kohen e socializmit, e shfrytezonin vdekjen ne pune, per qellime nacionaliste/kombetare, thjesht per te rritur moralin e njerzeve, te mos demoralizoheshin  <img src=\"https://peshkupauje.com/images/emoji/apple/grinning.png?v=6\" title=\":grinning:\" class=\"emoji\" alt=\":grinning:\"></p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 76877,
+      "post_number": 3,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2018-08-22T01:45:40.510Z",
+      "cooked": "<p>fatalitete ne pune ka ne gjithe boten o erebara .ndertimi peshkimi lundrimi minierat etj jane profesione te rrezikshme .cfare rregullash sigurimi ne pune u shkelen ne rastin e Adem Rekes ?</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}

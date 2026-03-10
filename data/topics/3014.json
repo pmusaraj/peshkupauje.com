@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 3014,
+    "title": "Singularity u shty",
+    "slug": "singularity-u-shty",
+    "category_id": 7,
+    "created_at": "2017-07-12T17:33:59.574Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 695,
+    "like_count": 1,
+    "word_count": 153
+  },
+  "posts": [
+    {
+      "id": 42120,
+      "post_number": 1,
+      "username": "bulkthi",
+      "name": "Gazmend Butka",
+      "avatar_template": "/user_avatar/peshkupauje.com/bulkthi/{size}/154_2.png",
+      "created_at": "2017-07-12T17:33:59.642Z",
+      "cooked": "<p>Njeri ka shkruar ne analogji me librin e Ray Kurzweil \"<a href=\"https://en.wikipedia.org/wiki/The_Singularity_Is_Near\" rel=\"nofollow noopener\">Singularity po afron\"</a> nje tekst mbi ndikimin e teknologjise mbi Enri Fugen dhe imazhin virtual te Edi Rames. Teksti eshte humoristik por permban nje filozofi te tere mbi audiencen e sotme virtuale dhe ngre pikepyetje mbi vendndodhjen e pushtetit te sotem politik, fushen e betejave.</p>\n<p>Sipas Gramshit, nje filozof italian neo-marksist, fushe-beteja e ideve ishte ne shoqerine civile, dhe sot ajo ndodhet kryesisht online. Keshtu qe Rama &amp; Co. e kane zhvendosur betejen per zemrat dhe mendjet e shqiptareve ne Facebook.</p>\n<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <img src=\"https://i0.wp.com/peizazhe.com/wp-content/uploads/2016/05/cropped-PTF4-1.jpg?fit=32%2C32&amp;ssl=1\" class=\"site-icon\" width=\"32\" height=\"32\">\n      <a href=\"https://peizazhe.com/2017/07/11/singularity-u-shty/\" target=\"_blank\" title=\"12:41PM - 11 July 2017\" rel=\"nofollow noopener\">Peizazhe të fjalës – 11 Jul 17</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:600/386;\"><img src=\"https://i0.wp.com/peizazhe.com/wp-content/uploads/2017/07/Capture-bell.png?fit=600%2C386&amp;ssl=1\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://peizazhe.com/2017/07/11/singularity-u-shty/\" target=\"_blank\" rel=\"nofollow noopener\">SINGULARITETI U SHTY</a></h3>\n\n<p>nga Kapedani Kur kryeministri Mara drejtoi sytë për nga fjalimi i përgatitur, zgurdulloi sytë i habitur. Në të ish shkruar vetëm një fjalë: Djathë! Ktheu vështrimin e vrenjtur nga z. Gufa dhe pa fo…</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 42688,
+      "post_number": 2,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2017-07-15T12:24:46.272Z",
+      "cooked": "<p>Sa inaçor dhe ky Pjeri ! Per inat te Rames tani shkruan dhe kunder Gufes.</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 42716,
+      "post_number": 3,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2017-07-15T15:40:08.217Z",
+      "cooked": "<p>Vlonjato, nuk eshte shkrimi im, por mua me pelqeu shume <img src=\"https://peshkupauje.com/images/emoji/apple/grin.png?v=5\" title=\":grin:\" class=\"emoji\" alt=\":grin:\"> aq me teper qe ironizonte Palloshin.<br>\nKa mundesi qe autori te jete Bulkthi jone i Peshkut, ose Vehbiu i Peizazhe-s.</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    }
+  ]
+}

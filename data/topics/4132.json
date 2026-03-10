@@ -1,0 +1,82 @@
+{
+  "meta": {
+    "id": 4132,
+    "title": "Përgjimet e trafikantit të drogës ngrenë hije skandali mbi Prokurorinë",
+    "slug": "pergjimet-e-trafikantit-te-droges-ngrene-hije-skandali-mbi-prokurorine",
+    "category_id": 7,
+    "created_at": "2018-04-15T14:00:38.340Z",
+    "tags": [],
+    "posts_count": 6,
+    "views": 840,
+    "like_count": 1,
+    "word_count": 112
+  },
+  "posts": [
+    {
+      "id": 72625,
+      "post_number": 1,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2018-04-15T14:00:38.430Z",
+      "cooked": "<aside class=\"onebox whitelistedgeneric\">\n  <header class=\"source\">\n      <a href=\"https://www.reporter.al/pergjimet-e-trafikantit-te-droges-ngrene-hije-skandali-mbi-prokurorine/\" target=\"_blank\" title=\"04:42PM - 09 July 2016\" rel=\"nofollow noopener\">reporter.al – 9 Jul 16</a>\n  </header>\n  <article class=\"onebox-body\">\n    <div class=\"aspect-image\" style=\"--aspect-ratio:800/480;\"><img src=\"https://peshkupauje.com/uploads/default/original/2X/3/3d106d3ccc36189475ec65425f13398ffcf573d8.jpg\" class=\"thumbnail\"></div>\n\n<h3><a href=\"https://www.reporter.al/pergjimet-e-trafikantit-te-droges-ngrene-hije-skandali-mbi-prokurorine/\" target=\"_blank\" rel=\"nofollow noopener\">Përgjimet e trafikantit të drogës ngrenë hije skandali mbi Prokurorinë -...</a></h3>\n\n<p>Një bisedë telefonike e përgjuar e kreut të një organizate të trafikut të drogës, ku ai pohon se kishte paguar 150 mijë euro për transferimin e një prokurori të Krimeve të Rënda ngre pikëpyetje mbi vendimarrjen e institucioneve të drejtësisë dhe...</p>\n\n\n  </article>\n  <div class=\"onebox-metadata\">\n    \n    \n  </div>\n  <div style=\"clear: both\"></div>\n</aside>\n",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 72626,
+      "post_number": 2,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2018-04-15T14:12:53.277Z",
+      "cooked": "<p>Duhet shpallur amnisti per cdo kriminel qe ka pagu drejtesine, dhe shikoni sesi dalin tere tr palarat sheshit ne 24 ore</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 72637,
+      "post_number": 3,
+      "username": "Alba2265",
+      "name": "",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/a/85e7bf/{size}.png",
+      "created_at": "2018-04-15T17:10:52.733Z",
+      "cooked": "<p>Shqipot i vene flaken vendit per nje pagese 5 euro por prokurorit qe merr 150 mije euro rryshfet i thone “Te lumte bytha” apo “si mund te behem una apo djali e vajza ime prokuror?”</p>",
+      "reply_to_post_number": 2,
+      "like_count": 0
+    },
+    {
+      "id": 72639,
+      "post_number": 4,
+      "username": "varik",
+      "name": "varianti kohor",
+      "avatar_template": "/user_avatar/peshkupauje.com/varik/{size}/115_2.png",
+      "created_at": "2018-04-15T17:55:43.411Z",
+      "cooked": "<p>5 nje rruge e 5 n3 kthim, per cdo makine, ne nje vit sa bejne?</p>\n<p>Flaken te gjith maskarenjve</p>",
+      "reply_to_post_number": 3,
+      "like_count": 0
+    },
+    {
+      "id": 72641,
+      "post_number": 5,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2018-04-15T18:18:46.559Z",
+      "cooked": "<p>shkrimi qenka i 2016 gjembo, ç’ne tani,</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 72644,
+      "post_number": 6,
+      "username": "gjembi",
+      "name": "Gjembi",
+      "avatar_template": "/user_avatar/peshkupauje.com/gjembi/{size}/216_2.png",
+      "created_at": "2018-04-15T20:43:21.759Z",
+      "cooked": "<p>Meqe u shkarkua KPP i RSH. Ti s’na ke sjelle me shkrime per BQ.</p>",
+      "reply_to_post_number": 5,
+      "like_count": 0
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "meta": {
+    "id": 4007,
+    "title": "Bananeprurërsit i paguhet me rastin e parë",
+    "slug": "bananeprurersit-i-paguhet-me-rastin-e-pare",
+    "category_id": 7,
+    "created_at": "2018-03-10T13:14:04.337Z",
+    "tags": [],
+    "posts_count": 3,
+    "views": 821,
+    "like_count": 0,
+    "word_count": 137
+  },
+  "posts": [
+    {
+      "id": 69256,
+      "post_number": 1,
+      "username": "bulkthi",
+      "name": "Gazmend Butka",
+      "avatar_template": "/user_avatar/peshkupauje.com/bulkthi/{size}/154_2.png",
+      "created_at": "2018-03-10T13:14:04.411Z",
+      "cooked": "<p><a href=\"https://hashtag.al/index.php/2018/03/06/kush-ia-arkivoi-dosjen-cekajt-ne-2016-per-90-kg-kokaine/\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\">https://hashtag.al/index.php/2018/03/06/kush-ia-arkivoi-dosjen-cekajt-ne-2016-per-90-kg-kokaine/</a></p>\n<blockquote>\n<p>Mesditën e 22 dhjetorit 2015 pranë Kryesekretarisë së Prokurorisë për Krime të Rënda, Policia e Shtetit sjell një material referues për shtetasin Arbër Çekaj, pronar i kompanisë që importonte nga vendet e Amerikës latine banane. Në material ndër të tjera thuhej ‘se ne port është kapur një kontenier me banane brenda të cilit po me dysheme të modifikuar u gjetën 90 kilogramë kokainë dhe se kontenieri po vinte në Shqipëri për llogari të kompanisë së A.Çekajt’. Ky material u regjistrua në prokurori me numër protokolli 12041 dhe 12041/1 për rastin në fjalë.</p>\n</blockquote>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 69260,
+      "post_number": 2,
+      "username": "Vlonjat",
+      "name": "",
+      "avatar_template": "/user_avatar/peshkupauje.com/vlonjat/{size}/25_2.png",
+      "created_at": "2018-03-10T14:52:43.746Z",
+      "cooked": "<p>Aaaaa te lutem… ne nuk kemi degjuar krisma… por edhe po ka patur, ato kane qene larg!</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    },
+    {
+      "id": 69261,
+      "post_number": 3,
+      "username": "Pjer",
+      "name": "Pjer Thomas",
+      "avatar_template": "/letter_avatar_proxy/v4/letter/p/ecb155/{size}.png",
+      "created_at": "2018-03-10T15:10:34.579Z",
+      "cooked": "<p>artikulli nuk del,  sillni noi version tjeter</p>",
+      "reply_to_post_number": null,
+      "like_count": 0
+    }
+  ]
+}
